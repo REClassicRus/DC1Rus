@@ -20,7 +20,7 @@
 {$1000}{$2000}{$103C}
 6
 {$1001}{$2000}\nResearcher's journal.\n{--}\nWill you read the file?\n{$0800}
-{$1001}{$2000}Журнал ученого.\n{--}\nВы прочитаете файл?\n{$0800}
+{$1001}{$2000}Журнал учёного.\n{--}\nПрочитать файл?\n{$0800}
 104
 {$9000}Since I was assigned to this\ndepartment, all I've done is\nsample the simulation data of\nthe Generator. Even a college\nstudent could handle these\ntasks. Why doesn't Kirk want\nus to operate the Generator?\nDoesn't he trust our ability\nand skill?\n                    Written by: O\n{$9000}To O,\n\nI don't think the problem is\nso simple. Because his ID Card\nis required to operate the\nGenerator, once an accident\noccurs, Kirk is the only\nperson who can stop it.\n\n\n{$9000}\nI don't see what the military\nis planning to do with this\nconniving nonsensical\nprocedure...\n\n                    Written by: N\n\n\n\n{$9000}I have an idea. It's about\nthat guy Tom who was recently\nassigned to the B1 area.\nHe often comes to me to ask\nabout our job...\nI guess he can't resist my\ncharming personality.\n\n\n{$9000}\nWhy don't we invite him into\nour group and have him spy on\nDr. Kirk? This should work as\nhe is good at gaining the\nconfidence of other people.\n\n                    Written by: B\n\n\n{$9000}To B,\n\nDon't be so simpleminded.\nHave you already forgotten\nhow you'd been trying to get\nKirk's attention until\nrecently? Learn to think a\nbit more logically first.\n\n\n{$9000}At any rate, the male\nresearchers here don't seem\nto know much of anything\nbeyond research. Maybe you\nought to try showing the\nnext one you become close\nfriends with the wonders of\nshampoo and the washing\nmachine.\n                    Written by: C\n{$9000}
 {$9000}С тех пор как я работаю в этом\nдепартаменте, все, что я делал,\nэто испытывал данные\nгенератора. Даже студент\nможет справиться с подобной\nзадачей. Почему Кирк не хочет,\nчтобы мы управляли генератором?\nОн не верит в наши способности?\n                 Написано: О\n{$9000}К О,\n\nНе думаю, что проблема проста.\nДля управления генератором\nтребуется карта, и если что\nпроизойдет, Кирк будет\nединственным, кто сможет\nостановить его.\n\n{$9000}\nНе понимаю, что военные\nсобираются делать с этой\nбессмысленной процедурой...\n\n                 Написано: Н\n\n\n\n{$9000}У меня есть идея. Это насчет\nтого парня, Тома, которого\nнедавно приписали к зоне B1.\nОн часто спрашивает меня о\nнашей работе...\nДумаю, я ему просто нравлюсь.\n\n\n{$9000}\nПочему бы нам не пригласить\nего в нашу группу и не\nзаставить шпионить за Кирком?\nЭто должно сработать, он умеет\nвтираться в доверие к людям.\n\n                 Написано: Б\n\n\n{$9000}К Б,\n\nНе будь такой глупой.\nТы не забыла, как еще недавно\nпыталась привлечь внимание\nдоктора Кирка?\nКогда ты научишься хоть немного\nлогически мыслить?\n\n\n{$9000}В любом случае, ученые-\nмужчины здесь, похоже, не\nдумают ни о чем, кроме\nисследований. Возможно, вам\nследует попытаться познакомить\nваших друзей с чудесами шампуня\nи стиральной машины.\n                 Написано: С\n{$9000}
@@ -32,7 +32,7 @@
 {$1001}{$2000}Основной пульт генератора.\nЕго нельзя использовать, \n{--}\nпоскольку он находится под \n"системным замком". 
 234
 {$1001}{$2000}The main console that\ncontrols the Generator.\n{--}\nWill you operate it?\n{$0800}
-{$1001}{$2000}Главный пульт, который\nуправляет генератором.\n{--}\nВы будете управлять?\n{$0800}
+{$1001}{$2000}Главный пульт, который\nуправляет генератором.\n{--}\nИспользовать его?\n{$0800}
 144
 {$1001}{$2000}\nNo response.
 {$1001}{$2000}\nНет ответа. 

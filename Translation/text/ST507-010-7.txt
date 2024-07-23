@@ -1,11 +1,11 @@
 {$1001}{$2000}A file of the messages\nfrom Dr. Kirk to the\n{--}\nstaff. They appear to have\nbeen distributed to each\n{--}\nsection prior to the\nexperiment.\n{--}\nWill you read the file?{$0800}
-{$1001}{$2000}Файл сообщений\nот доктора Кирка сотрудникам\n{--}\nПохоже, их разослали\nпо всем секциям \n{--}\nв преддверие эксперимента.\n{--}\nВы прочитаете файл?{$0800}
+{$1001}{$2000}Файл сообщений\nот доктора Кирка сотрудникам\n{--}\nПохоже, их разослали\nпо всем секциям \n{--}\nв преддверие эксперимента.\n{--}\nПрочитать файл?{$0800}
 322 273504
 {$9000}\nNotice:\nPreparing the Stabilizer and\nthe Initializer\n\nMake sure these two devices\nare ready in time for the\nexperiment.\n\n\n{$9000}Each of these two devices\nconsist of the following three\nparts.\n\n Core Parts\n Protect Part A\n Protect Part B\n\nThis means six parts are\nneeded in all.\n{$9000}These parts are separately\nstored in the Experiment\nRoom, the Design Room\nand the Parts Storage Room.\nOnce you have acquired all\n6 parts, you can assemble\nthem in the Experiment Room.\nThe Weightless Manipulator\nmust be operated by staff of\nlevel A class.\n{$9000}
-{$9000}\nЗамечание:\nПодготовка Стабилизатора и\nСтартера.\n\nУбедитесь, что эти устройства\nготовы к эксперименту.\n\n\n{$9000}Каждое из этих устройств\nсостоит из следующих трех\nчастей.\n\nОсновные части\nЗащитная часть А\nЗащитная часть В\nЭто означает, что\nнеобходимы все части.\n{$9000}Они хранятся по\nотдельности в комнате\nэкспериментов, комнате\nпроектирования и хранилище.\nКогда вы получите все \n6 частей, соберите их в\nкомнате экспериментов.\nНевесомый Манипулятор\nдолжен управляться\nсотрудниками класса А.\n{$9000}
+{$9000}\nЗамечание:\nПодготовка Стабилизатора и\nСтартера.\n\nУбедитесь, что эти устройства\nготовы к эксперименту.\n\n\n{$9000}Каждое из этих устройств\nсостоит из следующих трех\nчастей.\n\nОсновные части\nЗащитная часть А\nЗащитная часть В\nВидимо, необходимы\nвсе части.\n{$9000}Они хранятся по\nотдельности в комнате\nэкспериментов, комнате\nпроектирования и хранилище.\nКогда вы получите все \n6 частей, соберите их в\nкомнате экспериментов.\nНевесомый Манипулятор\nдолжен управляться\nсотрудниками класса А.\n{$9000}
 1064
 {$1001}{$2000}A DDK device. The symbol\n"D" is inscribed.\n{--}\nWill you set the DDK?{$0800}
-{$1001}{$2000}Устройство ЭК.\nНа нем написан символ "D".\n{--}\nВы установите ЭК? {$0800}
+{$1001}{$2000}Устройство ЭК.\nНа нем написан символ "D".\n{--}\nУстановить ЭК? {$0800}
 138
 {$1001}{$2000}The lock has already been \nreleased.
 {$1001}{$2000}Замок уже открыт.
@@ -13,17 +13,17 @@
 {$1001}{$2000}A Key Card Lv. A is required to \nopen the door.
 {$1001}{$2000}Для открытия двери необходима\nкарта класса А.
 98
-{$1001}{$2000}A small wiretapping \ndevice. It appears to have\n{--}\n\nsomething recorded on it.\n{--}\nWill you play the recorded\nsound?{$0800}
-{$1001}{$2000}Небольшое подслушивающее\nустройство.\n{--}\nПохоже, на нем надпись.\n{--}\nВы проиграете записанный звук? {$0800}
+{$1001}{$2000}A small wiretapping device. It\nappears to have something\n{--}\n\nrecorded on it.\n{--}\nWill you play the recorded\nsound?{$0800}
+{$1001}{$2000}Небольшое подслушивающее\nустройство.\n{--}\nПохоже, на нём есть\n{--}\n\nаудиозапись.\n{--}\nВоспроизвести аудиозапись? {$0800}
 230
-{$1001}{$2000}The combination of the beeping \nsounds at the end of the \n{--}\nconversation is...?
-{$1001}{$2000}Какой-то писк в конце\nбеседы - это?..
+{$1001}{$2000}The combination of the beeping \nsounds at the end of the\n{--}\nconversation is...?
+{$1001}{$2000}В конце разговора комбинация\nиз звуковых сигналов -\n{--}\что это?..
 162
 {$1001}{$2000}Will you operate the terminal?{$0800}
-{$1001}{$2000}Будете управлять терминалом?{$0800}
+{$1001}{$2000}Управлять терминалом?{$0800}
 66
 {$1001}{$2000}The "Planning Disc" is required to \noperate this terminal.
-{$1001}{$2000}Чтобы управлять этим терминалом,\nнужен планировочный диск.
+{$1001}{$2000}Для управления этим терминалом,\nнужен планировочный диск.
 120
 {$1001}{$2000}A high security safe. The red \nindicator indicates that this safe \n{--}\nis not functioning.
 {$1001}{$2000}Сейф повышенной безопасности.\nКрасный индикатор показывает, \n{--}\nчто он не работает.
@@ -38,13 +38,13 @@
 {$1001}{$2000}Ничего.
 38
 {$1001}{$2000}You must activate the Generator \nfirst...
-{$1001}{$2000}Вы должны активировать \nгенератор...
+{$1001}{$2000}Необходимо активировать \nгенератор...
 86
 {$1001}{$2000}Will you try again?\n{$0800}
-{$1001}{$2000}Попробуете снова?\n{$0800}
+{$1001}{$2000}Попробовать снова?\n{$0800}
 46
 {$1001}{$2000}A small wiretapping device is set \nup here. The battery has \n{--}\nbecome too weak to play it.
-{$1001}{$2000}Здесь стоит подслушивающее \nустройство.\n{--}\nБатарейка села и оно не\nработает.
+{$1001}{$2000}Здесь стоит подслушивающее \nустройство. Батарейка\n{--}\nсела и оно не работает.
 184
 {$1000}{$2000}{$106E}
 {$1000}{$2000}{$106E}

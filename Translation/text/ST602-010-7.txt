@@ -1,5 +1,5 @@
 {$1001}{$2000}It looks like a staff memo.\n{--}\nWill you read the memo?\n{$0800}
-{$1001}{$2000}Записка для персонала.\n{--}\nВы прочитаете записку?\n{$0800}
+{$1001}{$2000}Записка для персонала.\n{--}\nПрочитать записку?\n{$0800}
 114 94224
 {$9000}\nAttention: Alan\n\nThe weapon container at the\nGeneral Weapon Storage will be\ncarried out from the port next\nweek. Please finish the\nmaintenance of the crane\nwithin the week.\n\n{$9000}\n\n\n I will hand you the DDK\nto enter the port\nso that you can finish the\njob. Make sure that you keep\nit on you at all times.\n\n\n\n{$9000}
 {$9000}\nВнимание: Алан\n\nКонтейнер с оружием в основном\nоружейном хранилище будет\nвынесен из порта на следующей\nнеделе. Пожалуйста закончи\nремонт крана в течение недели.\n\n{$9000}\n\nЯ передам тебе ЭК для открытия\nпорта чтобы ты смог завершить\nработу. Смотри, чтобы он\nвсегда был при тебе.\n\n\n{$9000}

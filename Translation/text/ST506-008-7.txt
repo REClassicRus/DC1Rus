@@ -8,16 +8,16 @@
 {$1001}{$2000}Вы вставили ключевой чип.
 62
 {$1001}{$2000}Will you take the key chip?{$0800}
-{$1001}{$2000}Хотите взять ключевой чип?{$0800}
+{$1001}{$2000}Взять ключевой чип?{$0800}
 60
 {$1001}{$2000}Will you overwrite the data of \nthe key chips?{$0800}
-{$1001}{$2000}Хотите перезаписать данные \nключевых чипов?{$0800}
+{$1001}{$2000}Перезаписать данные \nключевых чипов?{$0800}
 98
 {$1001}{$2000}The number you entered is not \nvalid.
-{$1001}{$2000}Введенный номер не верен.
+{$1001}{$2000}Введённый номер не верен.
 78
 {$1001}{$2000}"The number has been \nconfirmed."\n{--}\n"The magnetic pattern data for \n0392 is being displayed."\n{--}\n"Please overwrite the magnetic \npattern of the key chips \n{--}\ncorrectly."
-{$1001}{$2000}"Номер подтвержден."\n{--}\nПоказаны данные магнитной \nструктуры 0392.\n{--}\nПожалуйста, правильно \nперезапишите структуру чипа.
+{$1001}{$2000}"Номер подтвержден".\n{--}\nПоказаны данные магнитной \nструктуры 0392.\n{--}\nПожалуйста, правильно \nперезапишите структуру чипа.
 338
 {$1001}{$2000}You have removed the key chips.
 {$1001}{$2000}Вы вытащили ключевые чипы.
@@ -26,31 +26,31 @@
 {$1001}{$2000}Ключевой чип уже вставлен.
 68
 {$1001}{$2000}You have taken out the \noverwritten key chips from the \n{--}\nslot.
-{$1001}{$2000}Вы вытащили перезаписанные \nключевые чипы из разъема.
+{$1001}{$2000}Вы вытащили из разъёма\nперезаписанные ключевые{--}\nчипы.
 130
 {$1001}{$2000}A device that can rewrite the \ndata of an ID Card. The staff \n{--}\nassigned to the B2 floor and B3 \nfloor have their ID data \n{--}\nregistered in this terminal. To \nrewrite the data, you need an ID \n{--}\nCard.
-{$1001}{$2000}Устройство записи информации\nна личную карточку. Персонал, \n{--}\nработающий на этажах B2 и B3,\nхранят свои данные в этом\n{--}\nтерминале. Чтобы записать\nданные, нужна личная карта.
+{$1001}{$2000}Устройство записи информации\nна личную карточку. Персонал, \n{--}\nработающий на этажах B2 и B3,\nхранят свои данные в этом\n{--}\nтерминале. Чтобы записать\nданные, нужна личная карта ID.
 402
 {$1001}{$2000}"Initiating card data rewriting \nsequence."
-{$1001}{$2000}"Начало операции перезаписи \nкарточки."
+{$1001}{$2000}"Начало операции перезаписи \nкарточки".
 90
 {$1001}{$2000}"The registration number entered \nis not valid."
-{$1001}{$2000}"Введенный номер регистрации\nне верен."
+{$1001}{$2000}"Введённый номер регистрации\nне верен".
 100
 {$1001}{$2000}"The registration number has \nbeen verified." "Please input the \n{--}\nfingerprint data."\n{--}\nWill you enter the fingerprint \ndata?{$0800}
-{$1001}{$2000}Номер регистрации\nподтвержден. Введите данные\n{--}\nотпечатков.\n{--}\nБудете вводить данные \nотпечатков? {$0800}
+{$1001}{$2000}Номер регистрации\nподтвержден. Введите данные\n{--}\nотпечатков.\n{--}\nВвести данные отпечатков?\n {$0800}
 256
 {$1001}{$2000}"The fingerprint data you entered \ndoes not match the personnel \n{--}\nregistration number."
-{$1001}{$2000}Введенные отпечатки не\nсоответствуют номеру\n{--}\nрегистрации сотрудника.
+{$1001}{$2000}Введенные отпечатки не\nсоответствуют регистрации\n{--}\nномера сотрудника.
 180
 {$1001}{$2000}"Accessing the requested \ndata..."{$0100}
 {$1001}{$2000}"Получение запрошенных данных..."{$0100}
 74
 {$1001}{$2000}"The card data has been \nrewritten."
-{$1001}{$2000}"Данные на карте перезаписаны."
+{$1001}{$2000}"Данные на карте перезаписаны".
 76
 {$1001}{$2000}"Section: Third Energy\nLaboratory"\n{--}\n"ID: Supervisor, Edward \nKirk"\n{--}\nWill you overwrite\nthe card data?{$0800}
-{$1001}{$2000}Отдел: лаборатория\nТретьей Энергии\n{--}\n"Руководитель, Эдвард Кирк"\n{--}\nХотите перезаписать данные\nкарты?{$0800}
+{$1001}{$2000}Отдел: лаборатория\nТретьей Энергии\n{--}\n"Руководитель, Эдвард Кирк"\n{--}\nПерезаписать данные\nкарты?{$0800}
 212
 {$1001}{$2000}You don't have any data to \nenter.
 {$1001}{$2000}У вас нет данных для ввода.
@@ -73,11 +73,11 @@
 {$1001}{$2000}A device that detects firearms. \nThe form of the weapon will be \n{--}\nprojected onto the screen.
 {$1001}{$2000}Устройство обнаружения оружия. \nОружие отображается на экране.
 190
-{$1001}{$2000}You don't need to operate this \nanymore.
+{$1001}{$2000}I don't need to operate this \nanymore.
 {$1001}{$2000}Мне больше не нужно это\nиспользовать.
 84
 {$1001}{$2000}A DDK device. The symbol "S" is \ninscribed.\n{--}\nWill you set the DDK?{$0800}
-{$1001}{$2000}Устройство ЭК.\nИзображен символ "S". \n{--}\nХотите вставить ЭК? {$0800}
+{$1001}{$2000}Устройство ЭК.\nИзображен символ "S". \n{--}\nВставить ЭК? {$0800}
 140
 {$1001}{$2000}The lock has already been \nreleased.
 {$1001}{$2000}Замок уже открыт.
@@ -95,13 +95,13 @@
 {$1001}{$2000}Запись
 26
 {$1001}{$2000}A file of notice messages.\n{--}\nWill you read the file?{$0800}
-{$1001}{$2000}Файл с записками. \n{--}\nХотите прочитать?{$0800}
+{$1001}{$2000}Файл с записками. \n{--}\nПрочитать его?{$0800}
 110
 {$9000}Since we are going to move the\nexperimental Generator outside\ntoday, we expect to see \nexternal staff within the test\narea.\nAs a final reminder, if the\n"overload" occurs in this\nlaboratory, it will mean the\nobliteration of the entire\nfacility.\n{$0100}{$9000}If you don't want to be\nevaporated, guard the area\nwith extreme caution today.\nThe staff has been working\ndouble overtime recently.\nDr. Kirk in particular has\nlocked himself in his private\nquarters for nearly a week.\nNobody has seen him.\n{$0100}{$9000}Take good care of the\nresearchers and remember\nthat the experiment's success\ndepends upon their ability\nto think.\nRecently the credibility gap of\nDr. Kirk has been varied among\nthe staff.\n{$0100}{$9000}Keep your eyes on the ID\nRewriting Device here to\nprevent illicit use.\nThere has been an instance of\nsomeone abusing the Rewriting\nDevice on the first floor.\nKeep your eyes open.\n{$9000}
 {$9000}В связи с тем, что мы хотим\nпереместить экспериментальный\nгенератор наружу, весь персонал\nдолжен находиться в тестовой\nзоне.\nПоследнее напоминание, если\nперегрузка случится в этой\nлаборатории, весь комплекс\nбудет стерт с лица земли.\n{$0100}{$9000}Если вы не хотите испариться,\nмаксимально тщательно охраняйте\nтерриторию.\nПерсонал работает с двойной\nнагрузкой последнее время.\nД-р Кирк вообще заперся у себя\nи сидит там уже неделю.\nНикто его не видел.\n{$0100}{$9000}Позаботьтесь об этих\nученых и помните, что успех\nэксперимента зависит от их\nспособности думать.\nВ последнее время среди них\nбродит недоверие к доктору\nКирку.\n{$0100}{$9000}Присматривайте за устройством\nпереписывания, чтобы избежать\nпротивозаконного доступа.\nБыл прецедент нелегального\nиспользования устройства\nперезаписи.\nБудьте бдительны.\n{$9000}
 1714
 {$1001}{$2000}The control panel for the alarm \ndevice.\n{--}\nWill you deactivate the alarm?{$0800}
-{$1001}{$2000}Контрольная панель \nсигнализации. \n{--}\nВы отключите сигнализацию?{$0800}
+{$1001}{$2000}Панель управления\nсигнализацией. \n{--}\nОтключить сигнализацию?{$0800}
 152
 {$1001}{$2000}The system appears to be locked \nin "Alarm" mode.
 {$1001}{$2000}Система заблокирована\nсигнализацией. 

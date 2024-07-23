@@ -10,17 +10,17 @@
 {$1001}{$2000}A Key Card Lv. A is required to \noperate this device.
 {$1001}{$2000}Для использования устройства\nнужна карта уровня А.
 110
-{$1001}{$2000}You don't need to operate this \nanymore.
+{$1001}{$2000}I don't need to operate this \nanymore.
 {$1001}{$2000}Мне больше не нужно\nиспользовать это.
 84
 {$1001}{$2000}Will you try again?\n{$0800}
-{$1001}{$2000}Попробуйте еще раз?\n{$0800}
+{$1001}{$2000}Попробовать ещё?\n{$0800}
 46
 {$1001}{$2000}Magazines line the shelf. They \nmust belong to the researchers.
 {$1001}{$2000}На полке - журналы.\nОни принадлежат ученым.
 130
 {$1001}{$2000}A bed equipped with a low \ntemperature retaining system. \n{--}\nYou can use it to refresh \nyourself with a brief nap.
-{$1001}{$2000}Кровать с системой \nподдержания низкой температуры.\n{--}\nМожете воспользоваться ей,\nи чуток вздремнуть.
+{$1001}{$2000}Кровать с системой \nподдержания низкой температуры.\n{--}\nМожно воспользоваться ей,\nи чуток вздремнуть.
 230
 {$1001}{$2000}White coats for the researchers. \nThey've been worn out.
 {$1001}{$2000}Белые халаты для ученых.\nВыглядят потертыми.
@@ -35,16 +35,16 @@
 {$1001}{$2000}Личные вещи ученых и поломанные \nинструменты, используемые в\n{--}\nэксперименте.
 200
 {$1001}{$2000}A notice is posted. "Be sure to \nmake the bed after using it."
-{$1001}{$2000}Надпись. "Заправляйте кровать\nпосле использования."
+{$1001}{$2000}Здесь надпись: "Заправляйте кровать\nпосле использования".
 128
-{$1001}{$2000}You must activate the Generator \nfirst...
-{$1001}{$2000}Сперва мне нужно включить\nгенератор...
+{$1001}{$2000}I must activate the Generator \nfirst...
+{$1001}{$2000}Сначала мне нужно включить\nгенератор...
 86
 {$1001}{$2000}It looks like a researcher's \njournal.\n{--}\nWill you read it?\n{$0800}
-{$1001}{$2000}Похоже на журнал ученого.\n{--}\nХотите прочитать?\n{$0800}
+{$1001}{$2000}Похоже на журнал ученого.\n{--}\nПрочитать его?\n{$0800}
 124
 {$9000}\nThe kid pointed out the mistake\nin my calculations of \nthe estimated value.\nThe simulation of the Stabilizer,\nI mean. It seems that\nI miscalculated the timing of\nthe energy reaction at its\ncritical point by 6 nanoseconds.{$9000}\nI admitted that I made a mistake,\nbut he has a serious attitude\nproblem.\nHe doesn't seem to understand\nwe're all exhausted from\nhaving to work all day and\nnight on a regular basis.\n\n                    Written by: M\n{$9000}To M,\n\nEveryone feels the same way\nabout Kirk as you do. It's\ntime to let him know how we\nfeel. I heard that you could\ncreate a lethal poison by\nmixing certain drugs together.\n{$9000}\nThey said you just have to mix\nthe strongest anesthetic with\nsomething else.\n...Well, that may be going a \nbit too far, I suppose...\n\n                    Written by: K\n{$9000}To K,\n\nYou are pathetic. Can't you\nsee Dr. Kirk devotes himself\nto the experiment without a\ncare of anything else?\nBlaming others for your\nmistakes only exemplifies your\ncowardice.\n{$9000}\nI hold all of you responsible\nshould the experiment go wrong\nthanks to your blundering.\nMaybe you should be the one\nwatching your back in case\nsomeone should "accidentally"\ninject you with poison.\n\n                  Written by: ???\n{$9000}
-{$9000}\nПарень нашел ошибку в моих\nподсчетах приблизительного\nзначения.\nЯ говорю об имитации\nстабилизатора. Похоже, я\nошибся со временем реакции\nв ее критической точке на\n6 наносекунд.\n{$9000}\nЯ признал свою ошибку, у него\nсерьезные проблемы с\nсамомнением.\nОн, похоже, не понимает, что\nмы все изнурены круглосуточной\nработой по полному графику.\n\nНаписал: М\n{$9000}М,\n\nВсе испытывают то же самое к\nКирку, что и вы. Пора заявить\nему о нашем отношении. Я слышал,\nвы можете создать смертельный\nяд, смешивая разные лекарства.\n{$9000}\nГоворят, вам достаточно смешать\nсильный анестетик с чем-то еще.\n...Ну, может это слишком сурово,\nя полагаю...\n\nНаписал: К\n{$9000}К,\n\nВы ничтожество. Разве вы не\nвидите, др. Кирк всецело\nпогружен в эксперимент, ему\nбольше ни до чего нет дела?\nВинить других в своих ошибках -\nоткрытое проявление трусости.\n{$9000}\nЕсли эксперимент пойдет не по\nплану, все вы будете отвечать.\nМожет именно вам стоит \nопасаться, что кто-нибудь\n"случайно" введет вам яд.\n\nНаписал: ???\n{$9000}
+{$9000}\nПарень нашел ошибку в моих\nподсчетах приблизительного\nзначения.\nЯ говорю об имитации\nстабилизатора. Похоже, я\nошибся со временем реакции\nв ее критической точке на\n6 наносекунд.\n{$9000}\nЯ признал свою ошибку, у него\nсерьезные проблемы с\nсамомнением.\nОн, похоже, не понимает, что\nмы все изнурены круглосуточной\nработой по полному графику.\n\nНаписал: М\n{$9000}М,\n\nВсе испытывают то же самое к\nКирку, что и вы. Пора заявить\nему о нашем отношении. Я слышал,\nвы можете создать смертельный\nяд, смешивая разные лекарства.\n{$9000}\nГоворят, достаточно смешать\nсильный анестетик с чем-то ещё.\n...Ну, может это слишком сурово,\nя полагаю...\n\nНаписал: К\n{$9000}К,\n\nВы ничтожество. Разве вы не\nвидите, др. Кирк всецело\nпогружен в эксперимент, ему\nбольше ни до чего нет дела?\nВинить других в своих ошибках -\nоткрытое проявление трусости.\n{$9000}\nЕсли эксперимент пойдет не по\nплану, все вы будете отвечать.\nМожет именно вам стоит \nопасаться, что кто-нибудь\n"случайно" введет вам яд.\n\nНаписал: ???\n{$9000}
 2410
 {$9000}
 {$9000}

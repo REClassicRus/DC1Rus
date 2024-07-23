@@ -1,11 +1,11 @@
 {$1001}Some kind of simulation is in \nprogress on the big monitor.
-{$1001}На большом мониторе запущена\nкакая-то имитация.
+{$1001}На большом мониторе запущена\nкакая-то симуляция.
 120 328772
 {$1001}These two devices seem to be \njust models. They cannot be \n{--}\nused.
-{$1001}Оба эти устройства, похоже,\nпросто модели.\n{--}\nНе работают.
+{$1001}Устройства похожи на модели.\nозможности использовать\n{--}\nнет.
 134
 {$1001}Parts of some sort are stored in \nthe case. They must be used to \n{--}\nassemble something.
-{$1001}В этом боксе какие-то \nдетали. Из них наверняка можно\n{--}\nчто-то собрать.
+{$1001}В этом ящике какие-то \nдетали. Из них наверняка можно\n{--}\nчто-то собрать.
 176
 {$1001}Files are scattered about. A \nplanning sheet is displayed on \n{--}\nthe monitor.
 {$1001}Повсюду разбросаны файлы.\nНа экране показан план работ.
@@ -17,16 +17,16 @@
 {$1001}Для включения этого устройства\nнужен специальный диск.
 114
 {$1001}Will you operate the panel?\n                  {$0800}
-{$1001}Хотите использовать панель?\n{$0800}
+{$1001}Использовать панель?\n{$0800}
 96
 {$1001}Nothing happened.
 {$1001}Ничего.
 36
-{$1001}You don't need to operate this \nanymore.
+{$1001}I don't need to operate this \nanymore.
 {$1001}Мне больше не нужно\nиспользовать это.
 82
 {$1001}A file book of notice messages.\n{--}\nWill you read it?\n                  {$0800}
-{$1001}Книга с замечаниями.\n{--}\nХотите прочитать?\n                  {$0800}
+{$1001}Книга с замечаниями.\n{--}\nПрочитать её?\n                  {$0800}
 144
 {$9000}Those who attend the\nactivation of the Generator\nfor the first time in \ntonight's experiment should\nremember the following \nprocedures:\n                    \nTo activate the Generator, the\nfollowing two devices have to \nbe set in advance.{$9000} Initializer\n Stabilizer\n          \nThe functions of the two\ndevices are as follows:\n                    \nInitializer:\n Generates the necessary energy\n for the first reaction when \n activating the Generator.\n{$9000}\nStabilizer:\n The Third Energy reaction \n takes in the air and generates\n the energy in a chain \n reaction. This keeps the \n reaction under a certain \n level.\n                    {$9000}You will find the models of \nthe two parts in the case set\nat the center. If you have not\nseen them, be sure to check \nand see what they look like.\nIf you split the numbers that \nyou use when obtaining the \nCore Parts and add "0" to the \neach of the split numbers, \n{$9000}they will give the pass \nnumbers you'll need when \nobtaining the other two \nprotective parts.\nBe careful when handling the\npass numbers of the Core \nParts.\n                    \n                    \n                    \n{$9000}
 {$9000}Те, кто будут присутствовать\nв первый раз при\nактивации генератора во\nвремя сегодняшнего эксперимента\nдолжны помнить следующее:\n\nЧтобы запустить генератор, \nдолжны быть установлены \nдва устройства.{$9000} Стартер\n Стабилизатор\n\nФункции этих устройств такие:\n\nСтартер:\n Создает необходимую энергию\n для первой реакции генератора.\n{$9000}\nСтабилизатор:\n Третья Энергия всасывает\n воздух и вырабатывает \n энергию из цепной реакции.\n Устройство поддерживает \n реакцию на определенном уровне.\n{$9000}Вы найдете модели двух \nэтих деталей в боксе\nв центре. Если вы еще не\nвидели их, обязательно \nсделайте это.\nЕсли разделить числа, \nиспользуемые при получении \nчастей ядра и прибавить "0" к \nкаждому из них, \n{$9000}вы получите числа \nдоступа для получения \nдвух других, защитных, \nчастей.\nОтноситесь ответственно \nк числам доступа частей ядра.\n\n\n\n{$9000}

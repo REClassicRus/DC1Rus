@@ -20,28 +20,28 @@
 {$1001}{$2000} \nВы использовали карту.
 54
 {$1001}{$2000}With the card you have now, \nyou can go up to the 1F level.\n{--}\nWill you go up to the 1F level?{$0800}
-{$1001}{$2000}С вашей картой вы можете\nотправиться наверх на уровень 1F.\n{--}\nВы отправитесь на уровень 1F?{$0800}
+{$1001}{$2000}С вашей картой можно\nотправиться наверх на уровень 1F.\n{--}\nОтправиться на уровень 1F?{$0800}
 192
 {$1001}{$2000}With the card you have now, \nyou can go to any of the floors.\n{--}\nSelect your destination:\n{$1000}                1F  B2  B3  Cancel{$0802}
-{$1001}{$2000}С вашей картой вы можете\nотправиться на любой уровень. \n{--}\nВыберите назначение:\n{$1000}                1F  B2  B3  Отмена{$0802}
+{$1001}{$2000}С вашей картой вы можете\nотправиться на любой уровень. \n{--}\nВыбрать этаж:\n{$1000}                1F  B2  B3  Отмена{$0802}
 254
 {$1001}{$2000}\nIt's out of order.\n{--}\nIt does not look like it can be \nrepaired.
 {$1001}{$2000}\nОн не работает. \n{--}\nНепохоже, чтобы это можно было \nпочинить. 
 132
 {$1001}{$2000}With the card you have \nnow, you can go down to {$1001}\nthe B1 {$1001}level.Will you go down to \n{--}\nthe B1 \nlevel?{$0800}
-{$1001}{$2000}С вашей картой вы можете\nспуститься на уровень В1.\n{--}\nВы спуститесь на уровень В1?{$0800}
+{$1001}{$2000}С вашей картой можно\отправиться на уровень B1.\n{--}\nСпустится на уровень В1?{$0800}
 208
 {$1001}{$2000}The B1 floor map is shown on the \npanel.
 {$1001}{$2000}На панели показана \nкарта уровня В1.
 84
 {$1001}{$2000}The map of the B1 floor is shown \non the panel.\n{--}\nWill you save the map data?{$0800}
-{$1001}{$2000}На панели показана \nкарта уровня В1. \n{--}\nВы сохраните данные карты? {$0800}
+{$1001}{$2000}На панели показана \nкарта уровня В1. \n{--}\nСохранить данные карты? {$0800}
 160
 {$1001}{$2000}\nThe map data has been saved. \n{--}\nYou can view the map on the \nMap Screen.
 {$1001}{$2000}\nДанные карты были сохранены. \n{--}\nМожете посмотреть карту в \nОкне Карты.
 150
 {$1001}{$2000}Will you press the switch?{$0800}
-{$1001}{$2000}Вы нажмете тумблер? {$0800}
+{$1001}{$2000}Переключить тумблер? {$0800}
 58
 {$1001}{$2000}\nNothing happened.
 {$1001}{$2000}\nНичего.
@@ -50,13 +50,13 @@
 {$1001}{$2000}Невозможно открыть, поскольку \nуже запущено запирание комплекса.
 168
 {$1001}{$2000}A DDK device. The symbol "L" is \ninscribed.\n{--}\nThe DDK that contains the \ncorrect information is required \n{--}\n\nto release this lock.\n{--}\nWill you set the DDK?{$0800}
-{$1001}{$2000}Устройство ЭК.\nНа нем написан символ "L".\n{--}\nЧтобы отпереть замок, \nнеобходим ЭК с правильной\n{--}\nинформацией.\n{--}\nВы установите ЭК? {$0800}
+{$1001}{$2000}Устройство ЭК.\nНа нем написан символ "L".\n{--}\nЧтобы отпереть замок, \nнеобходим ЭК с правильной\n{--}\nинформацией.\n{--}\nУстановить ЭК? {$0800}
 314
 {$1001}{$2000}\nThe lock has already been \n{--}\nreleased.
 {$1001}{$2000}\nЗамок уже открыт.
 82
 {$1001}{$2000}A file titled \n"Security Manual Vol. 1"\n{--}\nWill you read the file?{$0800}
-{$1001}{$2000}Руководство по безопасности\nЧасть 1\n{--}\nВы будете читать Файл? {$0800}
+{$1001}{$2000}"Руководство по безопасности\nЧасть 1".\n{--}\nПрочитать его? {$0800}
 136
 {$9000}"DDK," the electronic lock\nsystem of this facility,\nhas been updated. A more\nintricate code system has\nbeen introduced, and the\nsecurity level has been\nimproved.\nYou will need to be aware of \nthe following information when \nentering the password.\n{$9000}Number-Based "KEY" Decoding,\nPart 1.\n\nIn a case where numbers are\nwritten instead of letters in\nthe "KEY" field, the numbers\ncould represent the codes for\nthe corresponding characters.\n{$9000}Here is an example of a\ncorrespondence chart between\nthe letters and the code\nnumbers.\n\nA=1, B=2, C=3......{$9000}
 {$9000}ЭК, электронная запирающая\nсистема этого комплекса,\nбыла обновлена. Добавлена\nболее сложная кодовая\nсистема, и уровень\nбезопасности повысился.\nВы должны знать следующую \nинформацию, когда вводите\nпароль.\n{$9000}Основанное на цифрах\nдекодирование "Ключ",\nЧасть 1.\n\nВ случае, когда вместо букв в\nполе "Ключ" написаны числа,\nони могут обозначать код для\nсоответствующих букв.\n{$9000}Вот пример сетки\nсоответствия между буквами и\nцифрами кода:\n\nA=1, B=2, C=3......{$9000}

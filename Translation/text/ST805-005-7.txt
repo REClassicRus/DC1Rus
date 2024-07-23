@@ -14,34 +14,34 @@
 {$1001}{$2000}Вам больше не нужно управлять\nэтим.
 84
 {$1001}{$2000}Will you try again?\n{$0800}
-{$1001}{$2000}Попробуете снова?\n{$0800}
+{$1001}{$2000}Попробовать снова?\n{$0800}
 46
 {$1001}{$2000}Magazines line the shelf. They \nmust belong to the researchers.
-{$1001}{$2000}Журналы на полках.\nВидимо, они принадлежат ученым.
+{$1001}{$2000}Журналы на полках.\nВидимо, они принадлежат учёным.
 130
 {$1001}{$2000}A bed equipped with a low \ntemperature retaining system. \n{--}\nYou can use it to refresh \nyourself with a brief nap.
-{$1001}{$2000}Кровать с системой\nподдержания низкой температуры.\n{--}\nВы можете воспользоваться\nей и немного вздремнуть.
+{$1001}{$2000}Кровать с системой\nподдержания низкой температуры.\n{--}\nМожно воспользоваться\nей и немного вздремнуть.
 230
 {$1001}{$2000}White coats for the researchers. \nThey've been worn out.
-{$1001}{$2000}Белые халаты ученых.\nОни все изношенные.
+{$1001}{$2000}Белые халаты учёных.\nОни все изношенные.
 116
 {$1001}{$2000}The personal belongings of the \nresearchers. Nothing useful.
-{$1001}{$2000}Личные вещи ученых.\nНичего нужного.
+{$1001}{$2000}Личные вещи ученых.\nНичего полезного.
 124
 {$1001}{$2000}Cardboard boxes are on the \nshelf. Nothing useful.
-{$1001}{$2000}Картонные коробки на полке.\nНичего нужного.
+{$1001}{$2000}Картонные коробки на полке.\nНичего полезного.
 104
 {$1001}{$2000}The personal belongings of the \nresearchers and the broken \n{--}\ninstruments used in the \nexperiment.
-{$1001}{$2000}Личные вещи ученых и сломанные\nинструменты, используемые в\n{--}\nэксперименте.
+{$1001}{$2000}Личные вещи ученых и сломанные\nинструменты, используемые\n{--}\nв эксперименте.
 200
 {$1001}{$2000}A notice is posted. "Be sure to \nmake the bed after using it."
-{$1001}{$2000}Не забудьте заправить постель,\nпосле ее использования.
+{$1001}{$2000}"Не забудьте заправить постель,\nпосле её использования".
 128
 {$1001}{$2000}You must activate the Generator \nfirst...
 {$1001}{$2000}Сначала надо активировать\nгенератор...
 86
 {$1001}{$2000}It looks like a researcher's \njournal.\n{--}\nWill you read it?\n{$0800}
-{$1001}{$2000}Похоже на журнал ученого.\n{--}\nПрочитаете его?\n{$0800}
+{$1001}{$2000}Похоже на журнал учёного.\n{--}\nПрочитать его?\n{$0800}
 124
 {$9000}The kid pointed out the \nmistake in my calculations of \nthe estimated value. The \nsimulation of the Stabilizer,\nI mean. It seems that my\ncalculation of the time before\nthe energy reaction reaches \nthe critical point was off by \n6 nanoseconds. I admitted that\nI made a mistake, but he has a\nserious attitude problem. He\n{$9000}doesn't seem to understand\nwe're all exhausted from\nhaving to work all day and\nnight on a regular basis.\n\nWritten by: M\n{$9000}To M,\n\nEveryone feels the same way\nabout Kirk as you do. It's\ntime to let him know how we\nfeel. I heard that you could\ncreate a lethal poison by\nmixing certain drugs together.\n{$9000}They said you just have to mix\nthe strongest anesthetic with\nsomething else.\n..Well, that may be going a \nbit too far, I suppose...\n\nWritten by: K\n{$9000}To K,\n\nYou are pathetic. Can't you\nsee Dr. Kirk devotes himself\nto the experiment without a\ncare of anything else?\nBlaming others for your\nmistakes only exemplifies\nyour cowardice. I hold all of\nyou responsible should the\nexperiment go wrong thanks to\nyour blundering.\n{$9000}Maybe you should be the one\nwatching your back in case\nsomeone should "accidentally"\ninject you with poison.\n\nWritten by: ???\n{$9000}
 {$9000}Парень указал мне на\nошибку в моих подсчетах\nоценочного значения. Я\nимею ввиду, симуляцию\nстабилизатора. Похоже, что\nмои подсчеты времени, когда\nэнергия достигнет критического\nуровня, немного сбились на\n6 наносекунд. Я признал, что\nсовершил ошибку, но его отношение\nничем не оправдано.\n{$9000}Он как будто не понимает, что\nмы все измотаны, работая\nдень и ночь без остановки.\n\nНаписано: М\n{$9000}М,\n\nВсе думают о Кирке так же,\nкак и ты. Настало время\nрассказать ему, что мы думаем.\nЯ слышал, что можно создать\nсмертельный яд, смешав\nнесколько лекарств вместе.\n{$9000}Говорят, нужно просто\nсмешать самый сильный анестетик\nс чем-то еще.\n..Что ж, возможно это заходит\nслишком далеко...\n\nНаписано: К\n{$9000}К,\n\nТы жалок. Ты не видишь,\nчто доктор Кирк посвящает себя \nэксперименту полностью,\nбольше ни о чем не думая?\nОбвиняя других в своих ошибках,\nты только подчеркиваешь\nсвою трусость. Я буду считать\nвас всех виновными, если\nэксперимент не удастся из-за\nваших ошибок.\n{$9000}Возможно вам следует быть\nпоосторожней, в случае если\nкто-то "случайно" решит\nввести вам яд.\n\nНаписано: ???\n{$9000}
