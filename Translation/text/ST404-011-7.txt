@@ -1,0 +1,6 @@
+{$1001}{$2000}It looks like it's been ripped open \nby something.
+{$1001}{$2000}Похоже его чем-то\nвскрывали.
+104 245676
+{$1001}{$2000}The crack looks very deep. It's \ntoo dangerous to jump over it.
+{$1001}{$2000}Трещины очень глубоки. Слишком\nопасно прыгать через них.
+130

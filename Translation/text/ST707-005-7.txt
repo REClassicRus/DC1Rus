@@ -1,0 +1,12 @@
+{$1001}{$2000}The wire netting over the \nventilation shaft has been {$1001}torn \n{--}\nand removed.
+{$1001}{$2000}Проволочная сетка над \nвентиляционным люком разорвана\n{--}\nи убрана.
+154 64716
+{$1001}{$2000}Blood is seeping out from \nhundreds of small cuts.
+{$1001}{$2000}Кровь сочится из \nсотни маленьких порезов.
+104
+{$1001}{$2000}Medical Room
+{$1001}{$2000}Медкомната
+28
+{$1001}You reached the Escape Point. \nBut you have not yet wiped out \n{--}\nall the targets. Complete your \nmission before escaping.
+{$1001}Вы достигли пункта выхода. \nНо вы еще не уничтожили все \n{--}\nмишени. Прежде, чем спастись, \nзавершите вашу миссию.
+244

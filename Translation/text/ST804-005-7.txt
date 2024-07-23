@@ -1,0 +1,33 @@
+Some kind of simulation is in \nprogress on the big monitor.
+На большом мониторе запущена\nкакая-то имитация.
+118 327136
+These two devices seem to be \njust models. They cannot be \n{--}\nused practically.
+Оба эти устройства, похоже,\nпросто модели.\n{--}\nНе работают.
+156
+Parts of some sort are stored in \nthe case. They must be used to \n{--}\nassemble something.
+В этом боксе какие-то\nдетали. Из них наверняка можно\n{--}\nчто-то собрать.
+174
+Files are scattered about. A \nplanning sheet is displayed on \n{--}\nthe monitor.
+Повсюду разбросаны файлы.\nНа экране показан план работ.
+152
+Storage for the important parts. \nA subtle machine sound from \n{--}\nthe part that is controlling the \ndevice can be heard.
+Склад важных частей.\nИз отсека управления\n{--}\nдоносится еле уловимый звук\nработающих механизмов.
+238
+The "Planning Disc" is required to \noperate this device.
+Для включения этого устройства\nнужен специальный диск.
+112
+Will you operate the panel?\n                  {$0800}
+Хотите использовать панель?\n{$0800}
+94
+Nothing happened.
+Ничего.
+34
+You don't need to operate this \nanymore.
+Мне больше не нужно\nиспользовать это.
+80
+A file book of notice messages.{$0100}{$9000}Will you read it?\n                  {$0800}
+Книга с замечаниями.\n{--}\nХотите прочитать?\n                  {$0800}
+140
+{$9000}Those who attend the\nactivation of the Generator\nfor the first time in \ntonight's experiment should\nremember the following \nprocedures:\n                    \nTo activate the Generator, the\nfollowing two devices have to \nbe set in advance.{$9000}Initializer\nStabilizer\n          \nThe functions of the two\ndevices are as follows:\n                    \nInitializer:\nGenerates the necessary energy\nfor the first reaction when \nactivating the Generator.\n{$9000}Stabilizer:\nThe Third Energy reaction \ntakes in the air and generates\nthe energy in a chain \nreaction. This keeps the \nreaction under a certain \nlevel.\n                    \nYou will find the models of \nthe two parts in the case set\n{$9000}at the center. If you have not\nseen them, be sure to check \nand see what they look like.\nIf you split the numbers that \nyou use when obtaining the \nCore Parts and add "0" to the \neach of the split numbers, \nthey will give the pass \nnumbers you'll need when \nobtaining the other two \n{$9000}protective parts.\nBe careful when handling the\npass numbers of the Core \nParts.\n                    \n                    \n                    \n                    \n                    \n                    \n{$9000}
+{$9000}Те, кто работают на\nзапуске генератора в первый раз\nв сегодняшнем эксперименте\nдолжны помнить следующие \nпроцедуры:\n\nЧтобы активировать генератор,\nнужно запустить следующие два\nустройства. {$9000}Стартер\nСтабилизатор\n\nФункции этих двух устройств\nследующие:\n\nСтартер:\nгенерирует необходимую энергию\nдля первой реакции, когда \nактивируется генератор.\n{$9000}Стабилизатор:\nРеакция Третьей Энергии \nиспользует воздух и генерирует\nэнергию в цепи \nреакций. Это удерживает \nреакцию ниже определенного \nуровня.\n\nВы найдете модели двух \nчастей в боксе \n{$9000}в центре. Если вы не\nвидели их, проверьте и \nпосмотрите, как они выглядят.\nЕсли вы разделите числа,\nиспользуемые при добыче основных\nчастей и добавите "0" к каждому \nиз разделенных номеров, \nвы получите число пароля,\nнеобходимое для получения\nостальных двух\n{$9000}защитных частей.\nБудьте осторожны с числами\nпароля основной части \nи других частей.\n \n\n\n \n \n \n{$9000}
+2334

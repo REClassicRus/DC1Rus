@@ -1,0 +1,21 @@
+{$1001}{$2000}I need three Crane Cards to \nmove this crane.
+{$1001}{$2000}Мне нужно три карты, чтобы \nуправлять им.
+94 378372
+{$1001}{$2000}It's not necessary to operate it \nanymore.
+{$1001}{$2000}Уже нет необходимости \nуправлять им.
+88
+{$1001}{$2000}It's a small sized vehicle that \nhas crashed into the shutter.
+{$1001}{$2000}Это небольшое транспортное\nсредство, врезавшееся в дверь. 
+128
+{$1001}{$2000}It's an armored truck that \ncontains machine-guns. Possibly \n{--}\na pre-production sample. 
+{$1001}{$2000}Это бронированный транспорт,\nнесущий пулеметы.\n{--}\nВероятно, опытный образец.
+180
+{$1001}{$2000}It's a container that holds \nweapons and other parts \n{--}\nproduced at this facility.
+{$1001}{$2000}Это контейнер с оружием,\nсделанном в этом комплексе.
+168
+{$1001}{$2000}The computer terminal to record \nthe transfers to and from \n{--}\nweapons storage.
+{$1001}{$2000}Терминал, чтобы записывать все \nтрансферы в и из арсенала.
+160
+{$1001}{$2000}It's a light switch for the Crane \nOperation Room. I don't need to \n{--}\noperate it right now.
+{$1001}{$2000}Выключатель света комнаты \nподъемного крана.\n{--}\nСейчас он не нужен.
+186

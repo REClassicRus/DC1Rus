@@ -1,0 +1,21 @@
+{$1001}{$2000}The heliport appears to be close \nby.
+{$1001}{$2000}Площадка где-то неподалеку.
+78 141248
+{$1001}{$2000}An air conditioner to keep the \nenvironment stable inside the \n{--}\nhanger.
+{$1001}{$2000}Кондиционер для поддержания \nстабильного климата внутри \n{--}\nангара.
+148
+{$1001}{$2000}Files and miscellaneous items on \nthe conditions of the material \n{--}\nmanagement.
+{$1001}{$2000}Файлы и предметы \nдля работы с разными \n{--}\nматериалами.
+162
+{$1001}{$2000}An iron container. It's too heavy \nto move. Maybe I could move it \n{--}\nif it were a smaller wooden \nbox...
+{$1001}{$2000}Железный контейнер.\nСлишком тяжелый.\n{--}\nЕсли бы это была деревянная \nкоробка меньшего размера...
+212
+{$1001}{$2000}Stacks of cardboard boxes. \nNothing useful.
+{$1001}{$2000}Куча картонных коробок.\nНичего интересного.
+90
+{$1001}{$2000}A forklift. You don't need to use \nit.
+{$1001}{$2000}Погрузчик.\nНе нужно его использовать.
+80
+{$1001}{$2000}Maintenance tools used in the \nhanger.
+{$1001}{$2000}Сервисные инструменты для ангара.
+80

@@ -1,0 +1,48 @@
+{$1000}{$2000} \n {$105E}
+{$1000}{$2000} \n {$105E}
+12 358152
+{$1001}{$2000}\nHe's repairing the device.
+{$1001}{$2000}\nОн чинит устройство.
+58
+{$1000}{$2000} \n {$1064}
+{$1000}{$2000} \n {$1064}
+12
+{$1000}{$2000}\n {$103E}
+{$1000}{$2000}\n {$103E}
+10
+{$1000}{$2000} \n {$103E}
+{$1000}{$2000} \n {$103E}
+12
+{$1001}{$2000}It is an activation device for the \nMain Generator.\n{--}\nIt is not necessary to operate it \nright now.
+{$1001}{$2000}Устройство для активирования \nосновного генератора.\n{--}\nНет необходимости управлять им \nпрямо сейчас.
+202
+{$1001}{$2000}The Main Generator is not \nworking.\n{--}\nIt doesn't look repairable.\n{--}\nWill you take the battery?{$0800}
+{$1001}{$2000}Основной генератор\nне работает.\n{--}\nВряд ли его можно починить.\n{--}\nВы возьмете батарею?{$0800}
+194
+{$1001}{$2000}The Main Generator is not \nworking.\n{--}\nIt doesn't look repairable.
+{$1001}{$2000}Основной генератор не\nработает.\n{--}\nВряд ли его можно починить.
+134
+{$1001}{$2000}The door will not move because \nthe generator to supply power to \n{--}\nopen the door is out.
+{$1001}{$2000}Дверь не двигается, поскольку\nгенератор, дающий энергию для\n{--}\nдвижения двери, отключен.
+182
+{$1001}{$2000}With this, you can instantly tell \nwhat floor the elevator is on.
+{$1001}{$2000}С помощью этого вы сразу\nпоймете, на каком уровне лифт.
+134
+{$1001}{$2000}Something extraordinarily powerful\nsmashed into the shutter from \n{--}\nthe other side.\n{--}\nThere may have been some sort \nof explosion involved since it \n{--}\nsmells of gasoline.
+{$1001}{$2000}Что-то очень сильное \nврезалось в дверь с той стороны.\n{--}\nВозможно, произошло что-то\nвроде взрыва, судя по\n{--}\nзапаху бензина.
+344
+{$1001}{$2000}It looks like some type of fuel.\nApparently a large amount of \n{--}\npower is needed to operate the \nMain Generator.
+{$1001}{$2000}Похоже на топливо.\nЧтобы управлять генератором, \n{--}\nнужна очень большая мощность.
+228
+{$1001}{$2000}It looks like some type of fuel.\nApparently a large amount of \n{--}\npower is needed to operate the \nMain Generator.
+{$1001}{$2000}Похоже на топливо.\nЧтобы управлять генератором, \n{--}\nнужна очень большая мощность.
+228
+{$1001}{$2000}It is a high yield output \ngenerator.\n{--}\nIt appears to supply the facility's \nmain power.
+{$1001}{$2000}Генератор с высокой\nтекучестью.\n{--}\nПохоже, он обеспечивает\nосновную мощь установки.
+180
+{$1001}{$2000}It has been destroyed by a \nTyrannosaurus.\n{--}\nIt would be nearly impossible to \nrepair it.
+{$1001}{$2000}Он был уничтожен \nтиранозавром.\n{--}\nПочинить его будет\nпрактически невозможно.
+182
+{$1001}{$2000}It is completely unconscious now.\n{--}\nHowever, it seems to be \nbreathing very slowly. 
+{$1001}{$2000}\nОн сейчас без сознания.\n{--}\nТем не менее, он, кажется, \nмедленно дышит.
+172

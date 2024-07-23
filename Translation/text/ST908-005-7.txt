@@ -1,0 +1,21 @@
+{$1000}{$2000}
+{$1000}{$2000}
+4 262408
+{$1000}{$2000}
+{$1000}{$2000}
+4
+{$1001}{$2000}Will you press the switch?\n{$0800}
+{$1001}{$2000}Вы нажмете тумблер?\n{$0800}
+60
+{$1001}{$2000}Nothing happened.
+{$1001}{$2000}Ничего.
+38
+{$1001}{$2000}An ID Card is necessary.
+{$1001}{$2000}Необходима карта. 
+52
+{$1001}{$2000}I need to activate the generator \nfirst...
+{$1001}{$2000}Сначала нужно активировать \nгенератор...
+88
+{$1001}You reached the Escape Point. \nBut you have not yet wiped out \n{--}\nall the targets. Complete your \nmission before escaping.
+{$1001}Вы добрались до выхода. \nНо уничтожили не все мишени. \n{--}\nЗавершите свою миссию,\nпрежде чем бежать. 
+244

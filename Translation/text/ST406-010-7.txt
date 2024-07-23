@@ -1,0 +1,60 @@
+{$1001}Private belongings of the \npersonnel. Nothing useful.
+{$1001}Личные вещи персонала.\nНичего полезного.
+108 230668
+{$1001}Computer terminals to monitor \nand record the status of the \n{--}\nlarge scale devices set outside \nof the facility. It appears to be \n{--}\nused to record the status of \nthe use of the big elevators as \n{--}\nwell as the landing and departing \nstatus of the heliport.
+{$1001}Компьютерные терминалы для \nслежения и записи состояния \n{--}\nбольших устройств снаружи \nкомплекса. Использовались \n{--}\nдля записи статистики \nиспользования лифтов и \n{--}\nотправки и прибытия \nвертолетов.
+514
+{$1001}A machine to save the data that \nhas been processed at the \n{--}\ncomputer terminals.
+{$1001}Машина, сохраняющая данные,\nполученные от терминалов.
+164
+{$1001}The blood has begun to \ncoagulate.
+{$1001}Кровь начала свертываться.
+70
+{$1001}The corpse of Tom, one of our \ncomrades.\n{--}\nHe lost a lot of blood before \ndying.
+{$1001}Труп Тома, одного из ваших \nтоварищей.\n{--}\nПеред смертью он потерял\nмного крови.
+162
+{$1001}He is taking care of Tom's \nwound.
+{$1001}Он занят ранами Тома.
+70
+{$1000} \n {$1032}
+{$1000} \n {$1032}
+10
+{$1000} \n {$104B}{$9000}{$1000} \n {$1046}
+{$1000} \n {$104B}{$9000}{$1000} \n {$1046}
+22
+{$1000} \n {$105F}
+{$1000} \n {$105F}
+10
+{$1000} \n {$1046}
+{$1000} \n {$1046}
+10
+{$1000} \n {$105F}{$9000}{$1000} \n {$1073}{$9000}{$1000} \n {$101E}
+{$1000} \n {$105F}{$9000}{$1000} \n {$1073}{$9000}{$1000} \n {$101E}
+34
+{$1000} \n {$1073}
+{$1000} \n {$1073}
+10
+{$1000} \n {$103C}{$9000}{$1000} \n {$1050}
+{$1000} \n {$103C}{$9000}{$1000} \n {$1050}
+22
+{$1000} \n {$105A}
+{$1000} \n {$105A}
+10
+{$1000} \n {$105A}
+{$1000} \n {$105A}
+10
+{$1000} \n {$104B}
+{$1000} \n {$104B}
+10
+{$1000} \n {$105A}
+{$1000} \n {$105A}
+10
+{$1001}The Outdoors area map is on the \nwall.\n{--}\nWill you recorded the map data?\n                  {$0800}
+{$1001}На стене - карта наружной \nтерритории.\n{--}\nХотите сохранить карту?\n{$0800}
+186
+{$1001}The data has been recorded
+{$1001}Карта записана.
+54
+{$1001}The Outdoors area map is on the \nwall.
+{$1001}На стене - карта наружной\nтерритории.
+78

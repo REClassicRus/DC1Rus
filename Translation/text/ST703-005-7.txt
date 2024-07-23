@@ -1,0 +1,51 @@
+{$1001}{$2000}Gas bottles for experiments. \nThree different types of gas can \n{--}\nbe mixed.
+{$1001}{$2000}Сосуды с газом для экспериментов.\nМожно смешивать три типа газов.
+154 304556
+{$1001}{$2000}Power distribution panel for the \nexperiment devices. A gas \n{--}\ndetector is also equipped.
+{$1001}{$2000}Панель распределения энергии\nэкспериментальных устройств.\n{--}\nУстановлен детектор газов.
+182
+{$1001}{$2000}"Notes for Gas Mixing \nExperiment"\n{--}\nThe lethal poison level of the \ngas for humans is 85 or greater. \n{--}\nThe closer the color of gas \nbecomes to the color of the \n{--}\nthree basic colors red, blue, \ngreen, the more poisonous the \n{--}\ngas becomes. If the color \nbecomes transparent through \n{--}\nmixing, the toxins have been \nneutralized.
+{$1001}{$2000}Эксперименты с газом\n{--}\nСмертельно ядовитый для людей\nуровень газа 85 и выше.\n{--}\nЧем ближе цвет газа к цвету\nодной из трех основных кнопок\n{--}\nкрасной, голубой или зеленой,\nтем более он ядовит.\n{--}\nЕсли цвет становится \nпрозрачным при смешении,\n{--}\nзначит, токсины были \nнейтрализованы.
+662
+{$1001}{$2000}Machines that monitor the gas \nchamber. You can collect data \n{--}\nsuch as the gas poison level \nand the gas's effect on the \n{--}\nhuman body.
+{$1001}{$2000}Механизмы, контролирующие\nгазовую камеру. Вы собираете\n{--}\nданные по уровню ядовитости газа\nи влиянию газа на человеческое\n{--}\nтело.
+276
+{$1001}{$2000}There are three buttons. They are \nused to supply the gas to the \n{--}\ngas chamber.
+{$1001}{$2000}Есть три кнопки.\nОни используются для подачи газа\n{--}\nв камеру.
+164
+{$1001}{$2000}Which button will you press?\n  Red  Green  Blue  Cancel{$0802}
+{$1001}{$2000}Какую кнопку вы нажмете?\n Красная Зеленая Синяя Отмена{$0802}
+116
+{$1001}{$2000}The chamber is filled with \npoisonous gas and the door has \n{--}\nbeen automatically locked.
+{$1001}{$2000}Камера автоматически заполняется\nядовитым газом и дверь\n{--}\nавтоматически запирается.
+180
+{$1000}{$2000}
+{$1000}{$2000}
+4
+{$1000}{$2000}
+{$1000}{$2000}
+4
+{$1000}{$2000}
+{$1000}{$2000}
+4
+{$1000}{$2000}
+{$1000}{$2000}
+4
+{$1000}{$2000}
+{$1000}{$2000}
+4
+{$1000}{$2000}
+{$1000}{$2000}
+4
+{$1000}{$2000}
+{$1000}{$2000}
+4
+{$1000}{$2000}
+{$1000}{$2000}
+4
+{$1000}{$2000}
+{$1000}{$2000}
+4
+{$1001}{$2000}"When you use the gas chamber, \nbe sure to set the electronic \n{--}\nlock."
+{$1001}{$2000}Когда используете камеру,\nне забудьте поставить электро-\n{--}\nзапор.
+146

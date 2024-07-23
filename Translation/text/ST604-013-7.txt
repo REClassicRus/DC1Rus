@@ -1,0 +1,51 @@
+{$1001}{$2000}A card is needed to operate this \nelevator.
+{$1001}{$2000}Чтобы управлять этим лифтом,\nнужна карта.
+90 264024
+{$1001}{$2000}The elevator cannot be operated \nwith the data on this card.
+{$1001}{$2000}У вас нет карты с \nкодом доступа к лифту.
+124
+{$1001}{$2000}You've used the card.
+{$1001}{$2000}Вы использовали карту
+46
+{$1001}{$2000}It's possible to access the B2 \nfloor with the card you have \n{--}\nnow.{$0100}
+{$1001}{$2000}Теперь с вашей картой можно\nпопасть на уровень B2.{$0100}
+142
+{$1001}{$2000}Will you go to the B2 floor?{$0800}
+{$1001}{$2000}Вы пойдете на уровень B2?{$0800}
+62
+{$1001}{$2000}It's possible to access all floors \nwith the card you have now.{$0100}
+{$1001}{$2000}С картой, которая у вас есть, \nвозможен доступ на все уровни.{$0100}
+132
+{$1001}{$2000}Select your destination:\n       1F    B1    B2    Cancel{$0802}
+{$1001}{$2000}Выберите место назначения:\n        1F   B1   B2   Отмена{$0802}
+118
+{$1001}{$2000}It is a DDK device.\nA "W" mark is drawn on it.\n{--}\nWill you set the DDK?{$0800}
+{$1001}{$2000}Это устройство ЭК.\nНа нем нарисован знак "W" \n{--}\nВы установите ЭК? {$0800}
+146
+{$1001}{$2000}The lock has already been \nreleased.
+{$1001}{$2000}Замок уже открыт.
+76
+{$1001}{$2000}It is a female researcher. The \nwhite robe is smeared red with \n{--}\nblood.
+{$1001}{$2000}Это женщина-ученый. Белый \nхалат заляпан алой кровью.
+148
+{$1001}{$2000}It is an aerial photograph of Ibis \nIsland. The picture is of the \n{--}\nentire island.
+{$1001}{$2000}Это аэрофотоснимок острова \nИбис. На фотографии виден весь\n{--}\nостров целиком.
+170
+{$1001}{$2000}This door must lead to the port.
+{$1001}{$2000}Эта дверь ведет в порт.
+68
+{$1001}{$2000}It's a display to show messages \nfor the visitors.
+{$1001}{$2000}Экран, показывающий сообщения\nдля посетителей.
+104
+{$1001}{$2000}The B3 floor area map is\nindicated on the panel.\n{--}\nWill you record the data\nof the map?{$0800}
+{$1001}{$2000}Карта уровня В3 показана\nна панели.\n{--}\nВы запишите данные карты?{$0800}
+180
+{$1001}{$2000}The data has been recorded. You \ncan check it on the Map Screen.
+{$1001}{$2000}Данные записаны. Вы можете\nпосмотреть их в окне карты.
+132
+{$1001}{$2000}The B3 floor area map is \nindicated on the panel.
+{$1001}{$2000}Карта уровня В3 показана\nна панели.
+102
+{$1001}{$2000}I have to activate the generator \nfirst...
+{$1001}{$2000}Мне нужно сначала активировать\nгенератор.
+88

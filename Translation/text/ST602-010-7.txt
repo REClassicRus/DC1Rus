@@ -1,0 +1,27 @@
+{$1001}{$2000}It looks like a staff memo.\n{--}\nWill you read the memo?\n{$0800}
+{$1001}{$2000}Записка для персонала.\n{--}\nВы прочитаете записку?\n{$0800}
+114 94224
+{$9000}\nAttention: Alan\n\nThe weapon container at the\nGeneral Weapon Storage will be\ncarried out from the port next\nweek. Please finish the\nmaintenance of the crane\nwithin the week.\n\n{$9000}\n\n\n I will hand you the DDK\nto enter the port\nso that you can finish the\njob. Make sure that you keep\nit on you at all times.\n\n\n\n{$9000}
+{$9000}\nВнимание: Алан\n\nКонтейнер с оружием в основном\nоружейном хранилище будет\nвынесен из порта на следующей\nнеделе. Пожалуйста закончи\nремонт крана в течение недели.\n\n{$9000}\n\nЯ передам тебе ЭК для открытия\nпорта чтобы ты смог завершить\nработу. Смотри, чтобы он\nвсегда был при тебе.\n\n\n{$9000}
+614
+{$1000}{$2000}{$106E}
+{$1000}{$2000}{$106E}
+6
+{$1000}{$2000}{$104B}
+{$1000}{$2000}{$104B}
+6
+{$1000}{$2000}{$1087}
+{$1000}{$2000}{$1087}
+6
+{$1001}{$2000}He's trying to find the code to \ndeactivate.
+{$1001}{$2000}Он пытается найти код для \nдеактивации. 
+92
+{$1001}{$2000}It's a computer terminal for \ncontrolling the security of this \n{--}\narea.
+{$1001}{$2000}Это компьютерный терминал, \nконтролирующий безопасность в\n{--}\nзоне.
+146
+{$1001}{$2000}It's a panel to show the flow of \npower to this area.
+{$1001}{$2000}Это панель, показывающая ток \nэнергии в этой зоне. 
+110
+{$1001}{$2000}A graph that shows the status \nof the security operating \n{--}\nsituation.
+{$1001}{$2000}График, показывающий статус\nуправления охранной системой.
+144
