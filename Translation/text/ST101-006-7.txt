@@ -1,0 +1,15 @@
+{$1001}{$2000}No one seems to be inside.
+{$1001}{$2000}Похоже, внутри никого.
+56 38656
+{$1001}{$2000}Cleaning supplies are inside.
+{$1001}{$2000}Внутри снаряжение для уборки.
+62
+{$1001}{$2000}It is well-maintained and clean.
+{$1001}{$2000}Все очень чистое.
+68
+{$1001}{$2000}I don't need to wash my hands \nnow.
+{$1001}{$2000}Сейчас мне не нужно мыть\nруки.
+74
+{$1001}{$2000}Do you want to climb to the \nventilation opening?{$0800}
+{$1001}{$2000}Полезете в вентиляционный\nлюк?{$0800}
+104

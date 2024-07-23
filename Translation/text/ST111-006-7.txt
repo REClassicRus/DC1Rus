@@ -1,0 +1,9 @@
+{$1001}A small plate reads: \n"Transformer".
+{$1001}Здесь написано:\n"Трансформатор".
+74 212920
+{$1001}This machine appears to control \nthe air conditioning of the \n{--}\nfacility.
+{$1001}Эта машина,похоже, управляет\nкондиционированием комплекса.
+148
+{$1001}Will you climb down from the \nventilation opening?{$0800}{$8800}
+{$1001}Будете спускаться из\nвентиляционного люка?{$0800}{$8800}
+106

@@ -1,0 +1,18 @@
+{$1001}{$2000}Will you press the switch?\n{$0800}
+{$1001}{$2000}Хотите нажать кнопку?\n{$0800}
+60 275004
+{$1001}{$2000}Nothing happened.
+{$1001}{$2000}Ничего.
+38
+{$1001}{$2000}Do you want to climb to the\nventilation opening?{$0800}
+{$1001}{$2000}Полезете в вентиляционный\nлюк?{$0800}
+102
+{$1001}{$2000}Right: Control Room 1F
+{$1001}{$2000}Диспетчерская 1F.
+48
+{$1001}{$2000}I have to check the basement \nfloor first. I should leave the \n{--}\narea ahead to Rick.
+{$1001}{$2000}Мне сперва нужно проверить\nподвал. Вперед должен пойти Рик.
+172
+{$1001}{$2000}I have to follow Rick...\n{--}\nI should leave the basement \nfloor to Gail.
+{$1001}{$2000}Я должна идти за Риком.\n{--}\nЛучше оставлю подвал Гейлу.
+144

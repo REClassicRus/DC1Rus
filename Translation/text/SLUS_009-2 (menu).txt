@@ -1,0 +1,916 @@
+Shotgun
+PA3
+Shotgun Model PA3
+Лёгкий дробовик.
+A pump-action\nShotgun by L.\nFranchi.
+Помповый дробовик\nот Л.Франчи.
+Shotgun Custom
+SPAS12
+Shotgun Model SPAS12.\nHigh-powered Shotgun.
+Армейская модель.\nПовышенная убойность.
+A military shotgun\nby L. Franchi.
+Армейский вариант\nот Л.Франчи.
+Shotgun+Stock
+PA3+Приклад
+The PA3 Shotgun is fitted\nwith a stock.
+Лёгкий дробовик.\nОснащён прикладом.
+Increased stability\nallows faster follow\nup shots.
+Высокая устойчивость\nпозволяет стрелять\nчаще.
+SG Custom+Stock
+SPAS12+Приклад
+The SPAS12 is fitted with\na stock.
+Армейский дробовик.\nОснащён прикладом.
+This rig couples\nincreased stopping\npower with rapid\nfire capability.
+Такая модификация\nобладает высокой\nубойностью и\nчастотой огня.
+Handgun
+Glock 34
+Glock 34. Easier handling\nbut modest stopping power.
+Лёгкий пистолет. Обладает\nскромной убойной силой.
+Made by Glock of\nAustria. Uses the\n9mm Parabellum\nBullets.
+Модель фирмы Glock.\nИспользует пули\nкалибром 9mm.
+Handgun+Sight
+Glock 34+Прицел
+The Glock 34 is equipped\nwith special sights.
+Лёгкий пистолет.\nОснащён прицелом.
+Critical hit\nprobability is\nincreased.
+Есть шанс нанести\nсерьёзный урон.
+Handgun Custom
+Glock 35
+Glock 35. The 40S&W\nBullets are usable.
+Особая модель Glock. Может\nиспользовать пули .40S&W.
+The Glock special\nmodel. Uses the 9mm\nParabellum and the\n40S&W Bullets.
+Особая модель\nпистолета. Может\nиспользовать оба\nтипа патронов.
+HG Custom+Sight
+Glock 35+Прицел
+The Glock 35 with a sight\nattached.
+Особая модель Glock.\nОснащён прицелом.
+Critical destruction\nrate increases. Uses\nthe 9mm Parabellum &\nthe 40S&W Bullets.
+Есть шанс нанести\nсерьёзный урон.\nИспользует оба типа\nпатронов.
+Grenade Gun
+HK69A1
+40mmHK Grenade Pistol
+Ручной гранатомёт от H&K.\nИспользует гранаты 40mm.
+Grenade Bullets and\nHeat Bullets are\nusable. By Heckler\nand Koch of Germany.
+Оружие однозарядное.\nИспользует обычные\nи зажигательные\nгранаты.
+GG Custom
+HK69A1RC
+40mmHK Grenade Pistol,\n"Regina Custom".
+Ручной гранатомёт от H&K.\nМодификация Регины.
+Allow continuous\nfire with customized\nammo feed cylinder.
+Позволяет сделать\n3 выстрела до\nперезарядки.
+Shotgun Parts
+Части дробовика
+Parts that increase the\npower of a Shotgun.
+Части для реконструкции\nлёгкого дробовика.
+Parts such as the\nfore grip and barrel\nupgrade the weapon\nto a SPAS12.
+Цевьё и дуло.\nМожно переделать\nлёгкий дробовик в\nмодель SPAS12.
+Shotgun Stocks
+Приклад дробовика
+Parts that allow a Shotgun\nto fire continuously.
+Это позволит вести из\nдробовика беглый огонь.
+By attaching it, the\ntime lag for\nreloading is\neliminated.
+Установка это модуля\nснизит паузы при\nстрельбе.
+Handgun Sights
+Прицел пистолета
+Parts that can increase\nhit probability.
+Это даст шанс нанести\nсерьёзный урон.
+A critical hit will\ninflict tremendous\ndamage.
+Удачное попадание\nнанесёт огромный\nурон.
+Handgun Slides
+Затвор пистолета
+Parts that can make the\n40S&W Bullets usable.
+Новый затвор позволит\nиспользовать .40S&W.
+You can remodel\nyour handgun into\na Glock 35 by\nusing this.
+С этим можно\nпеределать старый\nGlock в модель 35.
+GG Parts
+Часть гранатомёта
+Parts that allow a Grenade\nGun to fire continuously.
+Этот механизм позволит\nделать несколько выстрелов.
+By remodeling the\ncylinder, Grenade\nBullets can be fired\ncontinuously.
+Переделав магазин,\nможно делать 3\nвыстрела до\nперезарядки.
+SG Bullets
+Дробь
+Bullets for a Shotgun.
+Боеприпас для дробовика.
+Buckshot loads\ndisperse to hit a\nwider target area.
+Заряд дроби\nобладает большой\nзоной поражения.
+Slag Bullets
+Картечь
+Bullets for a Shotgun.
+Боеприпас для дробовика.
+The larger shot size\nmakes them more\ndestructive than the\nSG Bullets.
+Картечь наносит\nбольше ущерба,\nчем обычная дробь.
+An. Dart S
+Снотворное сл.
+Darts for the Shotgun.\nThis makes the enemy sleep.
+Дротики со снотворным.\nИспользуются с дробовиком.
+It takes more than\none shot for it to\nwork, since the\neffect is weak.
+Придётся сделать\nбольше одного\nвыстрела, чтобы\nподействовало.
+An. Dart M
+Снотворное ср.
+Darts for the Shotgun.\nThis makes the enemy sleep.
+Дротики со снотворным.\nИспользуются с дробовиком.
+It can tranquilize\nwith a single shot,\nbut the effects do\nnot last long.
+Нокаутирует сразу,\nно эффект длится\nнедолго.
+An. Dart L
+Снотворное сил.
+Darts for the Shotgun.\nThis makes the enemy sleep.
+Дротики со снотворным.\nИспользуются с дробовиком.
+It can tranquilize\nwith a single shot,\nand the effect lasts\nfor a long time.
+Нокаутирует сразу,\nи эффект длится\nдолгое время.
+Poison Dart
+Дротик с ядом
+Darts for the Shotgun.\nKills an enemy in a single shot.
+Дротик со смертельным ядом.\nИспользуется с дробовиком.
+The warhead is armed\nwith a deadly poison\nthat kills an enemy\nwith one shot.
+Наконечник смазан\nсмертельным ядом,\nкоторый убивает\nодним попаданием.
+9mm Parabellum
+Пули 9mm
+Bullets for the Handgun.
+Боеприпас для пистолета.\n9mm Parabellum.
+Standard bullets that\neither Glock 34 or\n35's use.
+Стандартный патрон.\nИспользуется в Glock\n34 и 35.
+40S&W Bullets
+Пули .40S&W
+Bullets for the Handgun.\n(For Glock 35.)
+Боеприпас для пистолета.\n.40 Smith & Wesson
+It has greater\nattack power than\nthe 9mm Parabellum\nBullet.
+Патрон имеет лучшие\nпоражающие свойства,\nчем у 9mm.
+Grenade Bullets
+Гранаты
+Bullets for a Grenade Gun.
+Боеприпас для гранатомёта.
+Exploding bullets\nfor use with the\nGrenade Gun.
+40-мм гранаты для\nиспользования в\nгранатомёте.
+Heat Bullets
+Зажиг. гранаты
+Bullets for the Grenade Gun.
+Боеприпас для гранатомёта.
+Flame type bullets\nfor the Grenade Gun.
+Зажиг. гранаты для\nгранатомёта.
+Inf. Grenades
+Бескон.гранаты
+Allows you to use the\nGrenade Gun unlimitedly.
+Бесконечный боеприпас\nдля гранатомёта.
+A special item that\nRegina brought\nherself.
+Особый предмет за\nигровые достижения.
+Hemostat
+Зажим
+Stops the bleeding but\nwill not recover your health.
+Останавливает кровь,\nно не восполняет здоровье.
+Prevents loss of\nhealth due to\nbleeding.
+Предотвращает потерю\nздоровья из-за\nкровотечения.
+Med. Pak S
+Аптечка мал.
+Will temporarily recover\nyour health.
+Восстанавливает немного\nздоровья.
+Has the ability to\nsoften the pain\ntemporarily.
+Компенсирует\nнебольшую часть\nповреждений.
+Med. Pak M
+Аптечка ср.
+Will completely recover\nyour health.
+Полностью восстанавливает\nздоровье.
+You can recover your\nhealth completely.
+Полностью восполнит\nздоровье.
+Med. Pak L
+Аптечка бол.
+It can recover health\nand also stopping the bleeding.
+Восполняет здоровье и\nостанавливает кровотечение.
+You can recover your\nhealth completely\nand stop the\nbleeding.
+Полностью восполнит\nздоровье и остановит\nкровь.
+Resuscitation
+Реанимация
+Effective when you have\nlost your life.
+Срабатывает автоматически в\nслучае гибели персонажа.
+You can return to\nlife with your\nhealth fully\nrestored.
+Возвращает к жизни\nс полным здоровьем.
+An. Aid
+Анестетик
+Select the "MIX" icon on\nthe sub screen before use.
+Используется в процессе\nсмешивания веществ.
+Increases the\npotency of items\nwith Anesthetic\nproperties.
+Увеличивает\nпотенциал\nанестезирующих\nвеществ.
+Recovery Aid
+Физраствор
+Increases the\npotency of items\nwith recovering\nproperties.
+Увеличивает\nпотенциал\nвосстанавливающих\nвеществ.
+Intensifier
+Усилитель
+Increases the power\nof a particular\nitem.
+Увеличивает силу\nлюбого вещества.
+Multiplier
+Умножитель
+Mixing this with\nanother medicine\nwill allow you to\nmultiply that item.
+Удваивает кол-во\nлюбого вещества.
+Plug
+Переходник
+Used to open the emergency\nboxes.
+Используется для открытия\nаварийных ящиков.
+Used for red, green\nand yellow boxes.\nMultiple plugs may\nbe necessary.
+Открывает аварийные\nящики. Может\nпотребоваться\nнесколько.
+Locker Room Key
+Ключ от раздевалки
+An old-style cylinder key.
+Ключ старого образца.
+The words "Locker\nRoom" are carved\ninto it.
+Высечены слова:\n"Раздевалка".
+Small Size Key
+Маленький ключ
+A small key made of\naluminum.
+Небольшой ключ, сделанный\nиз алюминия.
+The words "Emergency\nCase" are carved\ninto it.
+Высечены слова:\n"Медицинский бокс".
+Entrance Key
+Ключ главного входа
+An old-style cylinder key.
+Ключ старого образца.
+The words "Main\nEntrance" are carved\ninto it.
+Высечены слова:\n"Главный вход".
+BG Room B1 Key
+Ключ генераторной B1
+An old-style cylinder key.
+Ключ старого образца.
+The words "Backup\nGenerator Room B1"\nare carved into it.
+Высечены слова:\n"Генераторная B1".
+BG Area Key
+Ключ генераторной 1F
+An old-style cylinder key.
+Ключ старого образца.
+The words "Backup\nGenerator Area /\nGround Level" are\ncarved into it.
+Высечены слова:\n"Генераторная 1F".
+C. O. Area Key
+Ключ п/з
+A standard type of\nelectronic key.
+Стандартный тип\nэлектронного ключа.
+The words "Carrying\nOut Area" are carved\ninto it.
+Высечены слова:\n"Погрузочная зона".
+Port Card Key
+Порт-допуск
+Opens the gate that leads\nto the port.
+Открывает путь, ведущий в\nпорт.
+Part of a strict\nsecurity system.
+Элемент строгой\nсистемы контроля.
+ID Card
+ID-карта
+Certifies the access type\nof "Colonel".
+Авторизованный доступ:\n"Полковник".
+The card data may be\noverwritten when\nfacility personnel\nchanges occur.
+Данные могут быть\nперезаписаны в\nслучае кадровых\nизменений.
+Comm. ID Card
+ID-карта связиста
+Certifies the access type\nof "Communicator".
+Авторизованный доступ:\n"Связист".
+It can activate the\nelevator that leads\nto the Communication\nRoom.
+Позволяет\nвоспользоваться\nлифтом в\n"Комнату Связи".
+ID Card
+ID-карта
+Certifies the access type\nof "Researcher".
+Авторизованный доступ:\n"Научный сотрудник".
+The card data may be\noverwritten when\nfacility personnel\nchanges occur.
+Данные могут быть\nперезаписаны в\nслучае кадровых\nизменений.
+Key Card Lv. D
+Ключ-карта ур. D
+A card that can unlock the\nelectronic lock of doors.
+Карта открывает электронный\nзамок дверей.
+The level of this\ncard is "D".
+Уровень доступа\nкарты: "D".
+Key Card Lv. C
+Ключ-карта ур. C
+A card that can unlock the\nelectronic lock of doors.
+Карта открывает электронный\nзамок дверей.
+The level of this\ncard is "C".
+Уровень доступа\nкарты: "C".
+Key Card Lv. B
+Ключ-карта ур. B
+A card that can unlock the\nelectronic lock of doors.
+Карта открывает электронный\nзамок дверей.
+The level of this\ncard is "B".
+Уровень доступа\nкарты: "B".
+Key Card Lv. A
+Ключ-карта ур. A
+This is the highest level\nkey card.
+Карта имеет максимальный\nуровень доступа.
+It can be used to\nenter all areas of\nthe facility.
+С ней можно открыть\nдвери любого уровня.
+ID Card
+ID-карта
+The ID Card used for\n"Project Superintendent".
+Авторизованный доступ:\n"Руководитель проекта".
+This card certifies\nthe status of Dr.\nKirk.
+Карта подтверждает\nстатус др. Кирка.
+C. O. Pass Card
+Пропуск п/з
+Enables access to the B3\nfloor from the C. O. Area.
+Предоставляет доступ на\nуровень B3 из погрузочной зоны.
+Without this pass\ncard, you will not\nbe able to access\nall of the floors.
+С этим пропуском\nможно попасть в\nдругие зоны В3.
+Panel Key 1
+Смарт-карта 1
+A medal and 3 symbols are\ncarved into this panel.
+На ней изображены фигура\nи три символа.
+It appears to be a\npanel that can\nunlock an electronic\nlock.
+Должно быть, она\nоткрывает какой-то\nэлектронный замок.
+Panel Key 2
+Смарт-карта 2
+A medal and 3 symbols are\ncarved into this panel.
+На ней изображены фигура\nи три символа.
+It appears to be a\npanel that can\nunlock an electronic\nlock.
+Должно быть, она\nоткрывает какой-то\nэлектронный замок.
+Startup Batt. R
+Пусковая батарея R
+Uncharged battery for use\nwith the Backup Generator.
+Используется в запуске\nгенератора. Разряжена.
+You cannot use it\nnow, since it has\nnot been charged.
+Нужно зарядить,\nпрежде чем\nиспользовать.
+Charged battery for use\nwith the Backup Generator.
+Используется в запуске\nгенератора. Заряжена.
+It is fully charged.
+Полностью заряжена.
+F. C. Device
+Сканер отпечатков
+No fingerprint data is\ncurrently saved.
+Сейчас нет записанных\nданных по отпечаткам.
+When an ID Card is\ncreated, this device\nis used to input the\nidentification data.
+Вводит данные по\nотпечаткам пальцев\nпри регистрации уч.\nзаписи на ID-карту.
+There is fingerprint data\nalready saved.
+Сейчас есть записанные\nданные по отпечаткам.
+B1 Crane Card
+Кран-допуск B1
+An automation program card\nused to control the crane.
+Карточка запуска программы\nуправления краном.
+The card seems\nto be used when\ntransporting\nchemical materials.
+Карта нужна для\nперемещения\nгрузов по складу.
+Screwdriver
+Шуруповёрт
+A tool for maintenance.
+Инструмент технического\nобслуживания.
+A specially shaped\nscrewdriver that is\nused for computer\nmaintenance.
+Спец. инструмент\nдля доступа ко\nвнутренним узлам\nсистемы.
+Antenna Key
+Ключ антенны
+A card that is used for\nactivating the antenna.
+Карта активации\nуправления антенной.
+A startup key in the\nshape of a card.
+Ключ запуска в виде\nкарточки.
+B1 Key Chip
+Чип-ключ B1
+Unlocks the library room cell.\nNeeds rewriting.
+Открывает ячейку в библиотеке.\nНужна перезапись.
+The numbers "3695"\nare hand-written\nonto it.
+Чьей-то рукой\nнаписано: "3695".
+Unlocks the library room\nlock. Already rewritten.
+Открывает ячейку в библиотеке.\nУже перезаписано.
+The numbers "3695"\nare hand-written\nonto it.
+Чьей-то рукой\nнаписано: "3695".
+Key Card L
+Ключ-карта L
+A key card that can unlock\nan electronic lock.
+Карточка открывает некий\nэлектронный замок.
+The letter "L" is\ncarved into the\ncard.
+На ней нанесена\nбуква: "L".
+Key Card R
+Ключ-карта R
+A key card that can unlock\nan electronic lock.
+Карточка открывает некий\nэлектронный замок.
+The letter "R" is\ncarved into the\ncard.
+На ней нанесена\nбуква: "R".
+B3 Crane Card 1
+Кран-допуск B3 1
+An automation program card\nused to control the crane.
+Карточка запуска программы\nуправления краном.
+Apparently, it\ncannot be used for\nthe crane on the\nB1 floor.
+Похоже, он\nнеприменим для\nкрана на этаже B1.
+B3 Crane Card 2
+Кран-допуск B3 2
+B3 Crane Card 3
+Кран-допуск B3 3
+Stabilizer
+Стабилизатор
+Parts that control the\nThird Energy Generator.
+Элемент контроля\nТретьей Энергии.
+The parts necessary\nto stabilize control\nof the generator.
+Необходим для\nустойчивой работы\nгенератора.
+Initializer
+Стартер
+Parts used to start the\nThird Energy Generator.
+Элемент запуска\nТретьей Энергии.
+These parts create\nthe energy that is\nrequired to start\nthe generator.
+Необходим для\nсоздания импульса,\nзапускающего\nгенератор.
+Protect P. 1-A
+Кожух 1-A
+Constitution parts for the\nStabilizer.
+Составная часть\nстабилизатора.
+A critical part to\nthe Stabilizer. It\nprotects the core\nparts from shock.
+Важная деталь\nстабилизатора.\nЗащищает ядро\nот ударов.
+Protect P. 1-B
+Кожух 1-B
+Protect P. 2-A
+Кожух 2-A
+Constitution parts for the\nInitializer.
+Составная часть\nстартера.
+A critical part to\nthe Initializer. It\nprotects the core\nparts from shock.
+Важная деталь\nстартера. Защищает\nядро от ударов.
+Protect P. 2-B
+Кожух 2-B
+Core Parts 1
+Сердечник 1
+The main parts of the\nStabilizer.
+Главная часть\nстабилизатора.
+To be combined with\nProtective Parts 1-A\nand Protective Parts\n1-B.
+Сочетается с\nКожухом 1-A и\nКожухом 1-B.
+Core Parts 2
+Сердечник 2
+The main parts of the\nInitializer.
+Главная часть\nстартера.
+To be combined with\nProtective Parts 2-A\nand Protective Parts\n2-B.
+Сочетается с\nКожухом 2-A и\nКожухом 2-B.
+Energy Tank
+Энергобак
+The power source of the\nnuclear energy engine.
+Источник питания для\nядерного двигателя.
+The tank capacity\nmeter reads "Empty".
+Индикатор ёмкости:\n"Пусто".
+Nucleum
+Ядерное топливо
+It is stored in the tank\nof the nuclear engine.
+Оно помещено в бак для\nядерного двигателя.
+A highly stable,\nman-made nuclear\nenergy. The meter\nreads "Full".
+Высокостабильная\nядерная энергия.\nИндикатор ёмкости:\n"Полный".
+B2 Key Chip 1
+Чип-ключ B2
+A different version from\nthe B1 Library Room Key.
+Эта версия отличается\nот чипа в библиотеке B1.
+There is no writing\ncarved into the\nusual place. Data\nneeds rewriting.
+Надписей нет.\nДанные нужно\nперезаписать.
+A different version from\nthe B1 Library Room Key.
+Эта версия отличается\nот чипа в библиотеке B1.
+There is no writing\ncarved into the\nusual place. Data\nalready rewritten.
+Надписей нет.\nДанные уже\nперезаписаны.
+B2 Key Chip 2
+Чип-ключ B2
+A different version from\nthe B1 Library Room Key.
+Эта версия отличается\nот чипа в библиотеке B1.
+The numbers "0392"\nare carved onto it.\nData needs\nrewriting.
+Высечена надпись:\n"0392". Данные\nнужно перезаписать.
+A different version from\nthe B1 Library Room Key.
+Эта версия отличается\nот чипа в библиотеке B1.
+The numbers "0392"\nare carved onto it.\nData already\nrewritten.
+Высечена надпись:\n"0392". Данные\nуже перезаписаны.
+Pulse Receiver
+Датчик слежения
+It can receive a signal\nfrom the transmitter.
+Датчик принимает сигнал\nот маячка.
+You can use it to\nfind the location of\nDr. Kirk.
+С этим можно\nнайти др. Кирка.
+Startup Batt. R
+Пусковая батарея R
+A large red battery.
+Имеет красный цвет.
+Supplies the startup\npower for the Backup\nGenerator and the\nMain Generator.
+Снабжает генератор\nэнергией для запуска.
+Startup Batt. W
+Пусковая батарея W
+A large white battery.
+Имеет белый цвет.
+Supplies the startup\npower for the Backup\nGenerator and the\nMain Generator.
+Снабжает генератор\nэнергией для запуска.
+Secret Disc
+Секретный диск
+Contains all of the data\nabout the Third Energy.
+Содержит всю информацию\nо Третьей Энергии.
+The disc contains\ninformation about\nusing the Third\nEnergy as a weapon.
+Содержит данные\nо применении \nТретьей Энергии\nв качестве оружия.
+Researcher Memo
+Записка погибшей
+Numbers are written in blood.
+Числа, написанные кровью.
+The numbers "1281"\nare written.
+Написаны числа:\n"1281".
+Planning Disc
+Диск разработки
+Allows you to access to\nthe research database.
+Даёт доступ к научной\nбазе данных.
+With this, you can\nbuild the\nInitializer and the\nStabilizer.
+С этим можно\nсобрать стартер\nи стабилизатор.
+DDK Input Disc H
+Диск Ввода ЭК "H"
+It is used to unlock the\ncorresponding DDK lock.
+Нужно для открытия\nэлектронного замка ЭК.
+Collect the "Code"\ndisc with the same\nmark and set both\nparts into the door.
+Найдите диск\n"КОДА" с той же\nметкой и вставьте\nоба ключа в панель.
+DDK Input Disc N
+Диск Ввода ЭК "N"
+DDK Input Disc L
+Диск Ввода ЭК "L"
+DDK Input Disc E
+Диск Ввода ЭК "E"
+DDK Input Disc W
+Диск Ввода ЭК "W"
+DDK Input Disc S
+Диск Ввода ЭК "S"
+DDK Input Disc D
+Диск Ввода ЭК "D"
+DDK Code Disc H
+Диск Кода ЭК "H"
+It is used to unlock the\ncorresponding DDK lock.
+Нужно для открытия\nэлектронного замка ЭК.
+Collect the "Input"\ndisc with the same\nmark and set both\nparts into the door.
+Найдите диск\n"ВВОДА" с той же\nметкой и вставьте\nоба ключа в панель.
+DDK Code Disc N
+Диск Кода ЭК "N"
+DDK Code Disc L
+Диск Кода ЭК "L"
+DDK Code Disc E
+Диск Кода ЭК "E"
+DDK Code Disc W
+Диск Кода ЭК "W"
+DDK Code Disc S
+Диск Кода ЭК "S"
+DDK Code Disc D
+Диск Кода ЭК "D"
+Use and check your items.
+Просмотр и использование\nваших вещей.
+Equip and check your weapons\nand bullets.
+Экипировка вашего оружия\nи патронов.
+The areas you have been to will\nbe indicated.
+Смотреть места, где вы\nпобывали.
+Mix two supply items to create\na new item.
+Объединение двух предметов\nдля создания нового.
+Return to the game screen.
+Вернуться к игре.
+You can't refer to the map in this mode.
+Вы не можете открыть карту\nв этом режиме.
+Facility 1F
+Комплекс 1F
+Facility 2F
+Комплекс 2F
+Facility B1
+Комплекс B1
+Facility Outdoors
+Снаружи комплекса
+Outdoors B1
+Снаружи B1
+Facility B2
+Комплекс B2
+Facility B3
+Комплекс B3
+Locker Room
+Раздевалка
+Toilet
+Туалет
+Management Office Hallway
+Холл офиса управляющего
+Management Office
+Офис управляющего
+Strategy Room
+Оперативный штаб
+Control Room Hall
+Холл комнаты управления
+Control Room 1F
+Комната управления 1F
+Main Entrance
+Главный вход
+Lecture Room Hallway
+Холл зала лекций
+Lecture Room
+Зал лекций
+Office Hallway
+Холл офиса
+Office
+Офис
+Material Storage
+Склад
+Backyard of the Facility
+Задний двор комплекса
+Passageway to the Backup\nGenerator
+Проход к генераторной
+Backup Generator Room 1F
+Генераторная 1F
+Piping Check Passageway A 1F
+Вентиляционный коридор A 1F
+Piping Check Passageway B 1F
+Вентиляционный коридор B 1F
+The Backyard
+Задний двор
+Elevator Hall
+Элеваторный холл
+Passageway to the Backup\nGenerator
+Проход к генераторной
+Communication Antenna Room
+Комната управления антенной
+Passageway to the\nCommunication Area
+Проход к зоне связи
+Chief's Room
+Кабинет начальника
+Hall 2F
+Холл 2F
+Lounge
+Комната отдыха
+Communication Room
+Комната связи
+Main Entrance
+Главный вход
+Experiment Simulation Room
+Зал экспериментальной\nсимуляции
+Research Area Hall
+Холл научной зоны
+Research Meeting Room
+Научный конференц-зал
+Gas Experiment Room
+Газовый экспериментальный зал
+Computer Room
+Зал вычислений
+Library Room
+Зал библиотеки
+Main Hallway B1
+Главный холл B1
+Medical Room Hallway
+Коридор медицинского кабинета
+Medical Room
+Медицинский кабинет
+Hall B1
+Холл B1
+Hallway for Carrying in Materials
+Коридор перевозки материалов
+Backup Generator Room B1
+Генераторная B1
+Carrying Out Room B1
+Погрузочная зона B1
+Front Area of Entrance
+Территория главного входа
+Passageway to the Heliport
+Проход к вертолётной площадке
+Hangar
+Ангар
+Heliport
+Вертолётная площадка
+Large Size Elevator Passageway
+Коридор грузового лифта
+Large Size Elevator
+Грузовой лифт
+Large Size Elevator Control Room
+Комната управления\nгрузовым лифтом
+Passageway to the Power Room
+Проход к залу энергоподачи
+Elevator Power Room
+Зал энергоподачи
+Liaison Elevator No.2
+Пересадочный лифт 2
+Underground Passageway to\nthe Facility
+Подземный проход к комплексу
+Materials Room
+Склад материалов
+Liaison Elevator No.1
+Пересадочный лифт 1
+Passageway to the Experiment Area
+Проход к экспериментальной зоне
+Piping Check Passageway B2
+Вентиляционный коридор B2
+Experiment Room Hall
+Холл экспериментального зала
+Stabilizer Experiment Room
+Экспериментальный зал\nстабилизатора
+Stabilizer Design Room
+Зал разработки стабилизатора
+Researcher Rest Room
+Комната отдыха\nнаучных сотрудников
+Security Pass Room
+Зал контрольного пункта
+Parts Storage
+Хранилище деталей
+Passageway
+Коридор
+Third Energy Area B2
+Зона Третьей Энергии B2
+Third Energy Area B3
+Зона Третьей Энергии B3
+Third Energy Control Room
+Комната управления\nТретьей Энергией
+Power Freq. Room
+Энергетический зал
+Passageway to Personal Lab
+Проход к частной лаборатории
+Dr. Kirk's Personal Lab
+Личная лаборатория доктора Кирка
+Dr. Kirk's Library Room
+Библиотека доктора Кирка
+Carrying Out Room B3
+Погрузочная зона B3
+Backup Generator Room B3
+Генераторная B3
+Control Room B3
+Комната управления B3
+Passageway to the Carrying\nOut Room
+Проход к погрузочной зоне
+Rest Station
+Зал ожидания
+General Weapons Storage
+Главное хранилище вооружений
+Transport Passageway
+Транспортный коридор
+Special Weapons Storage
+Хранилище специальных вооружений
+Central Stairway
+Центральная лестница
+Disembarkation Immigration Office
+Иммиграционное управление
+Port
+Порт
+Passageway to the Port
+Проход к порту
+Channel
+Канал
+Underground Heliport
+Подземная вертолётная площадка
+Elevator
+Лифт
+Large Size Elevator
+Грузовой лифт
+Hovercraft Storage
+Причал ховеркрафта
+Heliport Transport Passageway
+Вертолётный транспортный коридор
+Hovercraft
+Ховеркрафт
+Port
+Порт
+Port Transport Passageway
+Портовый транспортный коридор
+General Weapons Storage
+Главное хранилище вооружений
+None equipped.
+Не экипировано.
+There are no weapons to equip.
+Нет доступного оружия.
+None equipped.
+Не заряжено.
+There are no bullets to equip.
+Нет подходящего боеприпаса.
+A weapon is not equipped.
+Оружие не экипировано.
+It cannot be used here.
+Это нельзя применить здесь.
+You got the 
+Вы получили 
+It is not necessary to use it now.
+Нет нужды использовать это сейчас.
+It cannot be used here.
+Это нельзя применить здесь.
+It cannot be used\nfor the equipped weapon.
+Это не подходит для\nэкипированного оружия.
+Are you sure you want to mix them?
+Хотите объединить?
+Those 2 items cannot be mixed.
+Эти предметы нельзя объединить.
+Use
+Исп.
+Check
+Осмотр
+Sort
+Сорт.
+Equip
+Взять
+Mix
+Объед.
+is made.
+получен.
+are made.
+получено.
+There is no item.
+Нет предметов.
+SAVE DATA
+СОХРАНИТЬ
+LOAD DATA
+ЗАГРУЗИТЬ
+Now checking...
+Проверка...
+Please do not remove the
+Не вынимайте карту
+Memory Card.
+памяти.
+Please select the Memory Card.
+Выберите карту памяти.
+MEMORY CARD 1
+КАРТА ПАМЯТИ 1
+MEMORY CARD 2
+КАРТА ПАМЯТИ 2
+EXIT
+ВЫХОД
+There is no Memory Card.
+Нет карты памяти.
+Please insert a Memory Card.
+Вставьте карту памяти.
+The Memory Card is not
+Карта памяти не
+formatted.
+форматирована.
+Please insert a different
+Вставьте другую карту
+Memory Card.
+памяти.
+The data is invalid.
+Неверные данные.
+This data cannot be used.
+Неверные данные.
+No data to load.
+Нечего загружать.
+Now loading.
+Загрузка...
+Load failed.
+Ошибка загрузки.
+Please try again.
+Попробуйте ещё раз.
+Memory Card not formatted.
+Карта памяти не форматирована.
+Do you want to format it?
+Отформатировать?
+The Memory Card does not
+На карте памяти нет
+have enough free blocks.
+свободных блоков.
+An additional 1 block of
+Нужен ещё 1 блок.
+free memory is required.
+
+Would you like to
+ Хотите переписать
+overwrite the data?
+сохранённые данные?
+Now saving.
+Сохранение...
+Save failed.
+Ошибка сохранения.
+Save complete.
+Завершено.
+Formatting.
+Форматирование...
+Access error.
+Ошибка доступа.
+Data for other games.
+Данные другой игры.
+Format failed.
+Ошибка форматирования.
+Normal
+Обычно
+Easy
+Легко
+Play Time
+Время игры
+Continues
+Продолжений
+Left
+осталось
+Clear Times
+Пройдено раз
+Game Mode
+Режим игры
+Button Type
+Настройка
+Cancel/\nDash
+Отмена/\nБег
+Sub Screen
+Подменю
+Decide/\nAttack
+Применить/\nАтака
+Auto Targeting
+Автоприцел
+Vibration
+Вибрация
+Would you like to reset
+Вы хотите сбросить игру?
+the game?
+
+For optimal picture
+Для лучшего отображения
+settings, adjust the
+картинки, настройте
+brightness of your screen
+яркость экрана так,
+so that the color bar
+чтобы цвета ниже белой
+beneath the white line
+линии не были видны.
+cannot be seen.
+
+OFF
+ВЫКЛ
++
++
+++
+++
+You have used the\nResuscitating Medicine.
+Вы использовали\nпрепарат воскрешения.
+SPY TYPE
+ШПИОНСКИЙ
+ARMY TYPE
+АРМЕЙСКИЙ
+BATTLE TYPE
+БОЕВОЙ
+ANCIENT TYPE
+ПЕРВОБЫТНЫЙ
+PUSH START
+НАЖМИТЕ START
+PAUSE
+ПАУЗА
+GAME START
+НАЧАТЬ ИГРУ

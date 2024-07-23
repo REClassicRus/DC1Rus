@@ -1,0 +1,9 @@
+A notice panel."Chemicals and \ndangerous materials are being \n{--}\nhandled. Do not leave any \nmaterials that may interfere with \n{--}\ntransportation."
+Доска объявлений.\nПеревозятся химикаты и опасные\n{--}\nвещества. Не оставляйте\nматериалы которые могут помешать\n{--}\nтранспортировке.
+288 298052
+A tough-looking wire netting. It's \nbeen smashed by something \n{--}\nwith incredible strength.
+Прочный кабель был чем-то\nразорван с чудовищной силой.
+180
+The shutter cannot be operated \nsince a facility lock-down is in \n{--}\nprogress.
+Заслонка не работает,\nкомплекс в режиме карантина.
+154

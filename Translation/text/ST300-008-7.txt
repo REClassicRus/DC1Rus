@@ -1,0 +1,99 @@
+{$1001}Super computer for exclusive use \nin this experiment room. Precise \n{--}\nsimulations are required for all \nexperiments conducted here.
+{$1001}Суперкомпьютер для этой\nкомнаты. Для всех проводимых\n{--}\nэкспериментов необходимо точное\nмоделирование.
+264 71132
+{$1001}These panels display/ record the \nworking conditions of the \n{--}\nsimulators.
+{$1001}Эти панели записывают\nработу симуляторов.
+150
+{$1001}A computer used to analyze the \nresearch data. The locus of the \n{--}\nenergy efficiency is shown by \nthe three dimensional graph.
+{$1001}Компьютер для анализа\nнаучных данных. Кривая\n{--}\nэффективности отображена на\nтрех графиках.
+254
+{$1001}Possibly the power supply for \nthe simulators.
+{$1001}Вероятно, источник энергии\nсимуляторов.
+94
+{$1001}It looks like a doctor's journal. \nWill you read the file?\n                  {$0800}
+{$1001}Похоже на журнал доктора.\n{--}\nБудете читать файл?\n                  {$0800}
+158
+{$9000}\nIt is easy to unleash any kind\nof power. The real task is\nkeeping the power under\ncontrol. The improvement of\nthe "Initializer" ignition\ndevice has enhanced energy\nefficiency to the maximum.\n{$9000}\nDespite that progress, we have\nbeen unable to advance the\ndevelopment of the "Stabilizer"\nsafety valve since the accident\nthat happened three years ago.\nThe "Third Energy Theory"\nwill surely alter human\nhistory drastically.{$9000}\nBut as long as there is an\nuncertain element regarding\nthe control of this power,\neven if it is only 0.1% of a\nprobability, my work will be \nnothing but a terrible failure.\n{$9000}\nThe restraining power of the\n"Stabilizer" we used in\ntonight's experiment was\ninsufficient. The area\naffected by the excess energy\nis estimated to be a radius of\n3,300 feet.\n{$9000}\nThe result of tonight's\nexperiment may please\nthe military people in a sense.\nThe giant creatures that\nemerged just after the\nexperiment have given me much\ninspiration.\n{$9000}\nThe most important thing to do\nright now is to leave here safely.\nAs soon as I finish analyzing\nthe data, I'll evacuate via\nthe bottom floor. \n \n \n \n \n{$9000}
+{$9000}\nНесложно высвободить любой тип\nэнергии. Реальная проблема -\nудержать контроль над ней.\nУлучшение зажигания "Стартера"\nувеличило выход энергии до\nмаксимума.\n{$9000}\nНесмотря на такой прогресс, нам\nне удалось усовершенствовать\nпредохранительный клапан\n"стабилизатора" с тех пор, как\nпроизошла катастрофа.\n"Теория Третьей Энергии"\nдолжна кардинально изменить\nисторию человечества.{$9000}\nНо до тех пор, пока остается\nнерешенным вопрос об управлении\nэтой энергией, даже с\nвероятностью 0.1% моя работа\nбудет ничем иным, как ужасным\nпровалом.\n{$9000}\nВыход энергии "Стабилизатора",\nкоторый мы использовали сегодня,\nбыл недостаточным. Зона,\nохваченная выходом лишней\nэнергии, имеет примерный радиус\nв 3300 футов.\n{$9000}\nРезультат сегодняшнего\nэксперимента может сильно\nпонравиться военным.\nГигантские существа,\nпоявившиеся сразу после\nэксперимента, сильно\nвпечатлили нас.\n{$9000}\nСамое важное сейчас -\nбезопасно покинуть это место.\nПосле того, как я закончу\nанализ, я уйду через нижний\nэтаж.\n \n \n \n \n{$9000}
+2188
+{$1000} \n {$1046}
+{$1000} \n {$1046}
+10
+{$1000} \n {$1032}
+{$1000} \n {$1032}
+10
+{$1000} \n {$1064}
+{$1000} \n {$1064}
+10
+{$1000} \n {$1064}
+{$1000} \n {$1064}
+10
+{$1000} \n {$1023}
+{$1000} \n {$1023}
+10
+{$1000} \n {$1064}
+{$1000} \n {$1064}
+10
+{$1000} \n {$1082}
+{$1000} \n {$1082}
+10
+{$1000} \n {$1082}{$9000}{$1000} \n {$1064}
+{$1000} \n {$1082}{$9000}{$1000} \n {$1064}
+22
+{$1000} \n {$105A}{$9000}{$1000} \n {$106E}{$9000}{$1000} \n {$102D}
+{$1000} \n {$105A}{$9000}{$1000} \n {$106E}{$9000}{$1000} \n {$102D}
+34
+{$1000} \n {$1032}
+{$1000} \n {$1032}
+10
+{$1000} \n {$105A}
+{$1000} \n {$105A}
+10
+{$1000}  \n  {$105A}{$9000}{$1000}  \n  {$1064}
+{$1000}  \n  {$105A}{$9000}{$1000}  \n  {$1064}
+30
+{$1000} \n {$1096}{$9000}{$1000} \n {$105A}
+{$1000} \n {$1096}{$9000}{$1000} \n {$105A}
+22
+{$1000} \n {$1046}
+{$1000} \n {$1046}
+10
+{$1000} \n {$105A}
+{$1000} \n {$105A}
+10
+Now I can escape through the \nemergency hatch!
+Теперь я могу уйти через\nзапасной люк.
+92
+{$1001}You can release the emergency \nhatch with this computer \n{--}\nterminal. Will you operate the \nterminal? {$0800}
+{$1001}Можно открыть запасной люк с\nэтого компьютерного терминала.\n{--}\nБудете использовать терминал?{$0800}
+206
+{$1001}Dr. Kirk's personal terminal. It is \nused to analyze data, and can \n{--}\nbe used to release the \nemergency evacuation hatch.
+{$1001}Персональный терминал доктора\nКирка. Использовался для\n{--}\nанализа данных и открытия\nзапасного люка.
+244
+{$1001}An evacuation hatch for \nemergencies. It's securely \n{--}\nsealed by several electronic \nlocks.
+{$1001}Люк для экстренной эвакуации.\nПрочно заперт несколькими\n{--}\nэлектронными замками.
+184
+{$1001}Will you use the emergency \nevacuation hatch? {$0800}
+{$1001}Хотите использовать люк\nэвакуации?{$0800}
+96
+{$1001}It's some kind of simulator.\n{--}\nThere are three switches\non the panel.\n{--}\n{$80AC}: Ignite the Third Energy circuit.\n{--}\n{$80AE}: Set the Initializer.\n{$80B0}: Set the Stabilizer.\n{--}\nWhich switch will you press?\n               {$80AC}   {$80AE}   {$80B0}   Cancel{$0802}
+{$1001}Это что-то вроде симулятора.\n{--}\nНа панели три переключателя.\n{--}\n1: Активировать контур 3-й Энергии\n{--}\n2: Установить стартер.\n3: Установить стабилизатор.\n{--}\nКакой переключатель нажмете?\n     1   2   3  Отмена{$0802}
+446
+{$1001}The Initializer has been set.
+{$1001}Стартер установлен.
+60
+{$1001}The Stabilizer has been set.
+{$1001}Стабилизатор установлен.
+58
+{$1001}The Initializer ignition plug has \nnot been set.
+{$1001}Вилка стартера не\nподключена.
+98
+{$1001}Under the current circumstances, \nthe Third Energy reaction will \n{--}\nexceed the overflow limit. The \nsystem cannot be started.
+{$1001}В текущих условиях, реакция\nТретьей Энергии превысит\n{--}\nпредел нагрузки.\nСистема запущена не будет 
+252
+{$1001}Because there's not enough \nenergy for the simulation, the \n{--}\nsystem cannot be started.
+{$1001}В связи с недостаточным\nколичеством энергии,\n{--}\nсистема запущена не будет.
+176
+{$1001}Which switch will you press?\n     {$80AC}   {$80AE}   {$80B0}  Cancel{$0802}
+{$1001}Какой переключатель нажмете?\n     1   2   3  Отмена{$0802}
+106

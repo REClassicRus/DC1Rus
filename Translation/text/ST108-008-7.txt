@@ -1,0 +1,21 @@
+{$1001}Do you want to climb to the \nventilation opening?{$0800}
+{$1001}Полезете в вентиляционный\nлюк?{$0800}
+102 254596
+{$1001}Will you press the switch?{$0800}
+{$1001}Хотите нажать кнопку?\n{$0800}
+56
+{$1001}Nothing happened.
+{$1001}Ничего.
+36
+{$1001}Ahead: Training Room
+{$1001}Впереди: спортзал
+42
+{$1001}Rest Area Ahead: Training Room
+{$1001}Перед комнатой отдыха спортзал
+62
+{$1001}Most of the body has been \ndevoured.
+{$1001}Большая часть тела была\nсъедена.
+74
+{$1001}A vending machine for nutritional \ndrinks.
+{$1001}Автомат с диетическими\nнапитками.
+86
