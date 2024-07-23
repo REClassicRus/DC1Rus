@@ -1,0 +1,6 @@
+An air conditioner for the \nlaboratory area.
+Кондиционер отдела лабораторий.
+88 115112
+Will you climb down from the \nventilation opening?{$0800}{$8800}
+Будете спускаться из\nвентиляционного люка?{$0800}{$8800}
+104

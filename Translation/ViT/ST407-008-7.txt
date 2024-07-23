@@ -1,0 +1,3 @@
+{$1001}{$2000}Possibly a fan for ventilation.\n{--}\nThe fan is controlled from the \nengine room.
+{$1001}{$2000}Похоже на вентилятор.\n{--}\nУправляется из\nмашинного отделения.
+160 220760

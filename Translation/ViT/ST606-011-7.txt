@@ -1,0 +1,15 @@
+{$1001}{$2000}Nothing happened. 
+{$1001}{$2000}Ничего. 
+40 256912
+{$1001}{$2000}It is a trailer for a transport.
+{$1001}{$2000}Это трейлер для транспорта. 
+68
+{$1001}{$2000}There are oils and repair parts on \nthe shelf.
+{$1001}{$2000}На полке лежат масла и \nзапчасти. 
+96
+{$1001}{$2000}Shutters are sealed on the \nunused shelves to prevent \n{--}\nhumidity from damaging their \ncontents.
+{$1001}{$2000}Остальные полки заперты,\nчтобы не позволить влаге\n{--}\nповредить их содержимое.
+196
+{$1001}{$2000}I need to activate the generator \nfirst...
+{$1001}{$2000}Мне нужно сначала\nзапустить генератор.
+88

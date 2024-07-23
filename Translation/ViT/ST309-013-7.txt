@@ -1,0 +1,63 @@
+{$1000}{$2000} \n {$1053} {$9000}{$1000}\n {$102C}
+{$1000}{$2000} \n {$1053} {$9000}{$1000}\n {$102C}
+24 261120
+{$1000}{$2000} \n {$1071}
+{$1000}{$2000} \n {$1071}
+12
+{$1000}{$2000}\n {$103E}
+{$1000}{$2000}\n {$103E}
+10
+{$1000}{$2000}\n {$103E}
+{$1000}{$2000}\n {$103E}
+10
+{$1000}{$2000} \n {$108B}
+{$1000}{$2000} \n {$108B}
+12
+{$1000}{$2000}\n {$103E} {$9000}{$1000}\n {$104E}
+{$1000}{$2000}\n {$103E} {$9000}{$1000}\n {$104E}
+22
+{$1001}{$2000}You have used the Card.
+{$1001}{$2000}Использовали карточку.
+50
+{$1001}{$2000}With the card you have now, \nyou can go up to the 1F level.\n{--}\nWill you go up to the 1F level?{$0800}
+{$1001}{$2000}С новой карточкой, вы можете\nпопасть на уровень 1F.\n{--}\nХотите подняться на уровень 1F?{$0800}
+192
+{$1001}{$2000}With the card you have now, \nyou can go to any of the floors.\n{--}\nSelect your destination:\n{$1000}                1F  B2  B3  Cancel{$0802}
+{$1001}{$2000}С новой карточкой, вы можете\nпопасть на любой этаж.\n{--}\nВыберите направление:\n{$1000}              1F  B2  B3  Отмена{$0802}
+254
+{$1001}{$2000}It's out of order.\n{--}\nIt does not look like it can be \nrepaired.
+{$1001}{$2000}Не работает.\n{--}\nНе похоже, что это можно \nпочинить.
+130
+{$1001}{$2000}With the card you have \nnow, you can go down to {$1001}the B1 \n{--}\n{$1001}level.Will you go down to the B1 \n\nlevel?{$0800}
+{$1001}{$2000}С новой карточкой, вы можете\nспуститься на уровень В1.\n{--}\nХотите спуститься на уровень В1? {$0800}
+208
+{$1001}{$2000}The B1 floor map is shown on the \npanel.
+{$1001}{$2000}Карта этажа В1 показана на \nпанели. 
+84
+{$1001}{$2000}The map of the B1 floor is shown \non the panel.\n{--}\nWill you save the map data?{$0800}
+{$1001}{$2000}Карта этажа В1 показана на \nпанели.\n{--}\nХотите сохранить карту?{$0800}
+160
+{$1001}{$2000}The map data has been saved. \n{--}\nYou can view the map on the \nMap Screen.
+{$1001}{$2000}Карта сохранена. \n{--}\nПросмотреть карту можно на\nэкране карт.
+148
+{$1001}{$2000}Will you press the switch?{$0800}
+{$1001}{$2000}Хотите нажать кнопку?{$0800}
+58
+{$1001}{$2000}Nothing happened.
+{$1001}{$2000}Ничего.
+38
+{$1001}{$2000}It cannot be opened since a \nlock-down of the facility is \n{--}\nalready in progress.
+{$1001}{$2000}Открыть нельзя, потому что \nзапущена программа карантина\n{--}\nкомплекса.
+166
+{$1001}{$2000}A DDK device. The symbol "L" is \ninscribed.\n{--}\nThe DDK that contains the \ncorrect information is required \n{--}\nto release this lock.\n{--}\nWill you set the DDK?{$0800}
+{$1001}{$2000}Устройство ЭК.\nИзображен символ "L". \n{--}\nНужен ЭК, содержащий информацию,\nдля открытия этого замка.\n{--}\nХотите вставить ЭК? {$0800}
+312
+{$1001}{$2000}The lock has already been \nreleased.
+{$1001}{$2000}Замок уже открыт. 
+76
+{$1001}{$2000}A file titled \n"Security Manual Vol. 1"\n{--}\nWill you read the file?{$0800}
+{$1001}{$2000}Файл "Руководство охраны.\nГлава 1"\n{--}\nХотите прочитать?{$0800}
+136
+{$9000}"DDK," the electronic lock\nsystem of this facility,\nhas been updated. A more\nintricate code system has\nbeen introduced, and the\nsecurity level has been\nimproved.\nYou will need to be aware of \nthe following information when \nentering the password.\n{$9000}Number-Based "KEY" Decoding,\nPart 1.\n\nIn a case where numbers are\nwritten instead of letters in\nthe "KEY" field, the numbers\ncould represent the codes for\nthe corresponding characters.\n{$9000}Here is an example of a\ncorrespondence chart between\nthe letters and the code\nnumbers.\n\nA=1, B=2, C=3......{$9000}
+{$9000}ЭК - система электрозамков\nэтого комплекса, была обновлена.\nВнедрена более сложная кодовая \nсистема, повышающая уровень\nбезопасности.\nВам следует учитывать следующую\nинформацию при вводе пароля.\n{$9000}Расшифровка цифрового "Ключа"\nЧасть 1.\n\nЕсли вместо букв в поле "Ключ"\nнаписаны цифры, они могут быть\nшифром для соответствующих букв.\n{$9000}Вот пример схемы\nсоответствия между буквами и\nкодовыми числами:\n\nA=1, B=2, C=3......{$9000}
+1086

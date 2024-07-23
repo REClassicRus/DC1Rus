@@ -1,0 +1,12 @@
+{$1001}{$2000}A slot to insert a key chip. \nNothing is written on the number \n{--}\nspecification area.
+{$1001}{$2000}Разъем для введения ключа-чипа.\nНа нем нет никакого особого\n{--}\nномера.
+174 319432
+{$1001}{$2000}I don't need to use this anymore.
+{$1001}{$2000}Больше не нужно это\nиспользовать.
+70
+{$1001}{$2000}A slot to insert a key chip. The \nnumber "0392" is inscribed.
+{$1001}{$2000}Ячейка для введения ключа-чипа.\nНа ней написан номер "0392". 
+126
+{$1001}{$2000}It's a sensor to keep a record of \nthe room conditions.
+{$1001}{$2000}Это сенсор для записи условий \nв комнате.
+114
