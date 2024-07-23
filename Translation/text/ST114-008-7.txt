@@ -5,7 +5,7 @@
 {$1000}{$2000}\n {$1033}
 10
 {$1001}{$2000}The body appears to have\nbeen torn apart violently\n{--}\nby sharp, blade-like\nprojections.
-{$1001}{$2000}Похоже, тело было\nразорвано острыми предметами.
+{$1001}{$2000}Похоже, тело было разорвано\nострыми, похожими на лезвия предметами.
 176
 {$1001}{$2000}The blood is still fresh.\nHe has not been dead long.
 {$1001}{$2000}Кровь еще свежая.\nОн умер недавно.

@@ -11,19 +11,19 @@
 {$1001}{$2000}Карты и файлы пациентов \nаккуратно сложены.
 98
 {$1001}{$2000}A file full of notes written by \ndoctors.\n{--}\nWill you read the file?{$0800}
-{$1001}{$2000}Файл полный докторских записок.\n{--}\nХотите прочитать?{$0800}
+{$1001}{$2000}Файл полный врачебных записок. \n{--}\nПрочитать файл?{$0800}
 140
 {$1001}{$2000}Nothing useful inside.
 {$1001}{$2000}Ничего полезного. 
 48
 {$1001}{$2000}The journals of the doctors are \nfiled and placed in order.
-{$1001}{$2000}Врачебные журналы заполнены \nи упорядоченно разложены. 
+{$1001}{$2000}Журналы врачей заполнены \nи разложены по порядку. 
 122
 {$1001}{$2000}It's a computer terminal that can \naccess the researchers' \n{--}\ndatabase. Nothing looks useful.
 {$1001}{$2000}Это компьютерный терминал с \nдоступом к базе данных. \n{--}\nНичего полезного.
 190
 {$1001}{$2000}It looks very old. It shows the \nparts of the brain stem and \n{--}\nnerves.
-{$1001}{$2000}Выглядит очень старым. \nИзображены нервы мозгового \n{--}\nствола 
+{$1001}{$2000}Выглядит очень старым. \nИзображены нервы мозгового \n{--}\nствола.
 146
 {$1001}{$2000}A scheme of the palate and \nteeth.
 {$1001}{$2000}Изображение неба и зубов.
@@ -32,19 +32,19 @@
 {$1001}{$2000}Изображение нервов.
 54
 {$1001}{$2000}A scheme of internal organs.
-{$1001}{$2000}Внутренние органы.
+{$1001}{$2000}Схема внутренних органов.
 60
-{$1001}{$2000}Both of the two emergency \ncases are locked by tiny locks.
-{$1001}{$2000}Вам нужен маленький ключ, чтобы \nоткрыть этот бокс.
+{$1001}{$2000}You need a Small Size Key to \nopen this emergency case.
+{$1001}{$2000}Нужен маленький ключ, чтобы \nоткрыть этот ящик.
 120
 {$1001}{$2000}Which emergency case will you\nopen?         Left  Right  Cancel{$0801}
-{$1001}{$2000}Какой бокс хотите открыть?\n           Левый  Правый  Отмена{$0801}
+{$1001}{$2000}Какой ящик открыть?\n           Лево  Право  Отмена{$0801}
 132
 {$1001}{$2000}You have unlocked the \nemergency case.
-{$1001}{$2000}Вы открыли бокс.
+{$1001}{$2000}Ящик для экстренной\nситуации открыт.
 80
 {$1001}{$2000}It's a memo that seems to have \nbeen addressed to the doctor \n{--}\non duty.\n{--}\nWill you read the memo?{$0800}
-{$1001}{$2000}Это записка, адресованная\nдежурному доктору.\n{--}\nХотите прочитать?{$0800}
+{$1001}{$2000}Похоже, эта записка адресованна\nдежурному врачу.\n{--}\nПрочитать записку?{$0800}
 202
 {$9000}Dr. Sherwood,\nThe ID Card on the desk\nbelongs to one of my patients.\nPlease hand it to Colonel Clay\nwhen he shows up. He told me\nthat he was going to hold a\nmeeting in the Strategy Room\non the 1st floor to make\npreparations for tonight's\nexperiment.\n{$9000}\n\nPlease make sure to hand the\ncard to him since one is\nrequired to enter the Strategy\nRoom.\n{$9000}
 {$9000}Доктор Шервуд,\nЛичная карточка принадлежит\nодному из пациентов. Передайте\nее полковнику Клэю, когда он\nпоявится. Он сказал мне, что\nсобирается провести собрание в\nстратегической комнате на 1-ом\nэтаже для подготовки к\nэксперименту.\n{$9000}\n\nПожалуйста, передайте ему\nкарточку, она нужна для\nдоступа в оперативный штаб.\n{$9000}

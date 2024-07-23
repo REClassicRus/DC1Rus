@@ -206,7 +206,7 @@
 {$1000}{$2000} \n {$106E}
 12
 {$9000}\nWhat will you do?\nWhich strategy will you attempt?\n\n  Gail's strategy: Head for \n  the B3 Lv. A Area.\n\n  Rick's strategy: Head for\n  the Parts Storage on B2.\n{$9000}
-{$9000}\nЧто будете делать?\nКакой стратегии последуете?\n\n  Стратегия Гейла: идти в \n  А-зону уровня B3.\n\n  Стратегия Рика: идти в\n  хранилище на уровне B2.\n{$9000}
+{$9000}\nЧто делать?\nКакой стратегии последовать?\n\n  Стратегия Гейла: идти в \n  А-зону уровня B3.\n\n  Стратегия Рика: идти в\n  хранилище на уровне B2.\n{$9000}
 322
 {$1001}{$2000}Household items and research \ndocuments are mixed together.
 {$1001}{$2000}Бытовые вещи и \nдокументы вперемешку.
@@ -239,8 +239,8 @@
 {$1001}{$2000}Поношенный белый халат.\nОн заляпан химикатами.
 132
 {$1001}{$2000}A notice to the staff from\nDr. Kirk.\n{--}\nWill you read the file?\n{$0800}
-{$1001}{$2000}Записка от персонала\nдоктору Кирку. \n{--}\nВы прочитаете файл?\n{$0800}
+{$1001}{$2000}Записка от персонала\nдоктору Кирку. \n{--}\nПрочитать её?\n{$0800}
 132
 {$9000}\nNotice:\nPreparing the Stabilizer and\nthe Initializer\n\nMake sure these two devices\nare ready in time for the\nexperiment.\n{$9000}Each of these two devices\nconsist of the following three \nparts.\n\n Core Parts\n Protect Part A\n Protect Part B\n\nThis means six parts are\nneeded in all.\n{$9000}These parts are separately\nstored in the Experiment\nRoom, the Design Room and \nthe Parts Storage Room.\nOnce you have acquired all\n6 parts, you can assemble them\nin the Experiment Room.\nThe Weightless Manipulator\nmust be operated by staff of\nlevel A class.\n{$9000}
-{$9000}\nЗамечание:\nподготовка Стабилизатора и\nСтартера.\n\nУбедитесь, что эти устройства\nготовы к эксперименту.\n{$9000}Каждое из устройств\nсостоит из следующих трех\nчастей.\n\nОсновные части\nЗащитная часть А\nЗащитная часть В\n\nЭто означает, что необходимы\nвсе шесть частей.\n{$9000}Они хранятся по отдельности в\nкомнате экспериментов, комнате\nпроектирования и хранилище.\nКогда вы получите все 6 частей,\nсоберите их в комнате\nэкспериментов.\nНевесомый Манипулятор должен\nуправляться сотрудниками\nкласса А.\n{$9000}
+{$9000}\nЗамечание:\nподготовка Стабилизатора и\nСтартера.\n\nУбедитесь, что эти устройства\nготовы к эксперименту.\n{$9000}Каждое из устройств\nсостоит из следующих трех\nчастей.\n\nОсновные части\nЗащитная часть А\nЗащитная часть В\n\nЭто значит, что необходимы\nвсе шесть частей.\n{$9000}Найти их можно в\nкомнате экспериментов, комнате\nпроектирования и хранилище.\nКогда вы получите все 6 частей,\nсоберите их в комнате\nэкспериментов.\nНевесомый Манипулятор должен\nуправляться сотрудниками\nкласса А.\n{$9000}
 1064

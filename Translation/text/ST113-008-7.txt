@@ -1,11 +1,11 @@
 {$1001}It's broken. Apparently, it cannot \nbe repaired.
-{$1001}Поломано. Очевидно, ремонту\nне подлежит.
+{$1001}Сломано. Очевидно, ремонту\nне подлежит.
 98 69412
-{$2001}An elevator that descends into \nthe Laboratory Area.It seems \n{--}\nthat you cannot operate this \nelevator without the correct ID \n{--}\nCard data.
+{$2001}An elevator that descends into \nthe Laboratory Area. It seems \n{--}\nthat you cannot operate this \nelevator without the correct ID \n{--}\nCard data.
 {$1001}Лифт в лабораторную зону.\nСудя по всему, вы не сможете\n{--}\nиспользовать этот лифт без\nправильной карточки.
 280
 {$1001}He is wearing white. Possibly a \nresearcher.
-{$1001}Он одет в белое. Возможно,\nученый.
+{$1001}Он одет в белое. Возможно,\nучёный.
 90
   \n  
   \n  
@@ -19,17 +19,17 @@
 {$1001}You have stopped the beeping of \nthe pager.
 {$1001}Вы отключили сигнал пейджера.
 88
-{$2001}An elevator that descends into \nthe Laboratory Area.A \n{--}\nresearcher's ID Card is required \nto operate the elevator.
-{$1001}Лифт в лабораторную зону.\n{--}\nДля использования этого лифта\nнужна карточка ученого.
+{$2001}An elevator that descends into \nthe Laboratory Area.{--}A researcher's ID Card is \nrequired to operate the elevator.
+{$1001}Лифт в лабораторную зону.\n{--}\nДля использования лифта\nнужна карточка ученого.
 232
-{$2001}This elevator goes down to the \nLaboratory Area.A researcher's \n{--}\nID Card is required to operate \nthe elevator.
-{$1001}Этот лифт ведет в\nлабораторную зону.\n{--}\nДля использования этого лифта\nнужна карточка ученого.
+{$2001}This elevator goes down to the \nLaboratory Area.{--}A researcher's ID Card is \nrequired to operate the elevator.
+{$1001}Этот лифт ведет в\nлабораторную зону.\n{--}\nДля использования лифта\nнужна карточка ученого.
 224
 {$1001}You have used the card.
 {$1001}Вы использовали карту.
 48
-{$1001}With the card you have now,you \ncan go down to the floors.\n{--}\nWill you go down to the B1 \nlevel?\n                  {$0800}
-{$1001}С новой карточкой вы сможете\nспуститься на уровень В1.\n{--}\nХотите спуститься на уровень В1?\n                  {$0800}
+{$1001}With the card you have now, you \ncan go down to the B1 level.\n{--}\nWill you go down to the B1 \nlevel?\n                  {$0800}
+{$1001}С новой карточкой вы сможете\nспуститься на уровень В1.\n{--}\nСпуститься на уровень В1?\n                  {$0800}
 232
 {$1001}With the card you have now,\nyou can go to any of the floors.\n{--}\nSelect your destination:\n             B1   B2   B3   Cancel{$0802}
 {$1001}С новой карточкой вы сможете\nпопасть на любой из этажей.\n{--}\nВыберите уровень:\n              В1  В2  В3  Отмена{$0802}
@@ -37,12 +37,12 @@
 {$1001}This box is used to check the \npersonnel who use the elevator.
 {$1001}Этот терминал проверяет людей,\nиспользующих лифт.
 126
-{$1001}The map of the 1F and 2F floors \nis shown on the panel. Will you \n{--}\nsave the map data?\n{$0800}
-{$1001}На панели показаны планы\nэтажей 1F и 2F.\n{--}\nЗапишете данные карт?\n{$0800}
+{$1001}The map of the 1F and 2F floors \nare shown on the panel. {--}Will you save the map data?\n{$0800}
+{$1001}На панели показаны планы\nэтажей 1F и 2F.\n{--}\nЗаписать данные карт?\n{$0800}
 178
 {$1001}The data has been saved. You \ncan view the map on the Map \n{--}\nScreen.
 {$1001}Данные записаны. Вы можете\nпросмотреть их на экране карт.
 138
-{$1001}The map of the 1F floor is shown \non the panel.
-{$1001}На панели показан план\nэтажа 1F.
+{$1001The map of the 1F and 2F floors \nare shown on the panel.
+{$1001}На панели показаны планы\nэтажей 1F и 2F.
 96

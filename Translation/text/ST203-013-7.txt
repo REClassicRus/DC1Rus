@@ -10,7 +10,7 @@
 {$1001}{$2000}A DDK device. The symbol "H" is \ninscribed.\n{--}\nWill you set the DDK?{$0800}
 {$1001}{$2000}Устройство ЭК.\nИзображен символ "Н".\n{--}\nИспользовать ЭК? {$0800}
 140
-{$1001}{$2000}The door will not open.The lock \nhas been broken.
+{$1001}{$2000}The door will not open. The lock \nhas been broken.
 {$1001}{$2000}Дверь не откроется.\nСломан замок.
 102
 {$1001}{$2000}The lock has already been \nreleased.

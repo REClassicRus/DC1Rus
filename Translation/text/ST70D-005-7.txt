@@ -2,8 +2,8 @@ A notice panel."Chemicals and \ndangerous materials are being \n{--}\nhandled. D
 Доска объявлений.\nПеревозятся химикаты и опасные\n{--}\nвещества. Не оставляйте\nматериалы которые могут помешать\n{--}\nтранспортировке.
 288 298052
 A tough-looking wire netting. It's \nbeen smashed by something \n{--}\nwith incredible strength.
-Прочный кабель был чем-то\nразорван с чудовищной силой.
+Прочный кабель был чем-то\nразорван с чудовищной\n{--}\nсилой.
 180
 The shutter cannot be operated \nsince a facility lock-down is in \n{--}\nprogress.
-Заслонка не работает,\nкомплекс в режиме карантина.
+Заслонка не работает, \в комплексе режим\n{--}\nкарантин.
 154

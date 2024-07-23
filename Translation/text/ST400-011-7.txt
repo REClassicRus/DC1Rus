@@ -2,17 +2,17 @@
 {$1001}{$2000}Главные ворота комплекса.\nОни заперты.
 92 184852
 {$1001}{$2000}The booth to regulate the \nentrants. No one appears to be \n{--}\ninside.
-{$1001}{$2000}Будка слежения за входящими.\nПохоже, никого внутри нет.
+{$1001}{$2000}Пункт пропуска сотрудников.\nПохоже, внутри никого\n{--}\нет.
 140
 {$1001}{$2000}It's locked. The sign says: \n"Heliport Ahead".
-{$1001}{$2000}Заперто. Здесь написано: \n"Вертолет". 
+{$1001}{$2000}Заперто. Надпись: \n"Вертолётная площадка". 
 96
 {$1001}{$2000}Only an arm and upper body \nremains.
 {$1001}{$2000}Рука и верхняя часть тела.
 76
 {$1001}{$2000}The file of personnel changes.\n{--}\nWill you read the file?{$0800}
-{$1001}{$2000}Файл кадровых изменений.\n{--}\nБудете читать файл?{$0800}
+{$1001}{$2000}Файл кадровых изменений.\n{--}\nПрочитать файл?{$0800}
 118
-{$9000}"Personnel Changes of\nResearchers"\nOLD\nSection: Special Aircraft\nExperiment Room\nNEW\nSection: Third Energy Physics\nLaboratory\nRegistration Number: 57036\nName: Mark Doyle{$9000}
-{$9000}"Кадровые изменения \nученых"\nСтарое\nОтдел: Тестовая комната\nспец. авиации\nНовое\nОтдел: Лаборатория Третьей\nэнергии\nРегистрационный номер: 57036\nИмя: Марк Дойл{$9000}
+{$9000}"Personnel Changes of\nResearchers"\nOLD\nSection: Special Aircraft\nExperiment Room\nNEW\nSection: Third Energy Physics\nLaboratory\nRegistration Number: 47812\nName: Mark Doyle{$9000}
+{$9000}"Кадровые изменения \nучёных"\nСтарое\nОтдел: Тестовая комната\nспец. авиации\nНовое\nОтдел: Лаборатория Третьей\nэнергии\nРегистрационный номер: 47812\nИмя: Марк Дойл{$9000}
 342

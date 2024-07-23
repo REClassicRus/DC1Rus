@@ -1,11 +1,11 @@
-{$1001}{$2000}The circuit schematics to\ndisplay the status of the\n{--}\nemergency power supply.\nCurrently, it is set to\n{--}\nthe basic power source of\nthe facility.\n{--}\nYou can switch the supply\ndestination of the\n{--}\nemergency power to the\nThird Energy Generator.\n{--}\nWill you switch the supply\ndestination?{$0800}
-{$1001}{$2000}Схемы электроцепи показывают\nстатус аварийной подачи \n{--}\nэнергии. Сейчас они показывают\nосновной источник в комплексе.\n{--}\nВы можете переключить место\nподачи аварийной энергии \n{--}\nна генератор Третьей Энергии. \n{--}\nВы переключите место подачи?{$0800}
+{$1001}{$2000}The circuit schematics to display\nthe status of the nemergency\n{--}\power supply. Currently, it is set\n\to the basic power source of\n{--}the facility.\n{--}\nYou can switch the supply\ndestination of the emergency\n{--}\npower to the Third Energy\nGenerator.\n{--}\nWill you switch the supply\ndestination?{$0800}
+{$1001}{$2000}Схемы электроцепи показывают\nстатус аварийной подачи \n{--}\nэнергии. Сейчас они показывают\nосновной источник в комплексе.\n{--}\nВы можете переключить место\nподачи аварийной энергии \n{--}\nна генератор Третьей Энергии. \n{--}\nПереключить место подачи?\n{$0800}
 568 277852
 {$1001}{$2000}The circuit schematics to display \nthe supply status of the \n{--}\nemergency power. Currently, the \npower is being supplied to the \n{--}\nThird Energy Generator. I don't \nneed to operate this anymore.
 {$1001}{$2000}Схемы цепи, чтобы просматривать \nстатус подачи аварийной\n{--}\nэнергии. На данный момент\nэнергия передается в генератор. \n{--}\nМне больше не нужно управлять\nэтим. 
 388
 {$1001}{$2000}Machines that control and store \nthe energy created by the Third \n{--}\nEnergy Generator.
-{$1001}{$2000}Механизмы, контролирующие\nи хранящие энергию, созданную\n{--}\nгенератором 3-й Энергии 
+{$1001}{$2000}Механизмы, контроля и хранения\nэнергии, созданной генератором\n{--}\nТретьей Энергии.
 174
 {$1001}{$2000}Machines that regulate the \nenergy control devices.
 {$1001}{$2000}Механизмы, регулирующие \nустройства контроля.
@@ -20,22 +20,22 @@
 {$1001}{$2000}Похоже на устройства записи \nданных при активации Третьей \n{--}\nЭнергии. Кто-то трогал их \nокровавленными руками. Отчетливо\n{--}\nвидны отпечатки пальцев.
 362
 {$1001}{$2000}..She is unconscious. She is \ndying.
-{$1001}{$2000}..Она без сознания.\nОна умирает.
+{$1001}{$2000}Она без сознания...\nОна умирает.
 76
 {$1001}{$2000}She's been shot to death. She's \nnot breathing. She's holding a \n{--}\nmemo written in blood.
-{$1001}{$2000}Ее застрелили. \nОна держит залитую кровью\n{--}\nзаписку. 
+{$1001}{$2000}Её застрелили. \nОна держит залитую кровью\n{--}\nзаписку. 
 182
 {$1001}{$2000}She's been shot to death. She's \nnot breathing.
-{$1001}{$2000}Ее застрелили. 
+{$1001}{$2000}Её застрелили. Она\nне дышит.
 98
 {$1001}{$2000}It's a researcher's memo.\n{--}\nWill you read the file?\n{$0800}
-{$1001}{$2000}Это записка для ученых.\n{--}\nВы прочитаете файл?\n{$0800}
+{$1001}{$2000}Это записка для ученых.\n{--}\nПрочитать её?\n{$0800}
 110
-{$9000}\nKirk has been hiding everything\nfrom the researchers recently.\nIn a demonstration of solidarity,\nthe B1 lab area staff have\ndecided to investigate what Kirk\nand the military personnel are\nup to.\n\n{$9000}\nAs a start, we managed to set\na wiretapping device at the\nParts Storage area where they've\nbeen holding meetings. The\ndevice is sound activated and\nrecords automatically. It can\nalso play back the recordings.\n\n\n{$9000}It may be the best way to\ncome up with some clues.\nWe need Kirk's ID Card to\ncheck the Generator. We\nalready know his registration\nnumber.\nIt is 31415.\nAll we need now to forge his\nID Card is his fingerprint data...\n{$9000}
-{$9000}\nКирк в последнее время все\nскрывал от ученых.\nВ знак солидарности, персонал\nлаборатории уровня В1 решил\nпровести расследование и\nвыяснить, что задумали Кирк\nи военные.\n\n{$9000}\nДля начала, нам удалось\nустановить подслушивающее\nустройство в тех частях\nхранилища, где они проводили\nсвои встречи.\nУстройство реагирует на звук и\nвключает запись. Оно также\nможет проигрывать записи.\n\n\n{$9000}Это лучший способ найти\nкакие-то зацепки.\nНам нужна карта Кирка, чтобы\nпроверить генератор. Мы уже\nзнаем его регистрационный\nномер. 31415.\nВсе, что нам нужно для\nподделки его карты, это\nотпечатки пальцев.\n{$9000}
+{$9000}\nKirk has been hiding everything\nfrom the researchers recently.\nIn a demonstration of solidarity,\nthe B1 lab area staff have\ndecided to investigate what Kirk\nand the military personnel are\nup to.\n\n{$9000}\nAs a start, we managed to set\na wiretapping device at the\nParts Storage area where they've\nbeen holding meetings. The\ndevice is sound activated and\nrecords automatically. It can\nalso play back the recordings.\n\n\n{$9000}It may be the best way to\ncome up with some clues.\nWe need Kirk's ID Card to\ncheck the Generator. We\nalready know his registration\nnumber.\nIt is 78814.\nAll we need now to forge his\nID Card is his fingerprint data...\n{$9000}
+{$9000}\nКирк в последнее время все\nскрывал от ученых.\nВ знак солидарности, персонал\nлаборатории уровня В1 решил\nпровести расследование и\nвыяснить, что задумали Кирк\nи военные.\n\n{$9000}\nДля начала, нам удалось\nустановить подслушивающее\nустройство в тех частях\nхранилища, где они проводили\nсвои встречи.\nУстройство реагирует на звук и\nвключает запись. Оно также\nможет воспроизводить записи.\n\n\n{$9000}Это лучший способ найти\nкакие-то зацепки.\nНам нужна карта Кирка, чтобы\nпроверить генератор. Мы уже\nзнаем его регистрационный\nномер. 78814.\nВсё, что нам нужно для\nподделки его карты, это\nотпечатки пальцев...\n{$9000}
 1258
 {$1001}{$2000}The B2 area map is on the\nwall.\n{--}\n{$2000}Will you record the map data?{$0800}
-{$1001}{$2000}На стене карта зоны В2.\n{--}\n{$2000}Вы запишете данные карты?{$0800}
+{$1001}{$2000}На стене карта зоны В2.\n{--}\n{$2000}Записать данные карты?{$0800}
 134
 {$1001}{$2000}The data has bee recorded. You \ncan check it on the Map Screen.
 {$1001}{$2000}Данные записаны. Вы можете\nпросматривать их в меню Карты.
@@ -44,5 +44,5 @@
 {$1001}{$2000}На стене карта зоны В2.
 66
 {$1001}{$2000}The door is locked from the \nother side.
-{$1001}{$2000}Дверь заперта с той стороны.
+{$1001}{$2000}Дверь заперта с другой\nстороны.
 84
