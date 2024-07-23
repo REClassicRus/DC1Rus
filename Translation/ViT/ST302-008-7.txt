@@ -1,0 +1,30 @@
+{$1001}{$2000}Nothing useful.
+{$1001}{$2000}Ничего.
+34 251664
+{$1001}{$2000}Adding another gas to one with a \npoison level under 30 may \n{--}\nneutralize the gas.\n{--}\nRed gas neutralizes the poison in \nthe green gas.\n{--}\nBlue gas neutralizes the poison \nin the orange gas.\n{--}\nGreen gas neutralizes the poison \nin the purple gas.\n{--}\n...Remember these rules when \nmixing the gasses.
+{$1001}{$2000}Смешивание ядовитого газа\nуровня ниже 30 с другим может\n{--}\nнейтрализовать яд.\n{--}\nКрасный газ нейтрализует яд\nв зеленом.\n{--}\nГолубой газ нейтрализует яд\nв оранжевом.\n{--}\nЗеленый газ нейтрализует яд\nв пурпурном.\n{--}\n...Помните эти правила при \nсмешивании газов.
+592
+{$1001}{$2000}Filing cabinets. Minute books and \nfiles may be stored inside.
+{$1001}{$2000}Картотека. Внутри могут быть\nпротокольные книги и файлы.
+128
+{$1001}{$2000}A big screen where the image \nfrom a projector would be \n{--}\nshown.
+{$1001}{$2000}Там, куда направлен проектор,\nпоявится экран.
+134
+{$1001}{$2000}Plans for experiments are written \ndown.
+{$1001}{$2000}Планы экспериментов записаны.
+84
+{$1001}{$2000}"Make sure to lock the door by \nthe computer during \n{--}\nexperiments."
+{$1001}{$2000}Закрывайте дверь компьютерной\nво время экспериментов.
+140
+{$1001}{$2000}This computer terminal controls \nthe condition of the Experiment \n{--}\nRoom remotely. Something is \nshown on the display.\n{--}\n\n"Lock Code: 7248"
+{$1001}{$2000}Этот терминал дистанционно\nуправляет состоянием\n{--}\nэкспериментальной комнаты.\nНа дисплее что-то есть.\n{--}\nКлюч замка: 7248 
+282
+{$1001}{$2000}The door is locked, but there \ndoesn't appear to be any place \n{--}\nto set a key.
+{$1001}{$2000}Дверь закрыта, но на \nней нет разъема для ключа.
+160
+{$1001}{$2000}It looks like a researcher's \njournal.\n{--}\n{$2000}Will you read the journal?\n{$0800}
+{$1001}{$2000}Похоже на исследовательский\nжурнал.\n{--}\n{$2000}Будете читать журнал?\n{$0800}
+144
+{$9000}March\n\n"Third Energy"...\nIt is the system that can\nproduce infinite energy from\nthe air. The completion of\nthis system will signify the\nend of one of society's\ngreatest problems.\n\n{$9000}\n...It is true that the system\nwas initially developed for\nmilitary use, but we took part\nin the project because there\nis a silver lining in it for\nour future.\nBut something is terribly wrong.\n\n{$9000}The military has been\ngiving us excessively \nfavorable treatment for the\nsimple development of a\nfundamental energy system.\nI must discover the true\npurpose of this project,\nbefore irreparable harm is\ndone. What on earth is that\nkid planning to do...?\n{$9000}April\n\n...I haven't found any clues\nin the past month.\nHe is indeed a genius.\nHe seems to have noticed our\nsecret investigation\nactivities. I heard that he\nestablished a secret lab on\nthis floor somewhere.\n{$9000}\n\nThe only way to learn of his\ntrue intentions, will be to\nfind that lab.\n\n\n\n\n\n{$9000}July\n\nAt long last, Mike has found a\nclue pertaining to the location\nof the secret laboratory.\nHe said that he hid the clue\nin our secret place\ninside the Library Room.\n\n\n{$9000}\n\nKirk has been meeting\nfrequently with Colonel Clay,\nthe leader of the project, in\nthe Computer Room lately.\nWhat are they up to...?\n\n\n\n{$9000}
+{$9000}Март\n\n"Третья энергия"...\nЭта система способна\nдобывать энергию из\nвоздуха. Создание этой\nсистемы положит конец одной\nиз самых серьезных\nпроблем общества.\n\n{$9000}\n...Верно то, что система\nизначально разрабатывалась для\nвоенных, но мы приняли участие\nв проекте, потому что это \nзолотая жила для нашего\nбудущего.\nНо что-то здесь пошло не так.\n\n{$9000}Военные чересчур \nсильно нас опекают \nи холят уже за то, что \nмы разработали\nтеоретическую базу системы.\nЯ должен выяснить\nистинную цель этого проекта\nдо того, как станет слишком \nпоздно. Что же планирует\nсделать этот парень?\n{$9000}Апрель\n\n...Я не смог найти зацепок\nв прошлом месяце.\nОн и впрямь гений.\nПохоже, он заметил наши\nскрытные попытки\nисследования. Я слышал, что он\nгде-то на этом этаже\nсоздал лабораторию.\n{$9000}\n\nЕдинственный способ выяснить\nего истинные намерения -\nнайти эту лабораторию.\n\n\n\n\n\n{$9000}Июль\n\nНаконец-то, Майк нашел\nчто-то по поводу расположения\nлаборатории.\nОн сказал, что информация -\nв нашем секретном\nместе в библиотеке.\n\n\n{$9000}\n\nКирк все чаще общается\nс полковником Клейем,\nглавой проекта, в\nкомпьютерной комнате.\nЧто они замышляют?..\n\n\n\n{$9000}
+2454

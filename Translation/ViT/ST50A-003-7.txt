@@ -1,0 +1,24 @@
+{$1001}{$2000}Will you press the button?{$0800}
+{$1001}{$2000}Вы нажмете кнопку?{$0800}
+58 223640
+{$1001}{$2000}Nothing happened.\n{--}\nCertain preparations have to be \nmade before pushing the switch.
+{$1001}{$2000}Ничего.\n{--}\nПрежде, чем нажать тумблер, \nнужны некоторые приготовления. 
+172
+{$1001}{$2000}The panel that activates the Third \nEnergy Generator.\n{--}\n{$2000}Will you operate it?{$0800}
+{$1001}{$2000}Панель, активирующая генератор \nТретьей Энергии. \n{--}\n{$2000}Вы будете управлять?{$0800}
+160
+{$1001}{$2000}Something may be missing.
+{$1001}{$2000}Чего-то не хватает.
+54
+{$1001}{$2000}I don't need to operate this \nanymore.
+{$1001}{$2000}Мне больше не нужно\nуправлять этим.
+80
+{$1000}{$2000} \n {$1064}
+{$1000}{$2000} \n {$1064}
+12
+{$1001}{$2000}It's empty. This is the place to \nset an Initializer.
+{$1001}{$2000}Пусто. Здесь нужно установить \nстартер.
+110
+{$1001}{$2000}An Initializer has already been \nset.
+{$1001}{$2000}Стартер уже установлен.
+78

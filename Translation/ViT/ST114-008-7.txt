@@ -1,0 +1,18 @@
+{$1000}{$2000}\n {$103C}
+{$1000}{$2000}\n {$103C}
+10 264284
+{$1000}{$2000}\n {$1033}
+{$1000}{$2000}\n {$1033}
+10
+{$1001}{$2000}The body appears to have\nbeen torn apart violently\n{--}\nby sharp, blade-like\nprojections.
+{$1001}{$2000}Похоже, тело было\nразорвано острыми предметами.
+176
+{$1001}{$2000}The blood is still fresh.\nHe has not been dead long.
+{$1001}{$2000}Кровь еще свежая.\nОн умер недавно.
+108
+{$1001}{$2000}They may have been used as a \nsource of backup power.\n{--}\nThey are empty.
+{$1001}{$2000}Они могли использоваться как\nисточник энергии.\n{--}\nОни пусты.
+146
+{$1001}{$2000}They must have been used to \ncarry materials.
+{$1001}{$2000}Они использовались\nдля перевозки материалов.
+94

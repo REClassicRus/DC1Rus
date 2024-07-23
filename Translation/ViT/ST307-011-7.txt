@@ -1,0 +1,9 @@
+{$1001}{$2000}The wire netting over the \nventilation shaft has been {$1001}torn \n{--}\nand removed.
+{$1001}{$2000}Кабель, идущий по шахте\nвентиляции, оторван и выброшен.
+154 91024
+{$1001}{$2000}Blood is seeping out from \nhundreds of small cuts.
+{$1001}{$2000}Кровь сочится из сотен \nмелких порезов. 
+104
+{$1001}{$2000}Medical Room
+{$1001}{$2000}Лазарет 
+28

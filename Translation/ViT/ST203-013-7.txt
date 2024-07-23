@@ -1,0 +1,18 @@
+{$1001}{$2000}It seems that this was once a \nbeautiful picture.
+{$1001}{$2000}Похоже, когда-то это была\nпрекрасная картина.
+102 250120
+{$1001}{$2000}It has been sharply ripped.
+{$1001}{$2000}Разрезано чем-то острым.
+58
+{$1001}{$2000}"Research Facility Chief's Room"
+{$1001}{$2000}"Кабинет директора комплекса"
+68
+{$1001}{$2000}A DDK device. The symbol "H" is \ninscribed.\n{--}\nWill you set the DDK?{$0800}
+{$1001}{$2000}Устройство ЭК.\nИзображен символ "Н".\n{--}\nИспользовать ЭК? {$0800}
+140
+{$1001}{$2000}The door will not open.The lock \nhas been broken.
+{$1001}{$2000}Дверь не откроется.\nСломан замок.
+102
+{$1001}{$2000}The lock has already been \nreleased.
+{$1001}{$2000}Замок уже открыт.
+76

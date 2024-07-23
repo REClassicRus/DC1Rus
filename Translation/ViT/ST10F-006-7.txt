@@ -1,0 +1,48 @@
+{$1001}{$2000}There are three buttons.{$0100}{$8800}
+{$1001}{$2000}Здесь три кнопки.{$0100}{$8800}
+56 92932
+{$1001}{$2000}Which button will you press?\n{$1000}      Left  Center  Right  Cancel{$0802}
+{$1001}{$2000}Какую из них вы нажмете?\n{$1000}      Лево  Центр  Право  Отмена{$0802}
+132
+{$1001}{$2000}There is no need to operate this \nanymore.
+{$1001}{$2000}Нет нужды включать это\nповторно.
+88
+{$1001}{$2000}There is a switch.\n{--}\nWill you press it?{$0800}
+{$1001}{$2000}Здесь есть кнопка.\n{--}\nБудете нажимать?{$0800}
+84
+{$1001}{$2000}Nothing happened.
+{$1001}{$2000}Ничего.
+38
+{$1001}{$2000}Will you take the battery?{$0800}
+{$1001}{$2000}Возьмете батарею?{$0800}
+58
+{$1001}{$2000}A battery charger.\n{--}\nIf I set the battery here, \nI can charge it.
+{$1001}{$2000}Зарядное устройство.\n{--}\nЕсли вставить сюда батарею,\nона зарядится.
+134
+{$1001}{$2000}A battery is connected to the \nbattery charger.
+{$1001}{$2000}Батарея подключена к зарядному\nустройству.
+98
+{$1001}{$2000}Battery charge complete.
+{$1001}{$2000}Заряд батареи завершен.
+52
+{$1001}{$2000}The charging has been completed.
+{$1001}{$2000}Зарядка завершена.
+68
+{$1000}{$2000} \n {$1025}
+{$1000}{$2000} \n {$1025}
+12
+{$1001}{$2000}"Emergency Backup Power Device \nReminder:"\n{--}\n"Use the device to automatically \nset the batteries."\n{--}\n"Always remember to keep the \nbatteries charged."
+{$1001}{$2000}Табличка:\n{--}\nИспользуйте для автоматического\nподключения батарей.\n{--}\nВсегда держите батареи\nзаряженными.
+304
+{$1001}{$2000}A power distribution device that \ndistributes electricity to the \n{--}\nvarious areas of the facility.
+{$1001}{$2000}Распределительный электрощит,\nнаправляющий электричество\n{--}\nк разным отделам комплекса.
+200
+{$1001}{$2000}It appears to be a notice.\n{--}\n"Avoid using the batteries from \nthe other floor, and vice versa."
+{$1001}{$2000}Это похоже на записку.\n{--}\nНе используйте батареи с других\nэтажей.
+194
+{$1001}{$2000}A panel that controls the power \nof this room.
+{$1001}{$2000}Панель управления энергией\nв этой комнате.
+96
+{$1001}{$2000}A power distribution device that \ndistributes electricity to the \n{--}\nvarious areas of the facility.
+{$1001}{$2000}Распределительный электрощит,\nнаправляющий электричество\n{--}\nк разным отделам комплекса.
+200

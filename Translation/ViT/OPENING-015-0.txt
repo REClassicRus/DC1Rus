@@ -1,0 +1,52 @@
+Se{$09}1c{$09}1u{$09}1r{$09}1e{$09}5 Dr{$09}1.{$09}1K{$09}1ir{$09}1k{$07}\n{$09}6a{$09}1n{$09}1d{$09}5 re{$09}1p{$09}1a{$09}1t{$09}1ri{$09}1at{$09}1e {$09}6h{$09}1i{$09}1m{$09}3\n{$09}4s{$09}1w{$09}1if{$09}1tly{$09}3.{$09}7\n{$09}9A{$09}1n{$09}1d
+С{$09}1Р{$09}1О{$09}1Ч{$09}1Н{$09}1О{$09}5 Н{$09}1А{$09}1Й{$09}1Т{$09}1И{$07}\n{$09}6Д{$09}1Р{$09}1.{$09}1К{$09}1И{$09}1Р{$09}1К{$09}1А.\n{$09}9И{$09}5 З{$09}1А{$09}1Т{$09}1Е{$09}1М
+4:00005E1C 
+
+Tragic disaster: Dr.Kirk\ndeceased following\nan accident during\nan experiment.
+ТРАГИЧЕСКОЕ СОБЫТИЕ: ДОКТОР\nКИРК УМЕР ПОСЛЕ АВАРИИ ВО\nВРЕМЯ ЭКСПЕРИМЕНТА.
+4:00005E18 
+
+Government rejects financial\nsupport. Laboratory closes.
+ПРАВИТЕЛЬСТВО ОТКЛОНЯЕТ\nФИНАНСОВУЮ ПОДДЕРЖКУ.\nЛАБОРАТОРИЯ ЗАКРЫВАЕТСЯ.
+4:00005E14 
+
+Dr.Kirk proposes the ultimate\nsource of clean energy.
+ДОКТОР КИРК ПРЕДСТАВЛЯЕТ\nГОТОВЫЙ ИСТОЧНИК ЧИСТОЙ\nЭНЕРГИИ.
+4:00005E10 
+
+Recommending that\nnecessary actions be taken\nimmediately.
+РЕКОМЕНДУЮ НЕМЕДЛЕННО\nПРИНЯТЬ НЕОБХОДИМЫЕ МЕРЫ.
+4:00005E0C 
+
+Regarding the staged\naccidental death,\nit appears that this\ncountry is somehow involved.
+ДУМАЮ, ЭТА СТРАНА ЗАМЕШАНА\nВ ИНСЦЕНИРОВКЕ СМЕРТИ\nДОКТОРА.
+4:00005E08 
+
+The experiment is in\nthe late stages\nof development.
+ЭТОТ ПРОЕКТ УЖЕ НА СТАДИИ\nЗАВЕРШЕНИЯ.
+4:00005E04 
+
+The reports were premature\nand it appears that he is\ncurrently working as the\nhead of a non-weapon project\nat this facility.
+ОКАЗЫВАЕТСЯ, ЭТО НЕ ТАК.\nПОХОЖЕ, ЧТО В НАСТОЯЩЕЕ\nВРЕМЯ ОН ВОЗГЛАВЛЯЕТ\nГРАЖДАНСКИЙ ПРОЕКТ.
+4:00005E00 
+
+Dr.Kirk was alleged to have\ndied in an accident during\nthe course of an experiment\nthree years ago.
+ПРЕДПОЛАГАЛОСЬ, ЧТО ОН\nПОГИБ ЕЩЕ ТРИ ГОДА НАЗАД\nВО ВРЕМЯ ОДНОГО ИЗ СВОИХ\nЭКСПЕРИМЕНТОВ.
+4:00005DFC 
+
+The man is Dr.Kirk;\nthe leading authority of our\nnation's energy research.
+ЭТО ДОКТОР КИРК -\nАВТОРИТЕТНЫЙ УЧЕНЫЙ,\nЗАНИМАЮЩИЙСЯ ЭНЕРГЕТИКОЙ.
+4:00005DF8 
+
+but I have discovered\nthere is an unexpected\nindividual\nat this facility.
+НО Я ВЫЯСНИЛ, ЧТО В\nКОМПЛЕКСЕ НАХОДИТСЯ\nПОСТОРОННИЙ.
+4:00005DF4 
+
+I have encountered\nno information regarding top\nsecret development of\nnew-type weapons,
+ИНФОРМАЦИИ ПО СЕКРЕТНОЙ\nРАЗРАБОТКЕ НОВОГО ОРУЖИЯ\nЯ НЕ НАШЕЛ.
+4:00005DF0 
+
+I have successfully\ninfiltrated under the guise\nof a researcher as planned.
+МНЕ УДАЛОСЬ ВНЕДРИТЬСЯ В\nКОМПЛЕКС.
+4:00005DEC 
+END

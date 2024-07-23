@@ -1,0 +1,39 @@
+IBIS ISLAND
+ОСТРОВ ИБИС
+11 1088
+IN THE FACILITY #1; ENTRANCE
+КОМПЛЕКС 1
+31
+IN THE FACILITY #2; ELV.HALL
+КОМПЛЕКС 2
+31
+DR.KIRK
+ДР.КИРК
+7 1168
+DATA1
+
+7
+IN THE FACILITY #3; DR.KIRK'S LAB.
+КОМПЛЕКС 3
+35
+IN THE FACILITY #4; LAB.AREA
+КОМПЛЕКС 4
+31
+EDWARD KIRK
+ЭДВАРД КИРК
+11 1344
+A REPORT FROM A NEWS PAPER #1
+СТАТЬЯ 1 ИЗ ГАЗЕТЫ
+31
+A REPORT FROM A NEWS PAPER #2
+СТАТЬЯ 2 ИЗ ГАЗЕТЫ
+31
+A REPORT FROM A NEWS PAPER #3
+СТАТЬЯ 3 ИЗ ГАЗЕТЫ
+31
+REC
+REC
+3 1644
+PLAY
+PLAY
+7

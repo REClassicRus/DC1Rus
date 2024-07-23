@@ -1,0 +1,24 @@
+OPTION
+НАСТРОЙКИ
+4:00000EC0 
+
+KEY CONFIG
+УПРАВЛЕНИЕ
+4:00000EC8 
+
+SOUND
+ЗВУК
+4:00000ED0 
+
+MONITOR TUNING
+ЭКРАН
+4:00000ED8 
+
+RESET
+СБРОС
+4:00000EE0 
+
+EXIT
+ВЫХОД
+4:00000EE8 
+END

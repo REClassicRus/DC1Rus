@@ -1,0 +1,66 @@
+{$1001}There are three buttons.{$0100}
+{$1001}Здесь три кнопки.{$0100}
+52 107608
+{$1001}Which button will you press?\n  Left  Center  Right  Cancel{$0802}
+{$1001}Какую кнопку нажмете?\n  Левую  Среднюю  Правую  Отмена{$0802}
+120
+{$1001}Please set a battery.
+{$1001}Вставьте батарею.
+44
+{$1001}You don't need to operate this \nanymore.
+{$1001}Вам больше не нужно пользоваться\nэтим.
+82
+{$1001}There's a switch. Will you press \nit? {$1001}\n{$0800}
+{$1001}Здесь выключатель.\nБудете нажимать?{$1001}\n{$0800}
+84
+{$1001}Nothing happened.
+{$1001}Ничего.
+36
+{$1001}Will you remove the battery?\n{$0800}
+{$1001}Хотите убрать батарею?\n{$0800}
+62
+{$1001}A battery charger. You can \ncharge a battery if you set it \n{--}\nhere.
+{$1001}Зарядное устройство. С его\nпомощью можно зарядить батарею.
+136
+{$1001}A battery charger. Unfortunately, \nit is broken and cannot be used.
+{$1001}Зарядное устройство.\nК сожалению, сломано.
+136
+{$1001}A battery is set in the battery \ncharger.{$0100}
+{$1001}Батарея вставлена в зарядное\nустройство.{$0100}
+86
+ 
+ 
+2
+  \n  
+  \n  
+10
+{$0800}
+{$0800}
+2
+                  \n         
+                  \n         
+56
+{$1001}The battery charging has been \ncompleted.
+{$1001}Зарядка батареи завершена.
+84
+{$1001}"Things to remember when \noperating the Emergency Backup \n{--}\nGenerator Device." Set the \nbatteries in order from the \n{--}\nlowest voltage. Always keep the \nbattery charged.
+{$1001}Памятка по работе с резервным\nгенератором.\n{--}\nВставляйте батареи, начиная с\nсамой слабой по напряжению.\n{--}\nХраните батареи заряженными.
+338
+{$1001}A power distribution device to \ndistribute the power to the \n{--}\nvarious places inside the facility.
+{$1001}Распределительный электрощит,\nнаправляющий электричество\n{--}\nк разным отделам комплекса.
+198
+{$1001}It appears to be a notice."Avoid \nusing the batteries from the 1F \n{--}\nBackup Generator Room here, \nand vice versa."
+{$1001}Это похоже на записку.\nНе используйте батареи с\n{--}\nзапасного генератора этажа 1F.
+230
+{$1000} \n {$1032}
+{$1000} \n {$1032}
+10
+{$1000} \n {$1055}
+{$1000} \n {$1055}
+10
+{$1000} \n {$1055}
+{$1000} \n {$1055}
+10
+{$1000} \n {$10A5}
+{$1000} \n {$10A5}
+10

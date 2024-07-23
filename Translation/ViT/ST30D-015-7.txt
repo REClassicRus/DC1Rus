@@ -1,0 +1,9 @@
+{$1001}A notice panel."Chemicals and \ndangerous materials are being \n{--}\nhandled. Do not leave any \nmaterials that may interfere with \n{--}\ntransportation."
+{$1001}Доска объявлений.\nПеревозятся химикаты и опасные\n{--}\nвещества. Не допускайте их \nперемешивания во время \n{--}\nтранспортировки.
+290 298644
+{$1001}A tough-looking wire netting. It's \nbeen smashed by something \n{--}\nwith incredible strength.
+{$1001}Прочный кабель был \nчем-то разорван \n{--}\nс чудовищной силой.
+182
+{$1001}The shutter cannot be operated \nsince a facility lock-down is in \n{--}\nprogress.
+{$1001}Заслонка не работает, \nкомплекс в режиме карантина.
+156

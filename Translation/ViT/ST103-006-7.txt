@@ -1,0 +1,48 @@
+{$1001}{$2000}Files are scattered.
+{$1001}{$2000}Бумаги разбросаны.
+44 78464
+{$1001}{$2000}Documents on security are on the\nshelf.
+{$1001}{$2000}Документы охраны на полке.
+82
+{$1001}{$2000}Nothing useful.
+{$1001}{$2000}Ничего.
+34
+{$1001}{$2000}Personal property of the\nguardsmen. Nothing useful.
+{$1001}{$2000}Личные вещи охранников.\nНичего полезного.
+106
+{$1001}{$2000}The guard rotation schedule is \nposted here.
+{$1001}{$2000}Здесь висит график\nсмены охраны.
+92
+{$1001}{$2000}Something seems to be inside \nthe cardboard box.
+{$1001}{$2000}Похоже, что-то есть внутри\nкартонной коробки.
+100
+{$1001}{$2000}He has been gouged in the torso.
+{$1001}{$2000}Глубокая рана.
+68
+{$1001}{$2000}I don't need to check here \nanymore...
+{$1001}{$2000}Мне больше не нужно искать\nздесь...
+80
+{$1001}{$2000}A switch. Will you press it?{$0800}
+{$1001}{$2000}Выключатель. Вы нажмете его?{$0800}
+62
+{$1001}{$2000}The computer has not been \nturned on.
+{$1001}{$2000}Компьютер не включился.
+78
+{$1001}{$2000}On the screen is an e-mail titled:\n"New Employee Education"\n{--}\nWill you read the e-mail?{$0800}
+{$1001}{$2000}На экране письмо с заголовком:\nОбучение новых работников.\n{--}\nБудете читать это письмо?{$0800}
+180
+{$1001}{$2000}It is locked. There is a panel on \nthe door to release the lock,\n{--}\nbut it isn't working now.
+{$1001}{$2000}Закрыто. На двери есть панель\nдля открытия замка,\n{--}\nно она сейчас не работает.
+188
+{$1001}{$2000}There is a panel here that \naccepts a numeric code.\n{--}\nWill you enter a number?{$0800}
+{$1001}{$2000}Здесь есть панель, которая\nпринимает числовой код.\n{--}\nБудете вводить число?{$0800}
+162
+{$1001}{$2000}There is a panel here that \naccepts a numeric code.\n{--}\nWill you enter a number?{$0800}
+{$1001}{$2000}Здесь есть панель, которая\nпринимает числовой код.\n{--}\nБудете вводить число?{$0800}
+162
+{$1001}{$2000}Nothing happened.
+{$1001}{$2000}Ничего.
+38
+{$9000}Please inform the new employee \nassigned to this department \nabout the "DDK" system as \nfollows:\nThe Digital Disc Key or DDK, \nis a system that secures our \nmost important areas with an \nadvanced locking device. \n{$9000}To release the locks protected \nby the DDK, prepare and set \nthe following two data discs \nat the locking device near the \ndoor:\n\n"DDK CODE DISC X"\n"DDK INPUT DISC X"\n{$9000}The type of the DDK you need \nis indicated on the door: "A", \n"B", etc. If the DDK type you \nuse does not match, you cannot\nrelease the lock.\nBefore operating the system, \nmake sure that your DDK type \nmatches the door you wish to \nunlock.{$9000}
+{$9000}Пожалуйста, сообщите новым\nработникам, переведенным в\nэтот отдел, о системе ЭК,\nт.е. о ключе с цифровым\nдиском, эта система\nохраняет наши самые важные\nучастки посредством\nсовременного механизма.\n{$9000}Для открытия замков системы\nЭК, приготовьте и вставьте\nдва следующих диска\nв устройство рядом с дверью:\n\n"ЭК ДИСК КОДА Х"\n"ЭК ДИСК ВВОДА Х"\n{$9000}Тип нужного ЭК\nуказан на двери: "А", \n"В", и т.д. Если тип вашего ЭК\nне подходит, вы не сможете\nоткрыть замок.\nПеред использованием системы,\nубедитесь в том, что ваш ЭК\nподходит к открываемой вами\nдвери.{$9000}
+1246

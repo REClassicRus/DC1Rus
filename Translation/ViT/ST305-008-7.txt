@@ -1,0 +1,36 @@
+{$1001}{$2000}A terminal to manage the \ninformation of the key chips \n{--}\nthat are used to open the data \nstorage. You can input the data \n{--}\nto a key chip and search the \ndata storage from here.
+{$1001}{$2000}Терминал работы с данными\nключевых чипов, используемых \n{--}\nдля открытия хранилищ\nданных. Вы можете ввести данные\n{--}\nна ключевой чип и искать \nданные отсюда. 
+360 228340
+{$1001}{$2000}Will you overwrite the\nkey chip data?{$0800}
+{$1001}{$2000}Будете перезаписывать данные\nчипа?{$0800}
+80
+{$1001}{$2000}\n"Data overwrite complete."\n{--}\n\n"Data storage 3695."\n{--}\n"The indicator has been turned \non."
+{$1001}{$2000}"Перезапись завершена."\n{--}\nХранилище 3695. \n{--}\n"Индикатор включен."
+184
+{$1001}{$2000}"The number has been confirmed. \ndisplaying the Magnetic pattern \n{--}\ndata for the storage 3695."\n{--}\n"Please overwrite the magnetic \npattern of the key chip \n{--}\ncorrectly."
+{$1001}{$2000}Номер подтвержден.\nОтображение данных \n{--}\nмагнитной структуры 3695.\n{--}\nПожалуйста, правильно \nперезапишите структуру чипа.
+340
+{$1001}{$2000}"Unused number."
+{$1001}{$2000}Свободный номер.
+36
+{$1001}{$2000}I don't have to operate this \nanymore.
+{$1001}{$2000}Мне больше не нужно\nиспользовать это.
+80
+{$1001}{$2000}All data storage is\nelectronically locked. The key \n{--}\nchip with the correct data saved \nmust be set to open it.
+{$1001}{$2000}Все хранилища закрыты\nэлектроникой. Для открытия \n{--}\nнужен чип с подходящими данными.
+226
+{$1001}{$2000}\nA memo is in data storage.\n{--}\nWill you read the memo?\n{$0800}
+{$1001}{$2000}В хранилище записка.\n{--}\nБудете читать?\n{$0800}
+114
+{$1001}{$2000}A category of the data\nstored is shown here.\n{--}\n"Third Energy Fundamental\nTheory"
+{$1001}{$2000}Здесь показан тип\nхранящихся данных.\n{--}\nФундаментальная теория 3-й\nЭнергии.
+164
+{$1001}{$2000}A category of the data stored is \nshown here. "The Chemical \n{--}\nReaction Experiment Data for the \nStabilizer"
+{$1001}{$2000}Показан тип хранящихся данных\nДанные эксперимента \n{--}\nхимической реакции \nстабилизатора.
+220
+{$1001}{$2000}A category of the data stored is \nshown here. "The Weapons \n{--}\nDevelopment Project in this \nFacility"
+{$1001}{$2000}Показан тип хранящихся данных\nПроект разработки\n{--}\nоружия в этом комплексе.
+204
+{$9000}Dear Paul,\n\nI finally found the clue.\nThis is the key card that you\nneed to enter his secret lab.\nThe only chance to enter it is\nduring tonight's experiment.\nObtain the other key card\nwithout hesitation.\n\n{$9000}The other key card is in the\nChief's Room. I heard the\nsecret codes for the hidden\nsafe are written on\nthe Panel Keys.\n Now, if we find out\nwhere the laboratory is,\neverything will be solved.\nI'll leave that to you.\nGood luck.\n                         Mike\n{$9000}
+{$9000}Здравствуйте, Пол,\n\nЯ наконец-то нашел зацепку.\nЭто ключ от\nего секретной лаборатории.\nЕдинственный шанс попасть туда -\nночью, во время эксперимента.\nДобудьте другую карту\nбез колебаний.\n\n{$9000}Вторая карта - в комнате\nбосса. Я слышал,\nсекретный шифр от скрытого\nсейфа написан\nна панельных ключах.\nТак что, если мы узнаем,\nгде находится лаборатория,\nответ будет найден.\nВсе в ваших руках.\nУдачи.\n                         Майк\n{$9000}
+930

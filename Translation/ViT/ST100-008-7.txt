@@ -1,0 +1,21 @@
+{$1001}{$2000}Nothing useful.
+{$1001}{$2000}Ничего.
+34 238812
+{$1001}{$2000}Some of the researchers'\nbelongings...
+{$1001}{$2000}Личные вещи ученых...
+80
+{$1001}{$2000}Documents on security.
+{$1001}{$2000}Документы охраны.
+48
+{$1001}{$2000}An old poster of a glamorous \nlady. She appears to be smiling.
+{$1001}{$2000}Старый плакат с обаятельной\nженщиной. Похоже, она улыбается.
+128
+{$1001}{$2000}"Journal of the guardsmen."\nA page is dated today.\n{--}\nWill you read it?{$0800}
+{$1001}{$2000}Журнал охраны.\nСегодняшнее число.\n{--}\nБудете читать?{$0800}
+146
+{$1001}{$2000}An old poster.
+{$1001}{$2000}Старый плакат.
+32
+{$9000}Before tonight's experiment,\nthe chief and Dr. Kirk will\nbe having a meeting at the\n2nd floor lounge from\n1:00 p.m. Those who are\nscheduled to guard should\nkeep a preponderant eye on\nthe area in front of the\nChief's Room, and the\nsurrounding vicinity.\n{$9000}Before taking positions,\nbe sure to re-supply your\nammunition in the custody\nroom. The weapon storage in\nthe custody room can be opened\nwith the combination, "0426".\nAlso, we have received\ninformation that spies have\nsneaked into the facility\nrecently.\n{$9000}If anything happens, you may \nhave to enter the rooms of the \nchief and the professor in \norder to insure their safety.\nYou will find the disk that \ncontains the information you \nwill need to access their \nrooms on top of the locker.\nThat's all for now.\n{$9000}
+{$9000}Перед экспериментом\nбосс и доктор Кирк будут\nбеседовать на 2-ом этаже, в\nкомнате отдыха в 1:00 пополудни.\nВсем, кто осуществляет их охрану\nнеобходимо внимательно следить\nза участком перед кабинетом\nбосса и поблизости от него.\n{$9000}Перед выходом на позиции,\nпополните свои боеприпасы в\nкомнате охраны.\nСклад с оружием в комнате\nохраны открывается кодом "0426".\nМы также получили информацию,\nчто недавно к нам прокрались\nшпионы.\n{$9000}Если что-нибудь случится, вам,\nвозможно, понадобится попасть\nв комнаты босса и профессора,\nчтобы обеспечить их безопасность.\nДиск с информацией о том, как\nпопасть в эти комнаты вы\nнайдете на шкафу.\nПока все.\n{$9000}
+1526

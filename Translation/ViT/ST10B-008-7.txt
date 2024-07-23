@@ -1,0 +1,84 @@
+{$9000}\n\nThree years have passed since\nthe tragic disaster. \nThe performance of the newest\nStabilizer will be tested in\ntonight's experiment.\n\n\n\n{$9000}Three years ago, the Third\nEnergy destroyed the facility\nand killed as many as 150\npersonnel, just from a single\noverflowing accident.\nSo, to prevent a similar\ndisaster from happening, \nwe will take every possible\nprecaution to reinforce our\nsecurity.\n{$9000}\n\nOne more thing...\nWe recently had a case in\nwhich someone used the\nterminal in this room and\nforged a fake ID to gain\nunauthorized access.\n\n\n{$9000}Today, we are going to have\na meeting in the strategy\nroom on how to cope with the\nproblem. In any case, all\npersonnel should protect the\nsecurity of the terminal.\nAnyone leaving this room\nunattended should lock the\ndoor without fail.\n\n{$9000}
+{$9000}\n\nПрошло три года с тех пор, как\nпроизошла авария. \nРаботоспособность нового\nстабилизатора будет проверена \nсегодня.\n\n\n\n{$9000}Три года назад Третья\nЭнергия уничтожила лабораторию\nи убила 150 человек в\nрезультате одной случайной\nперегрузки.\nПоэтому, во избежание подобного\nпроисшествия, мы примем все\nвозможные меры предосторожности\nдля усиления безопасности.\n{$9000}\n\nЕще одна деталь...\nНедавно кто-то пытался\nиспользовать терминал в этой\nкомнате для получения доступа\nв закрытую зону.\n\n\n{$9000}Сегодня у нас будет\nвстреча, направленная на решение\nэтой проблемы. В любом случае,\nвсе мы должны защищать\nбезопасность терминала.\nВсе, кто выходит из комнаты\nбез сопровождения, должны\nзакрывать дверь как следует.\n\n{$9000}
+1548 233560
+{$1001}{$2000}A device that can rewrite the \ndata of an ID Card. The staff \n{--}\nassigned to the 1st floor, 2nd \nfloor, and B1 floor have their ID \n{--}\ndata registered in this terminal. \nTo rewrite the data, you need an \n{--}\nID Card.
+{$1001}{$2000}Устройство для записи информации\nна карточку. Персонал,\n{--}\nработающий на этажах 1F, 2F\nи В1, хранят свои данные\n{--}\nв этом терминале.\nЧтобы записать данные, нужна\n{--}\nкарточка.
+428
+{$1001}{$2000}"Initiating card data rewriting \nsequence."\n{--}\n"Enter the personnel registration \nnumber."
+{$1001}{$2000}"Начало операции перезаписи\nкарточки."\n{--}\n"Введите номер регистрации\nсотрудника"
+182
+{$1001}{$2000}"The registration number entered \nis not valid."
+{$1001}{$2000}"Введенный номер регистрации\nне верен."
+100
+{$1001}{$2000}"The registration number has \nbeen verified."\n{--}\n"Please enter the fingerprint \ndata."\n{--}\nWill you enter the\nfingerprint data?{$0800}
+{$1001}{$2000}"Номер регистрации\nподтвержден."\n{--}\n"Введите данные отпечатков\nпальцев."\n{--}\nБудете вводить данные\nотпечатков?{$0800}
+254
+{$1001}{$2000}You don't have any data to enter.
+{$1001}{$2000}У вас нет необходимых данных.
+70
+{$1001}{$2000}"The fingerprint data you entered \ndoes not match the personnel \n{--}\nregistration number."
+{$1001}{$2000}Введенные отпечатки не\nсоответствуют номеру\n{--}\nрегистрации сотрудника.
+180
+{$1001}{$2000}"Accessing the requested data..."{$0100}
+{$1001}{$2000}"Получение запрошенных данных..."{$0100}
+72
+{$1001}{$2000}"Section: Physics Laboratory"\n{--}\n"ID: Researcher, Mark\nDoyle"{$0100}
+{$1001}{$2000}"Отдел: лаборатория физики"\n{--}\n"Данные: Ученый, Марк Дойл"{$0100}
+126
+{$1001}{$2000}"Section: Stabilizer Experiment \nRoom"\n{--}\n"ID: Researcher, Paul\nBaker"{$0100}
+{$1001}{$2000}"Отдел: комната\nэкспериментов"\n{--}\n"Данные: Ученый, Пол Бэйкер"{$0100}
+144
+{$1001}{$2000}Will you rewrite the card\ndata?{$0800}
+{$1001}{$2000}Будете перезаписывать\nданные?{$0800}
+68
+{$1001}{$2000}"The card data has been \nrewritten."
+{$1001}{$2000}"Данные на карте перезаписаны."
+76
+{$1001}{$2000}This telephone extension\ncovers the whole facility.\n{--}\nDo you want to page the\nresearcher, Paul?{$0800}
+{$1001}{$2000}Этот телефон покрывает\nвесь комплекс.\n{--}\nХотите связаться с ученым\nПолом?{$0800}
+196
+{$1001}{$2000}This telephone extension covers \nthe whole facility.
+{$1001}{$2000}Этот телефон покрывает\nвесь комплекс.
+108
+{$1001}{$2000}\nNo one is answering...\n{--}\nIf you set the line to\n"Hold", the phone will continue \n{--}\npagin automatically.\n{--}\nWill you replace the receiver \nafter setting\n{--}\nthe line to "Hold"?\n{$0800}
+{$1001}{$2000}\nНикто не отвечает...\n{--}\nЕсли включить функцию\n"Удержание линии", телефон\n{--}\nпродолжит набор.\n{--}\nХотите включить функцию\n"Удержание линии"?\n{$0800}
+354
+{$9000}\nThe change of personnel\ndocuments for this individual\nhave not been turned in yet:\n\n\nPaul Baker\nPager Number: 1123\n\n\n{$9000}Researcher Personnel Changes:\n\nOLD\nSection: Special Aircraft\nExperiment Room\nNEW\nSection: Third Energy\nStabilizer Experiment Room\nRegistration Number: 58104\nName: Paul Baker\n{$9000}
+{$9000}\nИзменений персональных\nдокументов этого сотрудника\nпока не произошло:\n\n\nПол Бэйкер\nНомер пэйджера: 1123\n\n\n{$9000}Перевод сотрудника:\nСтарое\nОтдел: тестовая комната\nспец. авиации\nНовое\nОтделение: тестовая комната\nстабилизатора Третьей Энергии\nНомер регистрации: 58104\nИмя: Пол Бэйкер\n{$9000}
+590
+{$1001}{$2000}The line is on hold.
+{$1001}{$2000}Линия занята.
+44
+{$1001}{$2000}The area will be disinfected this \nweekend. All belongings should \n{--}\nbe kept in the lockers.
+{$1001}{$2000}На выходных будет проведена\nдезинфекция. Все вещи следует\n{--}\nхранить в шкафчиках.
+188
+{$1001}{$2000}Personal effects of the facility \npersonnel.
+{$1001}{$2000}Личные шкафы персонала\nкомплекса.
+92
+{$1001}{$2000}Various office documents.
+{$1001}{$2000}Разные офисные документы.
+54
+{$1001}{$2000}A file containing notices\nwritten to the staff.\n{--}\nWill you read the file?\n{$0800}
+{$1001}{$2000}Документ с записками\nдля персонала.\n{--}\nБудете читать файл?\n{$0800}
+154
+{$1001}{$2000}There is a memo on the\nwhiteboard.\n{--}\nWill you read the memo?\n{$0800}
+{$1001}{$2000}На белой доске есть записка.\n{--}\nБудете читать записку?\n{$0800}
+128
+{$1001}{$2000}Gate System
+{$1001}{$2000}Система
+26
+{$1001}{$2000}Registration Number
+{$1001}{$2000}Номер регистрации
+42
+{$1001}{$2000}Searching
+{$1001}{$2000}Поиск
+22
+{$1001}{$2000}Rewriting
+{$1001}{$2000}Запись
+22
+{$1001}{$2000}A laser-driven shredder.
+{$1001}{$2000}Лазерный измельчитель.
+52
+{$1001}{$2000}There is no need to operate this \nanymore.
+{$1001}{$2000}Нет нужды включать это\nповторно.
+88

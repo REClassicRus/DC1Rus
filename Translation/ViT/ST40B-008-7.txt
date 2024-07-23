@@ -1,0 +1,15 @@
+{$1001}{$2000}Shelves to store construction \nmaterials. Most of the materials \n{--}\nhave fallen on the floor.
+{$1001}{$2000}Полки для стройматериалов.\nБольшая часть содержимого\n{--}\nупала на пол.
+188 82248
+{$1001}{$2000}Management list of the materials.
+{$1001}{$2000}Рабочий список материалов. 
+70
+{$1001}{$2000}Possibly a researcher. There are \nbites all over.
+{$1001}{$2000}Вероятно, ученый.\nПо всему телу укусы.
+102
+{$1001}{$2000}The dead man left a memo.\n{--}\nWill you read it?{$0800}
+{$1001}{$2000}Мертвец оставил послание.\n{--}\nХотите прочитать?{$0800}
+96
+{$9000}\nWhere the heck did these\nmonsters come from?! I managed\nto slip away, but I've been\ncornered here in the basement\never since. The only way I can\nget out is through the port on\nlevel B3. I should be able to\nfind a boat or something used \nto transport research materials.\n{$9000}\n\nThe only problem is getting\nthere in one piece...\n{$9000}
+{$9000}\nЧерт, откуда берутся эти\nчудовища? Мне удалось\nускользнуть, но теперь я застрял\nв этом подвале. Единственный\nспособ выбраться отсюда - через\nпорт на уровне В3. Я должен\nнайти лодку или что-то похожее,\nна чем перевозили\nисследовательские материалы.\n{$9000}\n\nЕдинственная проблема -\nпопасть туда живым...\n{$9000}
+652

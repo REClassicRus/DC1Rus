@@ -1,0 +1,186 @@
+{$1001}{$2000}A simulation is being run on a \nsuper computer. The results of \n{--}\nthe calculations done by the \ncomputer are displayed on the \n{--}\nmonitor.
+{$1001}{$2000}На суперкомпьютере запущено\nмоделирование.\n{--}\nРезультаты подсчетов \nотображены на мониторе.
+278 162580
+{$1001}{$2000}A slot to insert a card key. There \nis an identical slot at the other \n{--}\nside of the monitor.
+{$1001}{$2000}Разъем для карты-ключа.\nТакой же разъем с другой\n{--}\nстороны монитора.
+190
+{$1001}{$2000}You will need assistance in order \nto release this lock.\n{--}\nWill you call Gail?\n{$0800}
+{$1001}{$2000}Вам понадобится помощь для \nоткрытия этого замка. \n{--}\nПозовете Гейла?\n{$0800}
+164
+{$1001}{$2000}A super computer is installed on \nthe wall. This computer is used \n{--}\nto simulate the energy \nefficiency of the Third Energy.
+{$1001}{$2000}Суперкомпьютер установлен\nна стене. Он используется\n{--}\nдля моделирования\nвыхода Третьей Энергии.
+252
+{$1001}{$2000}Tools for computer maintenance \nare inside.
+{$1001}{$2000}Инструменты для компьютера\nвнутри.
+90
+{$1001}{$2000}A terminal to operate the super \ncomputer.\n{--}\nThis machine is turned on.
+{$1001}{$2000}Терминал для работы с \nсуперкомпьютером.\n{--}\nЭта машина включена.
+146
+{$1001}{$2000}"Experimental Area Control \nProgram Running."\n{--}\n"Auto lock status: On"\n{--}\nWill you release the lock?\n{$0800}
+{$1001}{$2000}Программа контроля\nэкспериментов запущена.\n{--}\n"Автозакрытие: Вкл."\n{--}\nХотите открыть замок?\n{$0800}
+206
+{$1001}{$2000}"Enter the area number to be \nreleased."
+{$1001}{$2000}"Введите номер открываемой\nзоны."
+84
+{$1001}{$2000}"The specified area number does \nnot exist."
+{$1001}{$2000}"Указанный номер зоны не\nсуществует."
+92
+{$1001}{$2000}"The number has been confirmed. \nThe gas experiment room lock \n{--}\nhas been released."
+{$1001}{$2000}Номер подтвержден.\nЗамок экспериментальной газовой \n{--}\nкамеры открыт. 
+172
+{$1001}{$2000}A terminal to operate the super \ncomputer. The power is not \n{--}\nturned on.
+{$1001}{$2000}Терминал для работы с\nсуперкомпьютером. Питание не\n{--}\nподключено.
+150
+{$1001}{$2000}There's no open/close device on \nthe lid of the panel. The lid is \n{--}\nfixed in place with screws.
+{$1001}{$2000}На крышке панели нет \nоткрывающего устройства. Крышка \n{--}\nдержится на шурупах.
+196
+{$1001}{$2000}Will you remove the screws?{$0800}
+{$1001}{$2000}Хотите выкрутить шурупы?{$0800}
+60
+{$1001}{$2000}Will you operate the circuit \npanel?{$0800}
+{$1001}{$2000}Хотите использовать панель\nпитания?{$0800}
+78
+{$1001}{$2000}I don't have to operate this right \nnow.
+{$1001}{$2000}Мне не нужно использовать \nэто сейчас.
+84
+{$1001}{$2000}It is a notice regarding the panel \nnext to it.\n{--}\n"Warning! Do not touch this panel \nunless the lock system \n{--}\nmalfunctions. The circuits inside \nthis panel supply the electric \n{--}\npower needed for the forced \nrelease of the lock."
+{$1001}{$2000}Это замечание, касающееся\nпанели рядом с ним.\n{--}\nВнимание, не трогайте панель \nза исключением случаев\n{--}\nполомки замков. Схемы внутри этой\nпанели дают\n{--}\nэнергию для принудительного\nоткрытия замков."
+464
+{$1001}{$2000}He is trying to find out how to \nrelease the locks of this room.
+{$1001}{$2000}Он пытается выяснить, как\nоткрыть замки этой комнаты.
+132
+{$1001}{$2000}It is locked by the computer.
+{$1001}{$2000}Закрыто компьютером.
+62
+{$1001}{$2000}I must follow Gail and break \nthrough the area...
+{$1001}{$2000}Я должна последовать за Гейлом\nи прорваться...
+102
+{$1001}{$2000}I must try and escape through \nthe emergency hatch as soon as \n{--}\npossible...
+{$1001}{$2000}Нужно попытаться бежать через\nзапасной люк как можно \n{--}\nбыстрее... 
+156
+{$1001}{$2000}A DDK device. The symbol "E" is \ninscribed. The DDK that contains \n{--}\nthe correct information is \nrequired to release this lock.\n{--}\nWill you set the DDK?{$0800}
+{$1001}{$2000}Устройство ЭК. Изображено \n"Е". Для открытия этого \n{--}\nзамка нужен ЭК с подходящими\nданными.\n{--}\nИспользовать ЭК?{$0800}
+308
+{$1001}{$2000}The lock has already been \nreleased.
+{$1001}{$2000}Замок уже открыт.
+76
+{$1001}{$2000}He is paying attention to his \nsurroundings.
+{$1001}{$2000}Он изучает окружающее \nпространство.
+92
+{$1001}{$2000}A file titled\n "Security Manual Vol. 2"\n{--}\nWill you read it?{$0800}
+{$1001}{$2000}Файл\n "Руководство охраны. Глава 2"\n{--}\nБудете читать?{$0800}
+124
+{$9000}"DDK", the electronic lock\nsystem of this facility, has\nbeen updated. A more intricate\ncode system has been \nintroduced which improves the\nlevel of security.\nYou will need to be aware of \nthe following information when \nentering the password.\n{$9000}Number-Based "KEY" Decoding,\nPart 2.\n\nIn a case where numbers are\nwritten instead of letters\nin the "KEY" field, the\nnumbers could indicate the\nrows to be deleted.\n{$9000}For example, if "2" is in\nthe "KEY" word, you should\ndelete all of the letters\nfrom the second row of the\n"CODE".\n{$9000}
+{$9000}ЭК, система электрозамков\nэтого предприятия, была\nобновлена. Внедрена\nболее сложная кодовая\nсистема, повышающая уровень\nбезопасности.\nВам следует учитывать\nследующую информацию при\nвводе пароля.\n{$9000}Расшифровка числового "Ключа",\nЧасть 2.\n\nВ случае, если вместо букв\nв поле "Ключ" написаны цифры,\nони соответствуют столбцам,\nкоторые нужно удалить.\n{$9000}Например, если в ключевом\nслове есть цифра 2, вам надо\nудалить все буквы второго\nстолбца "Кода".\n{$9000}
+1050
+{$9000}\nWhat will you do?\nChoose the option you believe in.\n\n  Gail's strategy:\n   Break through the area\n   Relying upon your skill.\n  Rick's strategy:\n   Cooperate with Rick and\n   escape through the hatch.\n{$9000}
+{$9000}\nЧто будете делать?\nВыберите действие.\n\n  Стратегия Гейла:\n   Прорыв с расчетом\n   на свои способности.\n  Стратегия Рика:\n   Объединиться с Риком\n   и сбежать через люк.\n{$9000}
+408
+{$1000}{$2000} \n {$1023}
+{$1000}{$2000} \n {$1023}
+12
+{$1000}{$2000} \n {$105A}
+{$1000}{$2000} \n {$105A}
+12
+{$1000}{$2000} \n {$1023}
+{$1000}{$2000} \n {$1023}
+12
+{$1000}{$2000} \n {$1073}
+{$1000}{$2000} \n {$1073}
+12
+{$1000}{$2000} \n {$1041}
+{$1000}{$2000} \n {$1041}
+12
+{$1000}{$2000} \n {$1041}
+{$1000}{$2000} \n {$1041}
+12
+{$1000}{$2000} \n {$102D}
+{$1000}{$2000} \n {$102D}
+12
+{$1000}{$2000} \n {$1023}
+{$1000}{$2000} \n {$1023}
+12
+{$1000}{$2000} \n {$10A0}
+{$1000}{$2000} \n {$10A0}
+12
+{$1000}{$2000} \n {$105A}
+{$1000}{$2000} \n {$105A}
+12
+{$1000}{$2000} \n {$1028}
+{$1000}{$2000} \n {$1028}
+12
+{$1000}{$2000} \n {$108C}
+{$1000}{$2000} \n {$108C}
+12
+{$1000}{$2000} \n {$10FF}
+{$1000}{$2000} \n {$10FF}
+12
+{$1000}{$2000} \n {$102D}
+{$1000}{$2000} \n {$102D}
+12
+{$1000}{$2000} \n {$1096}
+{$1000}{$2000} \n {$1096}
+12
+{$1000}{$2000} \n {$1032}{$9000}{$1000} \n {$105A}
+{$1000}{$2000} \n {$1032}{$9000}{$1000} \n {$105A}
+24
+{$1000}{$2000} \n {$1064}{$9000}{$1000} \n {$1032}
+{$1000}{$2000} \n {$1064}{$9000}{$1000} \n {$1032}
+24
+{$1000}{$2000} \n {$1032}
+{$1000}{$2000} \n {$1032}
+12
+{$1000}{$2000} \n {$102D}
+{$1000}{$2000} \n {$102D}
+12
+{$1000}{$2000} \n {$1046}
+{$1000}{$2000} \n {$1046}
+12
+{$1000}{$2000} \n {$1069}
+{$1000}{$2000} \n {$1069}
+12
+{$1000}{$2000} \n {$1096}{$9000}{$1000} \n {$1091}
+{$1000}{$2000} \n {$1096}{$9000}{$1000} \n {$1091}
+24
+{$1000}{$2000} \n {$103C}
+{$1000}{$2000} \n {$103C}
+12
+{$1000}{$2000} \n {$1064}
+{$1000}{$2000} \n {$1064}
+12
+{$1000}{$2000} \n {$1096}{$9000}{$1000} \n {$1046}
+{$1000}{$2000} \n {$1096}{$9000}{$1000} \n {$1046}
+24
+{$1000}{$2000} \n {$107D}
+{$1000}{$2000} \n {$107D}
+12
+{$1000}{$2000} \n {$1069}
+{$1000}{$2000} \n {$1069}
+12
+{$1000}{$2000} \n {$104B}{$9000}{$1000} \n {$104B}{$9000}{$1000} \n {$104B}
+{$1000}{$2000} \n {$104B}{$9000}{$1000} \n {$104B}{$9000}{$1000} \n {$104B}
+36
+{$1000}{$2000} \n {$1023}
+{$1000}{$2000} \n {$1023}
+12
+{$1000}{$2000} \n {$106E}
+{$1000}{$2000} \n {$106E}
+12
+{$1000}{$2000} \n {$105A}
+{$1000}{$2000} \n {$105A}
+12
+{$1000}{$2000} \n {$1028}{$9000}{$1000} \n {$1078}
+{$1000}{$2000} \n {$1028}{$9000}{$1000} \n {$1078}
+24
+{$1000}{$2000} \n {$1064}
+{$1000}{$2000} \n {$1064}
+12
+{$1000}{$2000} \n {$102D}
+{$1000}{$2000} \n {$102D}
+12
+{$1000}{$2000} \n {$105F}
+{$1000}{$2000} \n {$105F}
+12
+{$1000}{$2000} \n {$1041}
+{$1000}{$2000} \n {$1041}
+12
