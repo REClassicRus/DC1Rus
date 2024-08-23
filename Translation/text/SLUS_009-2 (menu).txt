@@ -566,7 +566,7 @@ Strategy Room
 Оператив.штаб
 Control Room Hall
 ХоллКомнатыУправ.
-Control Room 1F
+Диспетчерская1F
 Комната управления 1F
 Main Entrance
 Главный вход

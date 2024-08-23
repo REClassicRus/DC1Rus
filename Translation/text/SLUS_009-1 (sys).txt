@@ -43,7 +43,7 @@ C
 {$1001}{$2000}There is data stored in the \nFingerprint Collecting Device.{$0100}{$9000}{$1001}Overwrite the data?\n{$0800}
 {$1001}{$2000}Есть данные в устройстве\nснятия отпечатков пальцев.{$0100}{$9000}{$1001}Переписать их?\n{$0800}
 {$1001}{$2000}Inventory full. There isn't enough\nspace to hold the 
-{$1001}{$2000}Инвентарь заполнен.\nНет места для 
+{$1001}{$2000}Инвентарь заполнен. Нет места для                  \n
 {$1001}{$2000}It has been locked with the\nDigital Disc Key(DDK).{$0100}{$9000}{$1001}You must check the device\nnext to the door, and set{$0100}{$9000}{$1001}the DDK device.
 {$1001}{$2000}Дверь закрыта электронным\nключом (ЭК).{$0100}{$9000}{$1001}Проверьте устройство рядом\nс дверью и установите ЭК.
 {$1001}{$2000}It is locked.
