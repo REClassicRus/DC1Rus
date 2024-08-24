@@ -2,7 +2,7 @@
 {$1001}{$2000}Ничего.
 34 251116
 {$1001}{$2000}Adding another gas to one with a \npoison level under 30 may \n{--}\nneutralize the gas.\n{--}\nRed gas neutralizes the poison in \nthe green gas.\n{--}\nBlue gas neutralizes the poison \nin the orange gas.\n{--}\nGreen gas neutralizes the poison \nin the purple gas.\n{--}\n...Remember these rules when \nmixing the gasses.
-{$1001}{$2000}Добавляя один газ к другому с\nуровнем ядовитости меньше 30\n{--}\nгаз можно нейтрализовать.\n{--}\nКрасный газ нейтрализует яд в\nзеленом газе.\n{--}\nСиний газ нейтрализует яд в\nоранжевом газе.\n{--}\nЗелёный газ нейтрализует яд в\nлиловом газе.\n{--}\nПомните эти правила при\nсмешивании газов.
+{$1001}{$2000}Добавляя один газ к другому с\nуровнем ядовитости меньше 30\n{--}\nгаз можно нейтрализовать.\n{--}\nКрасный газ нейтрализует яд в\nзелёном газе.\n{--}\nСиний газ нейтрализует яд в\nоранжевом газе.\n{--}\nЗелёный газ нейтрализует яд в\nлиловом газе.\n{--}\nПомните эти правила при\nсмешивании газов.
 592
 {$1001}{$2000}Filing cabinets. Minute books and \nfiles may be stored inside.
 {$1001}{$2000}Картотеки. Здесь могут храниться\nкниги протоколов и файлы.

@@ -2,13 +2,13 @@
 {$1001}Суперкомпьютер для этой\nкомнаты. Для всех проводимых\n{--}\nэкспериментов необходимо точное\nмоделирование.
 264 71132
 {$1001}These panels display/ record the \nworking conditions of the \n{--}\nsimulators.
-{$1001}На этих панелях\nотображаются данные{--}\nтренажёров.
+{$1001}На этих панелях\nотображаются данные{--}\nсимулятора.
 150
 {$1001}A computer used to analyze the \nresearch data. The locus of the \n{--}\nenergy efficiency is shown by \nthe three dimensional graph.
 {$1001}Компьютер для анализа\nнаучных данных. Кривая\n{--}\nэффективности отображена на\nтрех графиках.
 254
 {$1001}Possibly the power supply for \nthe simulators.
-{$1001}Вероятно, источник энергии\nтренажёров.
+{$1001}Вероятно, источник энергии\nсимуляторов.
 94
 {$1001}It looks like a doctor's journal. \nWill you read the file?\n                  {$0800}
 {$1001}Похоже на журнал доктора.\n{--}\nПрочитать файл?\n                  {$0800}
@@ -74,7 +74,7 @@ Now I can escape through the \nemergency hatch!
 {$1001}Люк для экстренной эвакуации.\nПрочно заперт\n{--}несколькими электронными\nзамками.
 184
 {$1001}Will you use the emergency \nevacuation hatch? {$0800}
-{$1001}Использовать люк эвакуации?\n{$0800}
+{$1001}Использовать люк\nэвакуации?{$0800}
 96
 {$1001}It's some kind of simulator.\n{--}\nThere are three switches\non the panel.\n{--}\n{$80AC}: Ignite the Third Energy circuit.\n{--}\n{$80AE}: Set the Initializer.\n{$80B0}: Set the Stabilizer.\n{--}\nWhich switch will you press?\n               {$80AC}   {$80AE}   {$80B0}   Cancel{$0802}
 {$1001}Это что-то вроде тренажёра\n{--}\nНа панели три переключателя.\n{--}\n1: Активировать контур 3-й Энергии\n{--}\n2: Установвить стартер.\n3: Уст. стабилизатор.\n{--}\nКакой переключатель нажать?\n     1   2   3  Отмена{$0802}

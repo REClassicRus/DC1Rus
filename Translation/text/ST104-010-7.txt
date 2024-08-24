@@ -1,8 +1,8 @@
 {$9000}\nSubject: Reinforcement of ID\nManagement\n\nEarlier in the week, there was\na case in which someone used\nthe terminal that rewrites the\nID Cards to gain unauthorized\naccess.\n\n{$9000}\nThis person acquired the\nfingerprint data from the\ncorpse of a staff member who\nhad died in the accident. \nHe forged the dead man's ID by\nusing the fingerprint data,\nand entered the laboratory\narea by way of elevator.\n\n{$9000}\nThe problem is that the\nFingerprint Collecting Device\ncan acquire usable fingerprint\ndata, even from a corpse.\nSince we will be having an\nexperiment today, there will\nbe many outsiders visiting\nthis facility.\n\n{$9000}\n\nWhen creating the ID Cards\nfor the guests, keep a careful\neye on the device.\n\n\n\n\n\n\n{$9000}
-{$9000}\nТема: Усиление охраны\n\nНа этой неделе кто-то\nвоспользовался терминалом\nзаписи личных карт\nдля получения\nнесанкционированного доступа.\n\n{$9000}\nЭтот человек взял\nотпечатки пальцев с трупа\nштатного служащего, погибшего\nот несчастного случая. \nОн подделал его карточку,\nиспользуя отпечатки,\nи проник в лабораторию\nчерез лифт.\n\n{$9000}\nПроблема в том, что\nустройство проверки отпечатков\nможет считывать их\nдаже с трупов.\nВ связи с планируемым на\nсегодня экспериментом,\nу нас будет\nмного гостей.\n\n{$9000}\n\nПри создании личных\nкарт для гостей, следите\nза устройством.\n\n\n\n\n\n\n{$9000}
+{$9000}\nТема: Усиление охраны\n\nНа этой неделе кто-то\nвоспользовался терминалом\nзаписи личных карт\nдля получения\nнесанкционированного доступа.\n\n{$9000}\nЭтот человек взял\nотпечатки пальцев с трупа\nштатного служащего, погибшего\nот несчастного случая. \nОн подделал карточку мертвеца,\nиспользуя отпечатки,\nи проник в лабораторию\nчерез лифт.\n\n{$9000}\nПроблема в том, что\nустройство проверки отпечатков\nможет считывать их\nдаже с трупов.\nВ связи с планируемым на\nсегодня экспериментом,\nу нас будет\nмного гостей.\n\n{$9000}\n\nПри создании личных\nкарт для гостей, следите\nза устройством.\n\n\n\n\n\n\n{$9000}
 1386 215848
 {$1001}{$2000}Data file for an operation\nmeeting.\n{--}\nWill you read the file?\n{$0800}
-{$1001}{$2000}Файл данных для встречи.\n{--}\nПрочитать файл?\n{$0800}
+{$1001}{$2000}Данные для оперативного\nсовещания.\n{--}\nПрочитать файл?\n{$0800}
 130
 {$1001}{$2000}A video simulation of the \nworldwide weapon positioning \n{--}\nplan.
 {$1001}{$2000}Видеоролик о размещении\nоружия по всему\n{--}\nмиру.
@@ -11,7 +11,7 @@
 {$1001}{$2000}Это похоже на снимки со\nспутников-шпионов.\n{--}\nОни показывают расположение\nоружия врагов.
 234
 {$1001}{$2000}This terminal keeps track of the \nsoldiers who are positioned in \n{--}\nthe facility.
-{$1001}{$2000}Терминал отслеживает\nперемещение солдат по\n{--}\nкомплексу.
+{$1001}{$2000}Терминал отслеживает\nперемещение солдат\n{--}\nпо комплексу.
 166
 {$1001}{$2000}The images displayed on the big \nscreen can also be seen on the \n{--}\ntable.
 {$1001}{$2000}Изображения на большом экране\nтакже можно просмотреть на столе.
@@ -20,5 +20,5 @@
 {$1001}{$2000}Эти машины управляют\nразными тактическими\n{--}\nмоделями.   
 156
 {$1001}{$2000}The computer screen indicates \nidle status.
-{$1001}{$2000}Экран показывает, что компьютер\nзавис.
+{$1001}{$2000}Экран показывает, что\nкомпьютер завис.
 90

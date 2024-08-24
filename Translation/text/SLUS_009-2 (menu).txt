@@ -1,4 +1,4 @@
-Shotgun
+Дробов.
 PA3
 Shotgun Model PA3
 Дробовик PA3
@@ -22,7 +22,7 @@ The SPAS12 is fitted with\a stock.
 Дробовик SPAS12 с прикладом.\
 This rig couples\increased stopping\power with rapid\fire capability.
 Такая модификация\обладает высокой\убойностью и\частотой огня.
-Handgun
+Пистол.
 Glock 34
 Glock 34. Easier handling\but modest stopping power.
 Пистолет Глок 34. Обладает\небольшой убойной силой.
@@ -34,7 +34,7 @@ The Glock 34 is equipped\with special sights.
 Глок 34, оснащён\специальным прицелом.
 Critical hit\probability is\increased.
 Есть шанс нанести\серьёзный урон.
-Handgun Custom
+Особый пистол.
 Glock 35
 Glock 35. The 40S&W\Bullets are usable.
 Особый Глок. Использует\патроны .40S&W.
@@ -203,7 +203,7 @@ Multiplier
 Mixing this with\another medicine\will allow you to\multiply that item.
 Удваивает количество\любого вещества.
 Plug
-Шткр (Переходник)
+Прхд (Переходник)
 Used to open the emergency\boxes.
 Для открытия аварийных\ящиков.
 Used for red, green\and yellow boxes.\Multiple plugs may\be necessary.
