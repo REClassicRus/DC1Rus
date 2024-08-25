@@ -681,11 +681,11 @@ Parts Storage
 Passageway
 Коридор
 Third Energy Area B2
-Зона Трет.Энергии B2
+Зона 3-й Энергии B2
 Third Energy Area B3
-Зона Трет.Энергии B3
+Зона 3-й Энергии B3
 Third Energy Control Room
-Комн. управ.Трет.Энергией
+Диспетчерская 3-й Энергии
 Power Freq. Room
 Энергетич. зал
 Passageway to Personal Lab

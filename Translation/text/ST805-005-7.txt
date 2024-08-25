@@ -20,19 +20,19 @@
 {$1001}{$2000}Журналы на полках.\nВидимо, они принадлежат учёным.
 130
 {$1001}{$2000}A bed equipped with a low \ntemperature retaining system. \n{--}\nYou can use it to refresh \nyourself with a brief nap.
-{$1001}{$2000}Кровать с системой\nподдержания низкой температуры.\n{--}\nМожно воспользоваться\nей и немного вздремнуть.
+{$1001}{$2000}Кровать с системой поддер-\nжания низкой температуры.\n{--}\nМожно воспользоваться\nей и немного вздремнуть.
 230
 {$1001}{$2000}White coats for the researchers. \nThey've been worn out.
 {$1001}{$2000}Белые халаты учёных.\nОни все изношенные.
 116
 {$1001}{$2000}The personal belongings of the \nresearchers. Nothing useful.
-{$1001}{$2000}Личные вещи ученых.\nНичего полезного.
+{$1001}{$2000}Личные вещи учёных.\nНичего полезного.
 124
 {$1001}{$2000}Cardboard boxes are on the \nshelf. Nothing useful.
 {$1001}{$2000}Картонные коробки на полке.\nНичего полезного.
 104
 {$1001}{$2000}The personal belongings of the \nresearchers and the broken \n{--}\ninstruments used in the \nexperiment.
-{$1001}{$2000}Личные вещи ученых и сломанные\nинструменты, используемые\n{--}\nв эксперименте.
+{$1001}{$2000}Вещи учёных и сломанные\nинструменты, используемые\n{--}\nв эксперименте.
 200
 {$1001}{$2000}A notice is posted. "Be sure to \nmake the bed after using it."
 {$1001}{$2000}"Не забудьте заправить постель,\nпосле её использования".

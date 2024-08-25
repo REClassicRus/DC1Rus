@@ -62,7 +62,7 @@
 {$1001}{$2000}Панель управления следящим\nустройством.
 92
 {$1001}{$2000}Her throat has been crushed.
-{$1001}{$2000}У нее перебито горло.
+{$1001}{$2000}Её шея была разорвана.
 60
 {$1001}{$2000}The names of the people who \nhave entered this room
 {$1001}{$2000}Имена людей, входивших в\nэту комнату.
@@ -98,7 +98,7 @@
 {$1001}{$2000}Файл с записками. \n{--}\nПрочитать его?{$0800}
 110
 {$9000}Since we are going to move the\nexperimental Generator outside\ntoday, we expect to see \nexternal staff within the test\narea.\nAs a final reminder, if the\n"overload" occurs in this\nlaboratory, it will mean the\nobliteration of the entire\nfacility.\n{$0100}{$9000}If you don't want to be\nevaporated, guard the area\nwith extreme caution today.\nThe staff has been working\ndouble overtime recently.\nDr. Kirk in particular has\nlocked himself in his private\nquarters for nearly a week.\nNobody has seen him.\n{$0100}{$9000}Take good care of the\nresearchers and remember\nthat the experiment's success\ndepends upon their ability\nto think.\nRecently the credibility gap of\nDr. Kirk has been varied among\nthe staff.\n{$0100}{$9000}Keep your eyes on the ID\nRewriting Device here to\nprevent illicit use.\nThere has been an instance of\nsomeone abusing the Rewriting\nDevice on the first floor.\nKeep your eyes open.\n{$9000}
-{$9000}В связи с тем, что мы хотим\nпереместить экспериментальный\nгенератор наружу, весь персонал\nдолжен находиться в тестовой\nзоне.\nПоследнее напоминание, если\nперегрузка случится в этой\nлаборатории, весь комплекс\nбудет стерт с лица земли.\n{$0100}{$9000}Если вы не хотите испариться,\nмаксимально тщательно охраняйте\nтерриторию.\nПерсонал работает с двойной\nнагрузкой последнее время.\nД-р Кирк вообще заперся у себя\nи сидит там уже неделю.\nНикто его не видел.\n{$0100}{$9000}Позаботьтесь об этих\nученых и помните, что успех\nэксперимента зависит от их\nспособности думать.\nВ последнее время среди них\nбродит недоверие к доктору\nКирку.\n{$0100}{$9000}Присматривайте за устройством\nпереписывания, чтобы избежать\nпротивозаконного доступа.\nБыл прецедент нелегального\nиспользования устройства\nперезаписи.\nБудьте бдительны.\n{$9000}
+{$9000}В связи с тем, что мы хотим\nпереместить экспериментальный\nгенератор наружу, весь персонал\nдолжен находиться в тестовой\nзоне.\nПоследнее напоминание, если\nперегрузка случится в этой\nлаборатории, весь комплекс\nбудет стерт с лица земли.\n{$0100}{$9000}Если вы не хотите испариться,\nмаксимально тщательно охраняйте\nтерриторию.\nПерсонал работает с двойной\nнагрузкой последнее время.\nДок.Кирк вообще заперся у себя\nи сидит там уже неделю.\nНикто его не видел.\n{$0100}{$9000}Позаботьтесь об этих\nучёных и помните, что успех\nэксперимента зависит от их\nспособности думать.\nВ последнее время среди них\nбродит недоверие к доктору\nКирку.\n{$0100}{$9000}Присматривайте за устройством\nпереписывания, чтобы избежать\nпротивозаконного доступа.\nБыл прецедент нелегального\nиспользования устройства\nперезаписи.\nБудьте бдительны.\n{$9000}
 1714
 {$1001}{$2000}The control panel for the alarm \ndevice.\n{--}\nWill you deactivate the alarm?{$0800}
 {$1001}{$2000}Панель управления\nсигнализацией. \n{--}\nОтключить сигнализацию?{$0800}
