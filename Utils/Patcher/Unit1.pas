@@ -16,7 +16,7 @@ type
     SizeSecondLineLbl: TLabel;
     PathEdt: TEdit;
     ListBox1: TListBox;
-    Button3: TButton;
+    RefreshBtn: TButton;
     ListBox2: TListBox;
     ToHexBtn: TButton;
     FileNameEdt: TEdit;
@@ -36,7 +36,7 @@ type
     procedure FormCreate(Sender: TObject);
     procedure Button1Click(Sender: TObject);
     procedure OwnLineEditChange(Sender: TObject);
-    procedure Button3Click(Sender: TObject);
+    procedure RefreshBtnClick(Sender: TObject);
     procedure ListBox1Click(Sender: TObject);
     procedure ListBox2Click(Sender: TObject);
     procedure ToHexBtnClick(Sender: TObject);
@@ -72,6 +72,8 @@ var
 
   TempBufStr1, TempBufStr2: string;
   StrLine1, StrLine2: string;
+
+  OSLang: string;
 
 implementation
 
@@ -120,6 +122,15 @@ begin
   Result := OutputString;
 end;
 
+function GetLang: string;
+var
+  pcLCA: array [0..20] of Char;
+begin
+  if GetLocaleInfo(LOCALE_SYSTEM_DEFAULT, LOCALE_SENGLANGUAGE, pcLCA, 19) <= 0 then
+    pcLCA[0]:=#0;
+  Result:=pcLCA;
+end;
+
 procedure TMain.FormCreate(Sender: TObject);
 var
   Ini: TIniFile;
@@ -127,8 +138,6 @@ var
   i: integer;
   LastFile: string;
 begin
-  Application.Title:=Caption;
-
   TableRead:=TStringList.Create;
   TableWrite:=TStringList.Create;
   Ini:=TIniFile.Create(ExtractFilePath(ParamStr(0)) + 'Config.ini');
@@ -138,13 +147,31 @@ begin
   LastFile:=Ini.ReadString('Main', 'LastFile', '');
   Ini.Free;
 
-  Button3.Click;
+  RefreshBtn.Click;
 
   for i:=0 to ListBox1.Items.Count - 1 do
     if LastFile = ListBox1.Items.Strings[i] then begin
       ListBox1.ItemIndex:=i;
       break;
     end;
+
+  OSLang:=GetLang;
+
+  if OSLang <> 'Russian' then begin
+    Caption:='Translation Dino Crisis';
+    RefreshBtn.Caption:='Refresh';
+    CopyBtn.Caption:='Copy';
+    CopyHexBtn.Caption:='Copy Hex';
+    ReturnStrsBtn.Caption:='Return';
+    SaveStrsBtn.Caption:='Save';
+    ReturnStrs2Btn.Caption:='Restore';
+    ToHexBtn.Caption:='To Hex';
+    CopyBtn2.Caption:=CopyBtn.Caption;
+    RemSpaces.Caption:='Remove spaces';
+    AddSpaces.Caption:='Add spaces';
+  end;
+
+  Application.Title:=Caption;
 
   ListBox1Click(Sender);
 end;
@@ -192,7 +219,14 @@ begin
         break;
       end;
     end;
-    if NotFound then ShowMessage('Буква не найдена во ReadTable: ' + Str[i]);
+
+
+    if NotFound then
+      if OSLang = 'Russian' then
+        ShowMessage('Буква не найдена во ReadTable: ' + Str[i])
+      else
+        ShowMessage('Letter not found in ReadTable: ' + Str[i]);
+
   end;
 end;
 
@@ -215,7 +249,12 @@ begin
         break;
       end;
     end;
-    if NotFound then ShowMessage('Буква не найдена во WriteTable: ' + Str[i]);
+
+    if NotFound then
+      if OSLang = 'Russian' then
+        ShowMessage('Буква не найдена во WriteTable: ' + Str[i])
+      else
+        ShowMessage('Letter not found in WriteTable: ' + Str[i]);
   end;
 end;
 
@@ -268,7 +307,10 @@ end;
 
 procedure TMain.Button2Click(Sender: TObject);
 begin
-  MessageBox(0, 'Версия программы: 23.08.24', 'Патчер', MB_ICONINFORMATION);
+  if OSLang = 'Russian' then
+    MessageBox(0, 'Версия программы: 27.11.24' + #13#10 + 'Автор: CasperPRO', 'Патчер', MB_ICONINFORMATION)
+  else
+    MessageBox(0, 'Version: 27.11.24' + #13#10 + 'Author: CasperPRO', 'Patcher', MB_ICONINFORMATION);
 end;
 
 
@@ -281,16 +323,22 @@ procedure TMain.CheckSameLines;
 begin
   if Length(OriginalLineEdit.Text) <> Length(OwnLineEdit.Text) then begin
     Label1.Font.Color:=clRed;
-    Label1.Caption:='Строки разные';
+    if OSLang = 'Russian' then
+      Label1.Caption:='Строки разные'
+    else
+      Label1.Caption:='The lines are different';
   end else begin
     Label1.Font.Color:=clGreen;
-    Label1.Caption:='Строки одинаковые';
+    if OSLang = 'Russian' then
+      Label1.Caption:='Строки одинаковые'
+    else
+      Label1.Caption:='The lines are the same';
   end;
   SizeFirstLineLbl.Caption:=IntToStr(Length(OriginalLineEdit.Text));
   SizeSecondLineLbl.Caption:=IntToStr(Length(OwnLineEdit.Text));
 end;
 
-procedure TMain.Button3Click(Sender: TObject);
+procedure TMain.RefreshBtnClick(Sender: TObject);
 var
   SR: TSearchRec; i: integer; Dir: string;
 begin
@@ -340,7 +388,11 @@ begin
   ListBox2.Items.Text:=LoadTextFile(PathEdt.Text + ListBox1.Items.Strings[ListBox1.ItemIndex]);
   FileNameEdt.Text:=ListBox1.Items.Strings[ListBox1.ItemIndex];
   ProgressBar1.Position:=ListBox1.ItemIndex;
-  Caption:='Перевод Dino Crisis ' + FloatToStr((ListBox1.ItemIndex + 1) * 100 div ListBox1.Items.Count) + '%';
+  if OSLang = 'Russian' then
+    Caption:='Перевод Dino Crisis '
+  else
+    Caption:='Translation Dino Crisis ';
+  Caption:=Caption + FloatToStr((ListBox1.ItemIndex + 1) * 100 div ListBox1.Items.Count) + '%';
 end;
 
 procedure TMain.ListBox2Click(Sender: TObject);
@@ -353,10 +405,17 @@ begin
 
   ListBox2.Items.Strings[ListBox2.ItemIndex]:=StringReplace(ListBox2.Items.Strings[ListBox2.ItemIndex], '{--}', '/', [rfReplaceAll]);
   if Pos('/', ListBox2.Items.Strings[ListBox2.ItemIndex]) > 0 then begin
-    Label2.Caption:='Ручное редактирование';
+    if OSLang = 'Russian' then
+      Label2.Caption:='Ручное редактирование'
+    else
+      Label2.Caption:='Manual editing';
+
     Label2.Font.Color:=clRed;
   end else begin
-    Label2.Caption:='Авто вставка';
+    if OSLang = 'Russian' then
+      Label2.Caption:='Авто вставка'
+    else
+      Label2.Caption:='Auto insert';
     Label2.Font.Color:=clGreen;
   end;
 

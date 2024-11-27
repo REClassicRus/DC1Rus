@@ -4,8 +4,8 @@ object Main: TMain
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
   Caption = #1055#1077#1088#1077#1074#1086#1076' Dino Crisis'
-  ClientHeight = 472
-  ClientWidth = 839
+  ClientHeight = 470
+  ClientWidth = 831
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -95,14 +95,14 @@ object Main: TMain
     TabOrder = 4
     OnClick = ListBox1Click
   end
-  object Button3: TButton
+  object RefreshBtn: TButton
     Left = 719
     Top = 7
     Width = 75
     Height = 25
     Caption = #1054#1073#1085#1086#1074#1080#1090#1100
     TabOrder = 5
-    OnClick = Button3Click
+    OnClick = RefreshBtnClick
   end
   object ListBox2: TListBox
     Left = 184
