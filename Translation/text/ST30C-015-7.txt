@@ -140,7 +140,7 @@
 {$1001}{$2000}Это руководство по\nиспользованию крана.\n{--}\nПрочитать инструкцию?{$0800}
 160
 {$9000}\nHow to use the fully automatic\ncontrol card operated crane:\n\nThe crane will execute its\noperations in the order of\nthe control cards specified\non the program screen.\n{$9000}\n\nThe crane will initiate its\noperations once all the cards\nare set and "START" is\nselected.\n{$9000}\nDuring the operation, even\nif there are errors in the\nprogram, those errors will be\nautomatically adjusted by the\ncomputer. Thus, there is no\npossibility of any kind of\naccident occurring.\n{$9000}
-{$9000}\nКак использовать автоматический\nкран:\n\nКран работает в порядке,\nустановленном управляющими\nкартами, показанными на экране\nпрограммы.\n{$9000}\n\nКран начинает работать когда\nустановлены все карточки и\nвыбрана команда "Старт".\n{$9000}\nВо время работы, при обнаружении\nв программе ошибок, они \nавтоматически исправляются\nкомпьютером. Благодаря этому\nисключаются несчастные случаи.\n{$9000}
+{$9000}\nКак использовать автоматический\nкран:\n\nКран работает в порядке,\nустановленном управляющими\nкартами, показанными на экране\nпрограммы.\n{$9000}\n\nКран начинает работать когда\nустановлены все карточки и\nвыбрана команда “Старт".\n{$9000}\nВо время работы, при обнаружении\nв программе ошибок, они \nавтоматически исправляются\nкомпьютером. Благодаря этому\nисключаются несчастные случаи.\n{$9000}
 908
 {$1001}{$2000}It cannot be operated since it is \nnot powered.
 {$1001}{$2000}Он не работает, так как\nотсутствует питание.
@@ -155,5 +155,5 @@
 {$1001}{$2000}Для работы с краном нужна \nкарточка управления.
 102
 {$1001}{$2000}He is nursing Tom.
-{$1001}{$2000}Он следит за Томом
+{$1001}{$2000}За ним присмотрят.
 40
