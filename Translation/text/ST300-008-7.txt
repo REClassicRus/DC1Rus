@@ -14,7 +14,7 @@
 {$1001}Похоже на журнал доктора.\n{--}\nПрочитать файл?\n                  {$0800}
 158
 {$9000}\nIt is easy to unleash any kind\nof power. The real task is\nkeeping the power under\ncontrol. The improvement of\nthe "Initializer" ignition\ndevice has enhanced energy\nefficiency to the maximum.\n{$9000}\nDespite that progress, we have\nbeen unable to advance the\ndevelopment of the "Stabilizer"\nsafety valve since the accident\nthat happened three years ago.\nThe "Third Energy Theory"\nwill surely alter human\nhistory drastically.{$9000}\nBut as long as there is an\nuncertain element regarding\nthe control of this power,\neven if it is only 0.1% of a\nprobability, my work will be \nnothing but a terrible failure.\n{$9000}\nThe restraining power of the\n"Stabilizer" we used in\ntonight's experiment was\ninsufficient. The area\naffected by the excess energy\nis estimated to be a radius of\n3,300 feet.\n{$9000}\nThe result of tonight's\nexperiment may please\nthe military people in a sense.\nThe giant creatures that\nemerged just after the\nexperiment have given me much\ninspiration.\n{$9000}\nThe most important thing to do\nright now is to leave here safely.\nAs soon as I finish analyzing\nthe data, I'll evacuate via\nthe bottom floor. \n \n \n \n \n{$9000}
-{$9000}\nНесложно высвободить любой тип\nэнергии. Реальная проблема -\nудержать контроль над ней.\nУлучшение зажигания "Стартера"\nувеличило выход энергии до\nмаксимума.\n{$9000}\nНесмотря на такой прогресс, нам\nне удалось усовершенствовать\nпредохранительный клапан\n"стабилизатора" с тех пор, как\nпроизошла катастрофа.\n"Теория Третьей Энергии"\nдолжна кардинально изменить\nисторию человечества.{$9000}\nНо до тех пор, пока остается\nнерешенным вопрос об управлении\nэтой энергией, даже с\nвероятностью 0.1% моя работа\nбудет ничем иным, как ужасным\nпровалом.\n{$9000}\nВыход энергии "Стабилизатора",\nкоторый мы использовали сегодня,\nбыл недостаточным. Зона,\nохваченная выходом лишней\nэнергии, имеет примерный радиус\nв 1 км.\n{$9000}\nРезультат сегодняшнего\nэксперимента может сильно\nпонравиться военным.\nГигантские существа,\nпоявившиеся сразу после\nэксперимента, сильно\nвпечатлили нас.\n{$9000}\nСамое важное сейчас -\nбезопасно покинуть это место.\nПосле того, как я закончу\nанализ, я уйду через нижний\nэтаж.\n \n \n \n \n{$9000}
+{$9000}\nНесложно высвободить любой тип\nэнергии. Реальная проблема -\nудержать контроль над ней.\nУлучшение зажигания "Стартера"\nувеличило выход энергии до\nмаксимума.\n{$9000}\nНесмотря на такой прогресс, нам\nне удалось усовершенствовать\nпредохранительный клапан\n"стабилизатора" с тех пор, как\nпроизошла катастрофа.\n"Теория Третьей Энергии"\nдолжна кардинально изменить\nисторию человечества.{$9000}\nНо до тех пор, пока остается\nнерешенным вопрос об управлении\nэтой энергией, даже с\nвероятностью 0.1% моя работа\nбудет ничем иным, как ужасным\nпровалом.\n{$9000}\nВыход энергии "Стабилизатора",\nкоторый мы использовали сегодня,\nбыл недостаточным. Зона, охваченная выходом\nлишней энергии, имеет\nпримерный радиус\nв 1 киллометр. \n{$9000}\nРезультат сегодняшнего\nэксперимента может сильно\nпонравиться военным.\nГигантские существа,\nпоявившиеся сразу после\nэксперимента, сильно\nвпечатлили нас.\n{$9000}\nСамое важное сейчас -\nбезопасно покинуть это место.\nПосле того, как я закончу\nанализ, я уйду через нижний\nэтаж.\n \n \n \n \n{$9000}
 2188
 {$1000} \n {$1046}
 {$1000} \n {$1046}
@@ -77,7 +77,7 @@ Now I can escape through the \nemergency hatch!
 {$1001}Использовать люк\nэвакуации?{$0800}
 96
 {$1001}It's some kind of simulator.\n{--}\nThere are three switches\non the panel.\n{--}\n{$80AC}: Ignite the Third Energy circuit.\n{--}\n{$80AE}: Set the Initializer.\n{$80B0}: Set the Stabilizer.\n{--}\nWhich switch will you press?\n               {$80AC}   {$80AE}   {$80B0}   Cancel{$0802}
-{$1001}Это что-то вроде тренажёра\n{--}\nНа панели три переключателя.\n{--}\n1: Активировать контур 3-й Энергии\n{--}\n2: Установвить стартер.\n3: Уст. стабилизатор.\n{--}\nКакой переключатель нажать?\n     1   2   3  Отмена{$0802}
+{$1001}Это что-то вроде тренажёра\n{--}\nНа панели три переключателя.\n{--}\n1: Активировать контур 3-й Энергии\n{--}\n2: Установить стартер.\n3: Уст. стабилизатор.\n{--}\nКакой переключатель нажать?\n     1   2   3  Отмена{$0802}
 446
 {$1001}The Initializer has been set.
 {$1001}Стартер установлен.
@@ -89,7 +89,7 @@ Now I can escape through the \nemergency hatch!
 {$1001}Вилка стартера не\nподключена.
 98
 {$1001}Under the current circumstances, \nthe Third Energy reaction will \n{--}\nexceed the overflow limit. The \nsystem cannot be started.
-{$1001}В текущих условиях, реакция\nТретьей Энергии превысит\n{--}\nпредел нагрузки.\nСистема запущена не будет.
+{$1001}В текущих условиях, реакция\nТретьей Энергии превысит\n{--}\nпредел нагрузки. Система\nзапущена не будет.
 252
 {$1001}Because there's not enough \nenergy for the simulation, the \n{--}\nsystem cannot be started.
 {$1001}В связи с недостаточным\nколичеством энергии,\n{--}\nсистема не запустится.
